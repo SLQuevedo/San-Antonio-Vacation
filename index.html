@@ -2,29 +2,48 @@
 <html lang="en">
 
 <head>
-  <meta charset="utf-8">
-  <title>Airports</title>
-
-  <!-- Leaflet CSS -->
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
-    integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
-    crossorigin="" />
-
-  <!-- Leaflet JavaScript code -->
-  <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
-    integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
-    crossorigin=""></script>
-
-  <!-- Our CSS -->
-  <link rel="stylesheet" type="text/css" href="style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Vacation Flights</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 </head>
 
 <body>
-  <!-- The div where we'll insert our map -->
-  <div id="map"></div>
 
-  <!-- JavaScript file -->
-  <script type="text/javascript" src="logic.js"></script>
+  <div class="container">
+    <div class="row bg-dark">
+      <div class="col-md-12 jumbotron text-center" style= "background-image: url(https://s28477.pcdn.co/wp-content/uploads/2018/06/SAT_1-984x554.jpg)">
+        <h1 style="font-size: 6rem; color: #f3fb00">Vacation Away from the Alamo City</h1>
+        <p style="font-size: 3rem; color: #f3fb00">Use the interactive charts below to explore destination</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-2">
+        <div class="well">
+          <h5>Select Destination:</h5>
+          <select id="selDataset" onchange="optionChanged(this.value)"></select>
+        </div>
+      </div>
+      <div class="col-md-5">
+        <div id="bar"></div>
+      </div>
+      <div class="col-md-5">
+        <div id="gauge"></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <div id="bubble"></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src=https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.9.1/chart.min.js></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="airports.json"></script>
+  
 </body>
 
 </html>
