@@ -596,6 +596,23 @@
     ],
     [
         {
+            "GMT": "-6",
+            "airportId": "XXXX",
+            "codeIataAirport": "SAT",
+            "codeIataCity": "SAT",
+            "codeIcaoAirport": "KSAT",
+            "codeIso2Country": "US",
+            "geonameId": "XXXXXXX",
+            "latitudeAirport": 29.5339583,
+            "longitudeAirport": -98.4690569,
+            "nameAirport": "San Antonio International Airport",
+            "nameCountry": "United States",
+            "phone": "210-805-5583",
+            "timezone": "America/Chicago"
+        }
+    ],
+    [
+        {
             "GMT": "-8",
             "airportId": 7038,
             "codeIataAirport": "SFO",
