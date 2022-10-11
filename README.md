@@ -4,6 +4,8 @@
 Group Members: Sierra Gomez, Sierra Quevedo, Paul Serna ,and Aaron DeVore. 
 
 Languages used: Python, HTML, CSS, JavaScript 
+
+
 Libraries used: Pandas, Chart.JS, BeautifulSoup, ChromeDriverManager 
 
 
