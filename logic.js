@@ -541,3 +541,7 @@ for (var i = 0; i < Data.length; i++) {
     .bindPopup(`<h1>${airport.nameAirport}</h1> <hr> <h3>Airport Code: ${airport.codeIataAirport}</h3>`)
     .addTo(myMap);
 }
+
+
+//San Antonio Marker
+  L.marker([29.5312, -98.4683]).bindPopup(`<h1>San Antonio International Airport</h1> <hr> <h3>Airport Code:SAT</h3>`).addTo(myMap);
