@@ -161,28 +161,1380 @@
 159,Courtyard by Marriott San Diego Airport/Liberty Station,4.5,"2592 Laning Road, San Diego",SAN,ChIJgzar2Air3oARtNzkgMUEko8
 160,La Quinta Inn & Suites by Wyndham San Diego Old Town/Airport,4,"2380 Moore Street, San Diego",SAN,ChIJUbzGhN-q3oARzfsh-dL45yc
 161,Fairfield Inn & Suites by Marriott San Diego Old Town,4.2,"3900 Old Town Avenue, San Diego",SAN,ChIJiZnBoSCr3oARGXDO-NgF9q8
-162,"Sfo Airport Hotel, El Rancho Inn, BW Signature Collection",4.1,"1100 El Camino Real, Millbrae",SFO,ChIJwf_keZ93j4ARXnyhPd_snMw
-163,Hotel 1550,4,"1550 El Camino Real, San Bruno",SFO,ChIJK2TBOXZ3j4AR0GcBlSQsOY4
-164,The Millwood - A Boutique Hotel,4.3,"1375 El Camino Real, Millbrae",SFO,ChIJBWjaH553j4ARUA_jMvWQ_Mk
-165,Fairfield Inn & Suites by Marriott San Francisco Airport/Millbrae,4,"250 El Camino Real, Millbrae",SFO,ChIJWbk5MqV3j4ARAe6duVmddx8
-166,Hotel Aura,4.3,"190 El Camino Real, San Bruno",SFO,ChIJZ4zb8nt3j4ARZA9zjTiRfIU
-167,Hilton Seattle Airport & Conference Center,4,"17620 International Boulevard, Seattle",SEA,ChIJvcyZA6xckFQRdOePznHCxns
-168,Radisson Hotel Seattle Airport,4.1,"18118 International Boulevard, Seattle",SEA,ChIJU46tiahckFQRXtt6bjMdi60
-169,Seattle Airport Marriott,4.2,"3201 South 176th Street, Seattle",SEA,ChIJq62dVa5ckFQRlC164bJxLUw
-170,Red Roof Inn Seattle Airport - SEATAC,3.6,"16838 International Boulevard, Seattle",SEA,ChIJXQaeV01DkFQR96eEyUW5L8s
-171,La Quinta Inn & Suites by Wyndham Seattle Sea-Tac Airport,3.9,"2824 South 188th Street, Seattle",SEA,ChIJrU386FhbkFQRj8xo7Kneums
-172,Drury Inn & Suites St. Louis Airport,4.5,"10490 Natural Bridge Road, St. Louis",STL,ChIJg-2svac234cRfvo0xrYviO0
-173,Hilton St. Louis Airport,3.8,"10330 Natural Bridge Road, St. Louis",STL,ChIJqXUrER4034cRFjDf-lygnrw
-174,Quality Inn Airport,2.9,"10232 Natural Bridge Road, St. Louis",STL,ChIJyRw2xx8034cRnaBs4tIW1jY
-175,"Crowne Plaza St. Louis Airport, an IHG Hotel",3.9,"11228 Lone Eagle Drive, Bridgeton",STL,ChIJb6akrWYx34cRlc4u8rSZ6OY
-176,Super 8 by Wyndham St. Louis Airport,2.8,"9798 Saint Charles Rock Road, Breckenridge Hills",STL,ChIJ9xlFFQk034cRD6bjOrzUZCI
-177,Grand Hyatt Tampa Bay,4.5,"2900 Bayport Drive, Tampa",TPA,ChIJoaNvaGPCwogRa7EVtzV5nd8
-178,Renaissance Tampa International Plaza Hotel,4.5,"4200 Jim Walter Boulevard, Tampa",TPA,ChIJc4_gvVLCwogRcMKGyflqumU
-179,Tampa Airport Marriott,4.4,"Tampa International Airport, 4200 George J Bean Parkway, Tampa",TPA,ChIJQ0Sek0bCwogRpIIFHoyDJAs
-180,Hilton Garden Inn Tampa Airport Westshore,4.4,"5312 Avion Park Drive, Tampa",TPA,ChIJ9fwTv1jCwogRLxo1ERokfrY
-181,La Quinta Inn by Wyndham Tampa Bay Airport,3.1,"4730 West Spruce Street, Tampa",TPA,ChIJeXfQ9lbCwogROB-w_011tmQ
-182,Washington Dulles Airport Marriott,4,"45020 Aviation Drive, Dulles",WAS,ChIJK87f1INHtokR8V-p_sIlSCc
-183,The Westin Washington Dulles Airport,4.2,"2520 Wasser Terrace, Herndon",WAS,ChIJ3ZQHkXZHtokR0exa1cY04BY
-184,"Candlewood Suites Washington-Dulles Herndon, an IHG Hotel",4,"13845 Sunrise Valley Drive, Herndon",WAS,ChIJIY5UmHVHtokRbH1F9nyGPFY
-185,Hyatt Regency Dulles,4.2,"2300 Dulles Corner Boulevard, Herndon",WAS,ChIJQUumvYJHtokRz1JgP9NRqWg
-186,Hyatt Place Herndon/Dulles Airport-East,4.1,"13711 Sayward Boulevard, Herndon",WAS,ChIJFd4YKZ1HtokRsrQ3BOMseMM
+162,Embassy Suites by Hilton San Antonio Airport,4.3,"10110 U.S. 281, San Antonio",SAT,ChIJZYtR8KeKXIYR7Kvg0ip6Y5Q
+163,Hilton Garden Inn San Antonio Airport South,4.1,"8505 Broadway, San Antonio",SAT,ChIJbaxwxUr1XIYRK5FMJRFxgSc
+164,La Quinta Inn & Suites by Wyndham San Antonio Airport,4,"850 Halm Boulevard, San Antonio",SAT,ChIJ-TCOMauKXIYR2co_TdsQgOc
+165,"Holiday Inn Express San Antonio-Airport, an IHG Hotel",4.5,"91 Northeast Interstate 410 Loop, San Antonio",SAT,ChIJz6RWuAFgXIYRgPrmRhQJ4WY
+166,Fairfield Inn & Suites by Marriott San Antonio Airport/North Star Mall,3.9,"88 Northeast Interstate 410 Loop, San Antonio",SAT,ChIJoRp0kABgXIYR4bqZfJGJ2eM
+167,"Sfo Airport Hotel, El Rancho Inn, BW Signature Collection",4.1,"1100 El Camino Real, Millbrae",SFO,ChIJwf_keZ93j4ARXnyhPd_snMw
+168,Hotel 1550,4,"1550 El Camino Real, San Bruno",SFO,ChIJK2TBOXZ3j4AR0GcBlSQsOY4
+169,The Millwood - A Boutique Hotel,4.3,"1375 El Camino Real, Millbrae",SFO,ChIJBWjaH553j4ARUA_jMvWQ_Mk
+170,Fairfield Inn & Suites by Marriott San Francisco Airport/Millbrae,4,"250 El Camino Real, Millbrae",SFO,ChIJWbk5MqV3j4ARAe6duVmddx8
+171,Hotel Aura,4.3,"190 El Camino Real, San Bruno",SFO,ChIJZ4zb8nt3j4ARZA9zjTiRfIU
+172,Hilton Seattle Airport & Conference Center,4,"17620 International Boulevard, Seattle",SEA,ChIJvcyZA6xckFQRdOePznHCxns
+173,Radisson Hotel Seattle Airport,4.1,"18118 International Boulevard, Seattle",SEA,ChIJU46tiahckFQRXtt6bjMdi60
+174,Seattle Airport Marriott,4.2,"3201 South 176th Street, Seattle",SEA,ChIJq62dVa5ckFQRlC164bJxLUw
+175,Red Roof Inn Seattle Airport - SEATAC,3.6,"16838 International Boulevard, Seattle",SEA,ChIJXQaeV01DkFQR96eEyUW5L8s
+176,La Quinta Inn & Suites by Wyndham Seattle Sea-Tac Airport,3.9,"2824 South 188th Street, Seattle",SEA,ChIJrU386FhbkFQRj8xo7Kneums
+177,Drury Inn & Suites St. Louis Airport,4.5,"10490 Natural Bridge Road, St. Louis",STL,ChIJg-2svac234cRfvo0xrYviO0
+178,Hilton St. Louis Airport,3.8,"10330 Natural Bridge Road, St. Louis",STL,ChIJqXUrER4034cRFjDf-lygnrw
+179,Quality Inn Airport,2.9,"10232 Natural Bridge Road, St. Louis",STL,ChIJyRw2xx8034cRnaBs4tIW1jY
+180,"Crowne Plaza St. Louis Airport, an IHG Hotel",3.9,"11228 Lone Eagle Drive, Bridgeton",STL,ChIJb6akrWYx34cRlc4u8rSZ6OY
+181,Super 8 by Wyndham St. Louis Airport,2.8,"9798 Saint Charles Rock Road, Breckenridge Hills",STL,ChIJ9xlFFQk034cRD6bjOrzUZCI
+182,Grand Hyatt Tampa Bay,4.5,"2900 Bayport Drive, Tampa",TPA,ChIJoaNvaGPCwogRa7EVtzV5nd8
+183,Renaissance Tampa International Plaza Hotel,4.5,"4200 Jim Walter Boulevard, Tampa",TPA,ChIJc4_gvVLCwogRcMKGyflqumU
+184,Tampa Airport Marriott,4.4,"Tampa International Airport, 4200 George J Bean Parkway, Tampa",TPA,ChIJQ0Sek0bCwogRpIIFHoyDJAs
+185,Hilton Garden Inn Tampa Airport Westshore,4.4,"5312 Avion Park Drive, Tampa",TPA,ChIJ9fwTv1jCwogRLxo1ERokfrY
+186,La Quinta Inn by Wyndham Tampa Bay Airport,3.1,"4730 West Spruce Street, Tampa",TPA,ChIJeXfQ9lbCwogROB-w_011tmQ
+187,Washington Dulles Airport Marriott,4,"45020 Aviation Drive, Dulles",WAS,ChIJK87f1INHtokR8V-p_sIlSCc
+188,The Westin Washington Dulles Airport,4.2,"2520 Wasser Terrace, Herndon",WAS,ChIJ3ZQHkXZHtokR0exa1cY04BY
+189,"Candlewood Suites Washington-Dulles Herndon, an IHG Hotel",4,"13845 Sunrise Valley Drive, Herndon",WAS,ChIJIY5UmHVHtokRbH1F9nyGPFY
+190,Hyatt Regency Dulles,4.2,"2300 Dulles Corner Boulevard, Herndon",WAS,ChIJQUumvYJHtokRz1JgP9NRqWg
+191,Hyatt Place Herndon/Dulles Airport-East,4.1,"13711 Sayward Boulevard, Herndon",WAS,ChIJFd4YKZ1HtokRsrQ3BOMseMM
+192,Courtyard by Marriott Fort Lauderdale Airport & Cruise Port,4.1,"400 Gulf Stream Way, Dania Beach",FLL,ChIJMc5As2qq2YgRiAl0u3qUCmE
+193,"Candlewood Suites Ft. Lauderdale Airport/Cruise, an IHG Hotel",3.8,"1120 West State Road 84, Fort Lauderdale",FLL,ChIJ6fUl4poA2YgRijpxqXxaV5A
+194,Fairfield Inn & Suites by Marriott Fort Lauderdale Airport & Cruise Port,4,"2081 Griffin Road, Dania Beach",FLL,ChIJMWeG9RSq2YgRkKZVuCe9jSQ
+195,"Holiday Inn Express & Suites Ft. Lauderdale Airport/Cruise, an IHG Hotel",4,"1150 Florida 84, Fort Lauderdale",FLL,ChIJQ6j9-5oA2YgRDiZyGwuzOAY
+196,Crowne Plaza Ft. Lauderdale Airport/Cruise,4,"455 Florida 84, Fort Lauderdale",FLL,ChIJH2ZuTWMA2YgRlIUFxmq5u0M
+197,Best Western The Plaza Hotel,3.8,"3253 North Nimitz Highway, Honolulu",HNL,ChIJd0UB06lvAHwRZ131j2NndB8
+198,Pacific Marina Inn,3.3,"2628 Waiwai Loop, Honolulu",HNL,ChIJRzU4sVVuAHwRb47zX4bkyCQ
+199,Airport Honolulu Hotel,3.8,"3401 North Nimitz Highway, Honolulu",HNL,ChIJgYwc8advAHwRnS0CTS0s00I
+200,Embassy Suites by Hilton Portland Airport,4.2,"7900 Northeast 82nd Avenue, Portland",PDX,ChIJlSaRYBaklVQRx0ubTIGuW_Y
+201,Radisson Hotel Portland Airport,4.2,"6233 Northeast 78th Court, Portland",PDX,ChIJ42NOWh2klVQRkGW0guqQUMY
+202,"Holiday Inn Portland-Airport (I-205), an IHG Hotel",3.9,"8439 Northeast Columbia Court, Portland",PDX,ChIJ8wvW7AGklVQR6oUdY50VKXU
+203,Sheraton Portland Airport Hotel,4.2,"8235 Northeast Airport Way, Portland",PDX,ChIJwc5JlT2klVQRa1czlXp86R8
+204,Residence Inn by Marriott Portland Airport at Cascade Station,4.4,"9301 Northeast Cascades Parkway, Portland",PDX,ChIJfdzA-hOklVQRSsFJBRJDsFg
+205,Grand Hyatt Tampa Bay,4.5,"2900 Bayport Drive, Tampa",TPA,ChIJoaNvaGPCwogRa7EVtzV5nd8
+206,Renaissance Tampa International Plaza Hotel,4.5,"4200 Jim Walter Boulevard, Tampa",TPA,ChIJc4_gvVLCwogRcMKGyflqumU
+207,Tampa Airport Marriott,4.4,"Tampa International Airport, 4200 George J Bean Parkway, Tampa",TPA,ChIJQ0Sek0bCwogRpIIFHoyDJAs
+208,Hilton Garden Inn Tampa Airport Westshore,4.4,"5312 Avion Park Drive, Tampa",TPA,ChIJ9fwTv1jCwogRLxo1ERokfrY
+209,La Quinta Inn by Wyndham Tampa Bay Airport,3.1,"4730 West Spruce Street, Tampa",TPA,ChIJeXfQ9lbCwogROB-w_011tmQ
+210,Red Roof Inn Cincinnati Airport-Florence/ Erlanger,3.3,"599 Donaldson Highway, Erlanger",CVG,ChIJZZzmQP3HQYgRGfMTQMEBV5U
+211,"Holiday Inn Cincinnati Airport, an IHG Hotel",4.1,"1717 Airport Exchange Boulevard, Erlanger",CVG,ChIJDYR6q0DIQYgRf5GKvdFDfAI
+212,Hilton Cincinnati Airport,4.2,"7373 Turfway Road, Florence",CVG,ChIJyz6ooMbHQYgRdYKeM6UBOtE
+213,Marriott Cincinnati Airport,4.4,"2395 Progress Drive, Hebron",CVG,ChIJdcWlXwLJQYgRwuzg6iohFvU
+214,Hampton Inn Cincinnati Airport-North,4.1,"755 Petersburg Road, Hebron",CVG,ChIJC4-D0QLJQYgRmZ02jGW-Wgw
+215,Hilton Oakland Airport,3.8,"One Hegenberger Road, Oakland",OAK,ChIJ5ThdbKGFj4ARMP22GPvcZGo
+216,Best Western Plus Airport Inn & Suites,4.1,"170 Hegenberger Loop, Oakland",OAK,ChIJ70vjh5eFj4ARJG9ggZ4vj04
+217,Hampton Inn & Suites Oakland Airport-Alameda,4.1,"1700 Harbor Bay Parkway, Alameda",OAK,ChIJF_2QcEKEj4ARS4D7AUsIQ58
+218,La Quinta Inn & Suites by Wyndham Oakland Airport Coliseum,3.3,"8465 Enterprise Way, Oakland",OAK,ChIJ45hkRJSFj4ARV7SszfZFo1M
+219,Econo Lodge Inn & Suites Oakland Airport,3.5,"10 Hegenberger Road, Oakland",OAK,ChIJlTTRfqGFj4ARq_DpKSv1ekw
+220,Hyatt Regency Pittsburgh International Airport,4.1,"1111 Airport Boulevard, Pittsburgh",PIT,ChIJw_MAUcNcNIgRW4fVO69-65k
+221,La Quinta Inn by Wyndham Pittsburgh Airport,3.9,"8507 University Boulevard, Moon Township",PIT,ChIJl0mVz61dNIgRVETMweeLz00
+222,Americas Best Value Inn Pittsburgh Airport,2.9,"8858 University Boulevard, Coraopolis",PIT,ChIJWRyH36xdNIgRdk2teK7MNZQ
+223,Hampton Inn Pittsburgh-Airport,4.1,"8514 University Boulevard, Moon Township",PIT,ChIJjVCpOaxdNIgRSYmX9ELAETk
+224,Sheraton Pittsburgh Airport Hotel,4,"1160 Thorn Run Road, Coraopolis",PIT,ChIJEf6uqEpcNIgR1DDf7XG5Gpg
+225,DoubleTree by Hilton Hotel San Jose,3.9,"2050 Gateway Place, San Jose",SJC,ChIJK0PeRurLj4AR9WQha5RrPRQ
+226,Sonesta Select San Jose Airport,4.1,"1727 Technology Drive, San Jose",SJC,ChIJf3Rp6pPLj4ARV_ZqG8IhgSE
+227,Fairfield Inn & Suites by Marriott San Jose Airport,4.1,"1755 North First Street, San Jose",SJC,ChIJ1Q_Ji5LLj4ARvnfD6_dlgU8
+228,Sonesta ES Suites San Jose Airport,4.3,"1602 Crane Court, San Jose",SJC,ChIJvfYujfLLj4ARNK3HJdqghfw
+229,La Quinta Inn & Suites by Wyndham San Jose Airport,3.9,"2585 Seaboard Avenue, San Jose",SJC,ChIJD8snJtfLj4ARBwiVOrGWpyk
+230,Embassy Suites by Hilton Raleigh Durham Airport Brier Creek,4.6,"8001 Arco Corporate Drive, Raleigh",RDU,ChIJ012f0J3wrIkRW5LCjhFIG-s
+231,Hilton Garden Inn Raleigh-Durham Airport,4.1,"1500 RDU Center Drive, Morrisville",RDU,ChIJUfaGJqHxrIkR2q6fS13h32w
+232,Fairfield Inn & Suites by Marriott Raleigh-Durham Airport/Research Triangle Park,4.3,"2750 Slater Road, Morrisville",RDU,ChIJe5XNU8_xrIkRRlANdluUetc
+233,Microtel Inn & Suites by Wyndham Raleigh Durham Airport,3.4,"104 Factory Shops Road, Morrisville",RDU,ChIJ3ZvXUMjxrIkR7pvPaqVbeSk
+234,Fairfield Inn & Suites by Marriott Raleigh-Durham Airport/Brier Creek,4.3,"10040 Sellona Street, Raleigh",RDU,ChIJd0APrGjwrIkRRG5Reg4zH2E
+235,La Quinta Inn & Suites by Wyndham Memphis Airport Graceland,3.7,"2979 Millbranch Road, Memphis",MEM,ChIJY5BkyGV91YcRDbcuUuiTfMI
+236,Knights Inn Memphis at Airways Blvd,2.7,"2949 Airways Boulevard, Memphis",MEM,ChIJQzNd9o2Hf4gREyEykOmlmLQ
+237,Courtyard by Marriott Memphis Airport,3.7,"1780 Nonconnah Boulevard, Memphis",MEM,ChIJvR2PNGN91YcRsV2OTaSr03k
+238,Days Inn by Wyndham Memphis at Graceland Airport,3,"3839 Elvis Presley Boulevard, Memphis",MEM,ChIJqfV7KTJ91YcRefCLX7wnGWM
+239,Holiday Inn Memphis Airport - Conf Ctr,3.6,"2240 Democrat Road, Memphis",MEM,ChIJDXp3L-iHf4gRn7wgNk_D9FM
+240,Hilton Irvine/Orange County Airport,4,"18800 Macarthur Boulevard, Irvine",SNA,ChIJkV5eRfHe3IAR6Cs5dv_0vNw
+241,Irvine Marriott,4.4,"18000 Von Karman Avenue, Irvine",SNA,ChIJx6oOPoze3IAR4aCGakw8AA4
+242,Embassy Suites by Hilton Irvine Orange County Airport,4.2,"2120 Main Street, Irvine",SNA,ChIJW4qqNZLe3IARkZszdPZl3a8
+243,SpringHill Suites by Marriott Irvine John Wayne Airport/Orange County,4.2,"17601 Fitch, Irvine",SNA,ChIJWWJMx8be3IARazbB-zQjze4
+244,Courtyard by Marriott Irvine John Wayne Airport/Orange County,4.1,"2701 Main Street, Irvine",SNA,ChIJJfLgTITe3IARxED3ASX3kao
+245,La Quinta Inn & Suites by Wyndham Cleveland - Airport North,4,"4222 West 150th Street, Cleveland",CLE,ChIJE3BVwbntMIgRSD-ab95c1io
+246,Hilton Garden Inn Cleveland Airport,4.2,"4900 Emerald Court Southwest, Cleveland",CLE,ChIJnfbGlt3sMIgRBWLZwfE8w3o
+247,Ramada by Wyndham Cleveland Airport West,2.9,"22115 Brookpark Road, Fairview Park",CLE,ChIJOQceKjOTMIgRTk7FAt6xEOs
+248,Howard Johnson by Wyndham Cleveland Airport,2.6,"16644 Snow Road, Brook Park",CLE,ChIJoSwMPmTsMIgRuKWSc15GfEA
+249,Comfort Inn Cleveland Airport,3.5,"17550 Rosbough Boulevard, Middleburg Heights",CLE,ChIJBVvE453rMIgRS_8rzAo0o8s
+250,"Crowne Plaza Indianapolis-Airport, an IHG Hotel",4,"2501 South High School Road, Indianapolis",IND,ChIJTX58BZGnbIgR-C97ptNlWcw
+251,"Country Inn & Suites by Radisson, Indianapolis Airport South, IN",4.2,"5630 Flight School Drive, Indianapolis",IND,ChIJSyTicWGnbIgR5Y2PKwa1NKg
+252,Comfort Suites near Indianapolis Airport,4.1,"2750 Fortune Circle West, Indianapolis",IND,ChIJYyiF7IWnbIgRST0Ts_ewSw8
+253,Wyndham Indianapolis West,3.7,"2544 Executive Drive, Indianapolis",IND,ChIJFRoLx4mnbIgRoVSCc_zKW7I
+254,La Quinta Inn by Wyndham Indianapolis Airport Executive Dr,3.3,"2650 Executive Drive, Indianapolis",IND,ChIJLc23FIinbIgRwUi8W9ZBzcs
+255,Embassy Suites by Hilton Columbus Airport,4.4,"2886 Airport Drive, Columbus",CMH,ChIJS7UCj5GJOIgRr3Owc49VN68
+256,Hampton Inn Columbus-Airport,4.1,"4280 International Gateway, Columbus",CMH,ChIJR7IzpxBiOIgRZ6mrlJkPpOU
+257,Hilton Garden Inn Columbus Airport,4.1,"4265 Sawyer Road, Columbus",CMH,ChIJt7XtPBpiOIgR7akCfQBjnvo
+258,Sonesta Simply Suites Columbus Airport Gahanna,4.3,"590 Taylor Road, Gahanna",CMH,ChIJC0WnSdRjOIgRTLkUuDxJF8E
+259,Four Points by Sheraton Columbus Ohio Airport,3.8,"3030 Plaza Properties Boulevard, Columbus",CMH,ChIJ02d16_KJOIgRDAFVubwTjbM
+260,Courtyard by Marriott Tucson Airport,4.1,"2505 East Executive Drive, Tucson",TUS,ChIJx-6uDxp71oYR1zLoIv7ZNbo
+261,La Quinta Inn & Suites by Wyndham Tucson Airport,4.2,"7001 South Tucson Boulevard, Tucson",TUS,ChIJXeOavxN71oYRbLGkKoBPTwQ
+262,Best Western Tucson Int'L Airport Hotel & Suites,3.9,"6801 South Tucson Boulevard, Tucson",TUS,ChIJXZQvFhF71oYR1aZdfq5j_co
+263,"Country Inn & Suites by Radisson, Tucson Airport, AZ",4.2,"6681 South Tucson Boulevard, Tucson",TUS,ChIJGZV3tBB71oYRX517ECSJP50
+264,Four Points by Sheraton Tucson Airport,4,"7060 South Tucson Boulevard, Tucson",TUS,ChIJ7bMXUxJ71oYRL7Hoo2boW6E
+265,Hilton Garden Inn Buffalo Airport,4.4,"4201 Genesee Street, Cheektowaga",BUF,ChIJLfFZwrN004kRIOrKwqI9M7g
+266,Homewood Suites by Hilton Buffalo-Airport,4.3,"760 Dick Road, Cheektowaga",BUF,ChIJJR9vBFQL04kRTZjIgC5V6Xo
+267,Salvatore's Garden Place Hotel,3.9,"6615 Transit Road, Williamsville",BUF,ChIJUd1w49V104kRh6m_t8jVotI
+268,Millennium Buffalo,3.9,"2040 Walden Avenue, Buffalo",BUF,ChIJeaLDnpcM04kR_Fo5TWal0ZE
+269,"Holiday Inn Express & Suites Buffalo-Airport, an IHG Hotel",4.2,"131 Buell Avenue, Cheektowaga",BUF,ChIJk0apc61004kRTC3FueOL5_I
+270,Hotel Captain Cook,4.5,"939 West 5th Avenue, Anchorage",ANC,ChIJoUUNNIG9yFYRT1rea_yflgI
+271,Hilton Anchorage,3.6,"500 West 3rd Avenue, Anchorage",ANC,ChIJgzxCdIe9yFYRdq3MOq8mrQ0
+272,SpringHill Suites by Marriott Anchorage University Lake,4.3,"4050 University Lake Drive, Anchorage",ANC,ChIJiTrF5QKXyFYRaSvG-2NZzx4
+273,Dimond Center Hotel,4.1,"700 East Dimond Boulevard, Anchorage",ANC,ChIJhwSSWNCZyFYRERrQFrAM0SI
+274,Anchorage Downtown Hotel,3.1,"826 K Street, Anchorage",ANC,ChIJef-GSIC9yFYRMmMwrhjjdgY
+275,Hilton Garden Inn Jacksonville Airport,4,"13503 Ranch Road, Jacksonville",JAX,ChIJ1RVGsq2v5YgRppXEnZKVlGw
+276,Hyatt Place Jacksonville Airport,4.2,"14565 Duval Road, Jacksonville",JAX,ChIJx0UteK2v5YgRbEix1kc2xQw
+277,Courtyard by Marriott Jacksonville Airport Northeast,4.2,"14668 Duval Road, Jacksonville",JAX,ChIJ8c4hSa2v5YgRf2shsMAJ9UY
+278,Jacksonville Plaza Hotel & Suites,3.3,"14585 Duval Road, Jacksonville",JAX,ChIJ_2fScq2v5YgRpPr-0M8hsSw
+279,SpringHill Suites by Marriott Jacksonville Airport,4,"13550 Airport Court, Jacksonville",JAX,ChIJozSXGq-v5YgREgRuKj_hsYY
+280,Hilton Garden Inn Hartford North/Bradley Int'l Airport,4.3,"555 Corporate Drive, Windsor",BDL,ChIJVQB4cqH_5okRViSjZ0-lmGs
+281,Fairfield Inn & Suites by Marriott Hartford Airport,4,"2 Loten Drive, Windsor Locks",BDL,ChIJ4TTxTHr-5okRGibDNTOM44I
+282,Econo Lodge Inn & Suites Airport,3.4,"34 Old County Road, Windsor Locks",BDL,ChIJacAY2dX95okROwpeOqd4FvU
+283,DoubleTree by Hilton Hotel Hartford - Bradley Airport,3.8,"16 Ella T, Ella Grasso Turnpike, Windsor Locks",BDL,ChIJW3ufqHr-5okRMN1mxWxsQmQ
+284,SpringHill Suites by Marriott Hartford Airport/Windsor Locks,4.2,"225 Ella Grasso Turnpike, Windsor Locks",BDL,ChIJrU6Szdb95okRQok30QWT8Qs
+285,"Holiday Inn Palm Beach-Airport Conf Ctr, an IHG Hotel",3.8,"1301 Belvedere Road, West Palm Beach",PBI,ChIJg6jptk7W2IgRmpbpLFl1q70
+286,Hilton Palm Beach Airport,4.1,"150 Australian Avenue, West Palm Beach",PBI,ChIJSQIRg7bX2IgRWt51oMk2y8M
+287,DoubleTree by Hilton Hotel West Palm Beach Airport,3.8,"1808 South Australian Avenue, West Palm Beach",PBI,ChIJ1xoQbUbW2IgRSlb3VSAOhlw
+288,Embassy Suites by Hilton West Palm Beach Central,4.2,"1601 Belvedere Road, West Palm Beach",PBI,ChIJ-0o670nW2IgRei3NTJxV6EU
+289,West Palm Beach Marriott,4.2,"1001 Okeechobee Boulevard, West Palm Beach",PBI,ChIJLRfMWF3W2IgRApHUwnsXqdM
+290,Maui Seaside Hotel,3.8,"100 West Kaahumanu Avenue, Kahului",OGG,ChIJi7shuN7SVHkRlj70fKaE7N0
+291,Maui Beach Hotel,3.7,"170 West Kaahumanu Avenue, Kahului",OGG,ChIJJwCz3N7SVHkRXqWINLrLXOE
+292,Maui Sunset,4.4,"1032 South Kihei Road, Kihei",OGG,ChIJhX9eG0TQVHkR418-ozVji8o
+293,Maui Coast Hotel,4.5,"2259 South Kihei Road, Kihei",OGG,ChIJ9QaO7qDaVHkR5yI5lfNlSOg
+294,The Hale Pau Hana,4.8,"2480 South Kihei Road, Kihei",OGG,ChIJnR4fuaPaVHkRj_dN_9_yVVI
+295,"Holiday Inn Express & Suites Sacramento Airport Natomas, an IHG Hotel",4.2,"2981 Advantage Way, Sacramento",SAC,ChIJM1QSh_spm4ARraE1WYfixbQ
+296,Hampton Inn & Suites Sacramento-Airport-Natomas,4.3,"3021 Advantage Way, Sacramento",SAC,ChIJz_XrEfwpm4ARZgOu1GHw-Pw
+297,Homewood Suites by Hilton Sacramento Airport-Natomas,4.2,"3001 Advantage Way, Sacramento",SAC,ChIJ2euq9fspm4ARDJNU9vy4YKY
+298,Four Points by Sheraton Sacramento International Airport,3.7,"4900 Duckhorn Drive, Sacramento",SAC,ChIJqVGyVwIqm4ARUMigG870MPY
+299,Worldwide Oakwood,4,"4101 Innovator Drive, Sacramento",SAC,ChIJxdU1aT3WmoARHjV5i7OKDWc
+300,Hampton Inn & Suites Norfolk-Airport,4.2,"1511 USAA Drive, Norfolk",ORF,ChIJ2407cfaWuokR6Y2N6L4kRdc
+301,Best Western Center Inn,3.8,"5718 Northampton Boulevard, Virginia Beach",ORF,ChIJsT-2OpyWuokRMIVM3DNjulc
+302,Residence Inn by Marriott Norfolk Airport,4,"1590 North Military Highway, Norfolk",ORF,ChIJhS21KveWuokRX2SwzyxdsHc
+303,La Quinta Inn & Suites by Wyndham Norfolk Airport,3.9,"1387 North Military Highway, Norfolk",ORF,ChIJiX36SliWuokR4O69vfL-4ak
+304,Red Roof Inn Virginia Beach - Norfolk Airport,3.2,"5745 Northampton Boulevard, Virginia Beach",ORF,ChIJNTTI8JyWuokRGAg71TOFzvY
+305,"Holiday Inn Express & Suites Reno Airport, an IHG Hotel",4.4,"2375 Market Street, Reno",RNO,ChIJX8m41WY_mYAR7oBrdT7oP9M
+306,Grand Sierra Resort and Casino,4.3,"2500 East 2nd Street, Reno",RNO,ChIJG7qnuls_mYARweP739kMgh8
+307,Peppermill Resort Spa Casino,4.4,"2707 South Virginia Street, Reno",RNO,ChIJ07LkRY9AmYARbPPabWOgb1I
+308,Nugget Casino Resort,3.8,"1100 Nugget Avenue, Sparks",RNO,ChIJxQpVnjo_mYARW9gkVzXSKgY
+309,Eldorado Resort Casino,4.2,"345 North Virginia Street, Reno",RNO,ChIJ080StzVHmYARD-YbD1sKARw
+310,Los Angeles Marriott Burbank Airport,4.3,"2500 North Hollywood Way, Burbank",BUR,ChIJdQ5F7aeVwoARAsQHeyQNLzA
+311,Ramada by Wyndham Burbank Airport,3.7,"2900 North San Fernando Boulevard, Burbank",BUR,ChIJ-TgkJgSVwoARnM1PziFoUb4
+312,Hampton Inn and Suites Los Angeles Burbank Airport,4.2,"7501 North Glenoaks Boulevard, Burbank",BUR,ChIJr3gi1gGVwoARg_Wq-IpPZqM
+313,Courtyard by Marriott Los Angeles Burbank Airport,4.2,"2100 Empire Avenue, Burbank",BUR,ChIJ1XWJhxKVwoAROqbHjEbClSc
+314,Extended Stay America - Los Angeles - Burbank Airport,3.6,"2200 Empire Avenue, Burbank",BUR,ChIJn9DknhKVwoARzZYfCk-I424
+315,Long Beach Marriott,4.4,"4700 Airport Plaza Drive, Long Beach",LGB,ChIJaxXXgyEy3YARo3UO0Y5o8ao
+316,"Holiday Inn Long Beach Airport, an IHG Hotel",4,"2640 North Lakewood Boulevard, Long Beach",LGB,ChIJGdQGnIkx3YARHcjYXaRh0NE
+317,Residence Inn by Marriott Long Beach,4.3,"4111 East Willow Street, Long Beach",LGB,ChIJV01VNogx3YARqMq1oDJEAxM
+318,Courtyard by Marriott Long Beach Airport,4.4,"3841 North Lakewood Boulevard, Long Beach",LGB,ChIJ13s5P0cy3YARKf-7H9rpskw
+319,Extended Stay America - Los Angeles - Long Beach Airport,3.2,"4105 East Willow Street, Long Beach",LGB,ChIJnyw1TYgx3YARWU25vbcqlF4
+320,Hampton Inn & Suites Providence/Warwick-Airport,3.2,"2100 Post Road, Warwick",PVD,ChIJaV_w2yhM5IkRf2AL3kRAuvU
+321,Holiday Inn Express & Suites Warwick-Providence (Airport),4.2,"901 Jefferson Boulevard, Warwick",PVD,ChIJH6DlNSRM5IkRPb0odTDwTEU
+322,Radisson Hotel Providence Airport,3.9,"2081 Post Road, Warwick",PVD,ChIJc9d88ChM5IkROk3cbd1z7q0
+323,Hilton Garden Inn Providence Airport/Warwick,4.3,"1 Thurber Street, Warwick",PVD,ChIJlROHX51O5IkRxnltsrLH7IY
+324,La Quinta Inn & Suites by Wyndham Warwick Providence Airport,3.6,"36 Jefferson Boulevard, Warwick",PVD,ChIJGxUFuPZO5IkRVXNj2eSaBnE
+325,Best Western Premier Waterfront Hotel & Convention Center,4.4,"1 North Main Street, Oshkosh",OSH,ChIJe7QFyfTrA4gRbIws5gZLRd0
+326,Hilton Garden Inn Oshkosh,4.1,"1355 West 20th Avenue, Oshkosh",OSH,ChIJaar5lr7uA4gRiK4T4ZwObi8
+327,Fairfield Inn & Suites by Marriott Oshkosh,3.9,"1800 South Koeller Street, Oshkosh",OSH,ChIJi-Sd0cXuA4gRAnIbjG7LjFY
+328,"Holiday Inn Express & Suites Oshkosh-Sr 41, an IHG Hotel",4.1,"2251 Westowne Avenue, Oshkosh",OSH,ChIJTU_emxjpA4gRlrVabv9oDcA
+329,"Motel 6 Oshkosh, WI",2.7,"1015 South Washburn Street, Oshkosh",OSH,ChIJKzzrFM3uA4gRYl0digf5Ar4
+330,Hilton Omaha,4.1,"1001 Cass Street, Omaha",OMA,ChIJVVxxHrqPk4cRG2Y67svzDxo
+331,Courtyard by Marriott Omaha Downtown/Old Market Area,4.3,"101 South 10th Street, Omaha",OMA,ChIJ11V5zrqPk4cRpmeVE18hdlA
+332,Hilton Garden Inn Omaha Downtown/Old Market Area,4.1,"1005 Dodge Street, Omaha",OMA,ChIJP_nuurqPk4cRr4gaAZTf6UU
+333,DoubleTree by Hilton Hotel Omaha Downtown,3.8,"1616 Dodge Street, Omaha",OMA,ChIJwdXLQLKPk4cRsqu7mX4skBY
+334,Magnolia Hotel Omaha,4.2,"1615 Howard Street, Omaha",OMA,ChIJvRwUUayPk4cRKeFqDLEl2NA
+335,"Crowne Plaza Louisville Airport Expo Ctr, an IHG Hotel",4.1,"830 Phillips Lane, Louisville",SDF,ChIJ-R6CU6YNaYgRAgpCmQr6wNQ
+336,Hilton Garden Inn Louisville Airport,4.4,"2735 Crittenden Drive, Louisville",SDF,ChIJSxoR5nMNaYgRVxION2i3fbY
+337,Courtyard by Marriott Louisville Airport,4,"819 Phillips Lane, Louisville",SDF,ChIJ0cgL3KMNaYgR9pGKS9MxiKs
+338,Red Roof Inn Louisville Expo Airport,3.3,"4704 Preston Highway, Louisville",SDF,ChIJHwJ3IUkMaYgR4NkP_JRB2Dc
+339,Ramada by Wyndham Louisville Expo Center,3.5,"2912 Crittenden Drive, Louisville",SDF,ChIJl7fCLnQNaYgRTmj9gFm0Vz4
+340,DoubleTree by Hilton Hotel Ontario Airport,4.2,"222 North Vineyard Avenue, Ontario",ONT,ChIJ_3xWE1o0w4ARNg29tIPPFvY
+341,Ontario Airport Hotel & Conference Center,4.1,"700 North Haven Avenue, Ontario",ONT,ChIJh8pUSqA1w4ARnmmYTDrKXUg
+342,"Holiday Inn Express & Suites Ontario Airport, an IHG Hotel",4.3,"2280 South Haven Avenue, Ontario",ONT,ChIJtcXnsjU1w4ARtLIf9Leuv9s
+343,Best Western Plus Ontario Airport & Convention Center,4.3,"209 North Vineyard Avenue, Ontario",ONT,ChIJ0QCww1s0w4ARDq52_JdEjLg
+344,Hilton Garden Inn Ontario/Rancho Cucamonga,4.3,"11481 Mission Vista Drive, Rancho Cucamonga",ONT,ChIJK4Dsu4Y1w4ARV524Sx2C4yQ
+345,Crowne Plaza Syracuse,4,"701 East Genesee Street, Syracuse",SYR,ChIJXxPu66Tz2YkRrDM-ZxvDhEE
+346,The Parkview Hotel,4.3,"713 East Genesee Street, Syracuse",SYR,ChIJrWsN9KTz2YkRFwo4vpFDe8I
+347,Jefferson Clinton Suites,4.3,"416 South Clinton Street, Syracuse",SYR,ChIJa_hOyrjz2YkRPNS3MsHdMlA
+348,Hilton Garden Inn Syracuse,4.3,"6004 Fair Lakes Road, East Syracuse",SYR,ChIJMRZlv6eS2YkRsqEZ4W4L3vU
+349,"Holiday Inn Express Syracuse Airport, an IHG Hotel",4,"5418 South Bay Road, North Syracuse",SYR,ChIJZcNblaLt2YkRbFxK7fMyW4Y
+350,Camp Cobbossee Inc,4.5,"3 New King Street # 1, West Harrison",HPN,ChIJCxCWS5C9wokRraf6PG250To
+351,Moorehead Manor,5,"1065 King Street, Greenwich",HPN,ChIJ7e1U3peXwokRVRxwr-Yl_Jc
+352,Cedar Hall,4.1,"1 Orchard Road, Armonk",HPN,ChIJNakqpbW9wokRTA6kcr3wc1E
+353,"Crowne Plaza Albany - the Desmond Hotel, an IHG Hotel",4.3,"660 Albany Shaker Road, Albany",ALB,ChIJ7Z55HvUM3okRxsDNMYb8DhI
+354,SureStay Plus Hotel By Best Western Albany Airport,3.2,"200 Wolf Road, Albany",ALB,ChIJZ5pjjIsM3okRykpQyo9Jxfg
+355,Marriott Albany,4.2,"189 Wolf Road, Albany",ALB,ChIJuer1J4kM3okRp4RBJOztaeA
+356,Hilton Garden Inn Albany Airport,4,"800 Albany Shaker Road, Albany",ALB,ChIJr6-fGd4M3okRH6zn1hg7LaU
+357,Hampton Inn Albany-Wolf Road (Airport),4.1,"10 Ulenski Drive, Albany",ALB,ChIJq0QkYooM3okRKyGRYaJfDwU
+358,"Crowne Plaza Charleston Airport - Conv Ctr, an IHG Hotel",4.3,"4831 Tanger Outlet Boulevard, North Charleston",CHS,ChIJY5dR91tj_ogR_Wmf9kfe1ho
+359,Hilton Garden Inn Charleston Airport,4.2,"5265 International Boulevard, North Charleston",CHS,ChIJf5Y90U5j_ogRm4_4yWYS8yg
+360,Hyatt Place Charleston Airport/Convention Center,4.4,"3234 West Montague Avenue, North Charleston",CHS,ChIJQbhrLFJj_ogRBKUuArcBxIY
+361,"Home2 Suites by Hilton Charleston Airport/Convention Center, SC",4.3,"3401 West Montague Avenue, North Charleston",CHS,ChIJzyfruU1j_ogRs5UD_CYF8O8
+362,Quality Inn Coliseum,3.3,"5055 North Arco Lane, North Charleston",CHS,ChIJoVL_ZFlj_ogRTDhleKy_m6s
+363,"Holiday Inn Birmingham-Airport, an IHG Hotel",3.7,"5000 Richard Arrington Junior Boulevard North, Birmingham",BHM,ChIJK_5lyZIaiYgRlEEdCuHxgGg
+364,Ramada by Wyndham Birmingham Airport,2.9,"5216 Messer Airport Highway, Birmingham",BHM,ChIJcWB2C5QaiYgRJ1TJHJ0Hh8U
+365,Budgetel Inn and Suites,2.5,"5101 Messer Airport Highway, Birmingham",BHM,ChIJAQDAnJIaiYgRkVekQUQz_6Y
+366,Relax Inn,3.2,"6101 1st Avenue North, Birmingham",BHM,ChIJ6_vXbpwaiYgRMm_orphBceQ
+367,Motel 8 Inn,2.8,"5009 1st Avenue North, Birmingham",BHM,ChIJq6PIXYsaiYgR3Stt7v65iX8
+368,Homewood Suites by Hilton Richmond - Airport,3.8,"5996 Audubon Drive, Sandston",RIC,ChIJl0k-4rUbsYkR0DXWIITKIlQ
+369,Hampton Inn Richmond - Airport,4.2,"421 International Center Drive, Sandston",RIC,ChIJHZBt98obsYkRoIQN7tU5jSI
+370,Hilton Garden Inn Richmond Airport,4.1,"441 International Center Drive, Sandston",RIC,ChIJ-50YZ8obsYkRfTS2aQI5NlI
+371,Sheraton Richmond Airport Hotel,3.5,"5501 Eubank Road, Sandston",RIC,ChIJLwLzpFYasYkRbfhFy5RHtcQ
+372,Microtel Inn & Suites by Wyndham Richmond Airport,2.7,"6000 Audubon Drive, Sandston",RIC,ChIJQcG7crYbsYkROUijQw5ZtSw
+373,"Staybridge Suites Rochester University, an IHG Hotel",4.3,"1000 Genesee Street, Rochester",ROC,ChIJd9XGirm01okRzm2xLjyb8nI
+374,Courtyard by Marriott Rochester Brighton,4.1,"33 Corporate Woods, Rochester",ROC,ChIJmzuk7DpL0YkR95dXgAuYIWI
+375,Rodeway Inn Rochester Airport,3.2,"1273 Chili Avenue, Rochester",ROC,ChIJJ5MQwUOz1okRzn392ojxEXw
+376,Fairfield Inn by Marriott Rochester Airport,4,"1200 Brooks Avenue, Rochester",ROC,ChIJGTRMhk6z1okRHiz4WBttEJg
+377,Best Western The Inn At Rochester Airport,4,"395 Buell Road, Rochester",ROC,ChIJRXYN90-z1okR2yPD5PN_peA
+378,Days Inn & Suites by Wyndham Savannah North I-95,3.7,"105 Traveler's Way, Port Wentworth",SAV,ChIJNaxrVPCi-4gR7GjmQk0Nd1k
+379,Embassy Suites by Hilton Savannah Airport,4.2,"145 West Mulberry Boulevard, Savannah",SAV,ChIJUavq-fyj-4gR7VCriCgXUII
+380,Fairfield Inn & Suites by Marriott Savannah Airport,3.8,"10 Stephen South Green Drive, Savannah",SAV,ChIJyXj-Hlqh-4gRmrByUv8EdFM
+381,Inn at Mulberry Grove,3.5,"101 O'Leary Road, Savannah",SAV,ChIJ6Skg8vai-4gRUCjRnk_nNSE
+382,Hampton Inn and Suites Savannah-Airport,4.3,"70 Stephen South Green Drive, Savannah",SAV,ChIJyXj-Hlqh-4gRWJ0Lb9KoHno
+383,Super 8 by Wyndham Vandalia/Dayton International Airport,3.1,"550 East National Road, Vandalia",DAY,ChIJZ1RI9Jt-P4gR3H9kEmJbGwQ
+384,Courtyard by Marriott Dayton North,4,"7087 Miller Lane, Dayton",DAY,ChIJMQytvw5-P4gRo9eJOLHe_rg
+385,Residence Inn by Marriott Dayton Vandalia,4.4,"7227 York Center Drive, Dayton",DAY,ChIJlQY2GAx-P4gR8gxAta4MW3I
+386,Hampton Inn & Suites Dayton-Vandalia,4.3,"7043 Miller Lane, Dayton",DAY,ChIJz_J57w5-P4gReqy3zRa9ZaA
+387,Hawthorn Suites by Wyndham Dayton North,3.1,"7070 Poe Avenue, Dayton",DAY,ChIJGV8UoAl-P4gRtsXdOFHpMx0
+388,"The Historic Davenport, Autograph Collection",4.6,"10 South Post Street, Spokane",GEG,ChIJoTimK2cYnlQR7BfF2VEGVZ4
+389,Hampton Inn Spokane,4.4,"2010 South Assembly Road, Spokane",GEG,ChIJHX3a-_AXnlQReokh0QBkSs0
+390,Hotel Ruby,4.1,"901 West 1st Avenue, Spokane",GEG,ChIJSewz3mYYnlQRF9Ds9pDTO5Y
+391,Best Western Plus Peppertree Airport Inn,4.1,"3711 South Geiger Boulevard, Spokane",GEG,ChIJ2bAHlNYXnlQRiidVdEHHqug
+392,Hilton Garden Inn Spokane Airport,4.5,"9015 U.S. 2, Spokane",GEG,ChIJA4ShO60XnlQRt7ndBtC00QY
+393,"Holiday Inn Boise Airport, an IHG Hotel",4.3,"2970 West Elder Street, Boise",BOI,ChIJYaWKBONXrlQRy-2-KBi8wsg
+394,TownePlace Suites by Marriott Boise Downtown/University,4.3,"1455 South Capitol Boulevard, Boise",BOI,ChIJK8VPLIv4rlQRBRtqqcDjKG4
+395,Inn America - Boise,4.1,"2275 West Airport Way, Boise",BOI,ChIJ-SsC-P1XrlQRv0kt0hrodRc
+396,Super 8 by Wyndham Boise,3,"2773 West Elder Street, Boise",BOI,ChIJk4yVxOJXrlQRJfiRjaw2E_c
+397,Residence Inn by Marriott Boise Downtown/University,4.4,"1401 South Lusk Place, Boise",BOI,ChIJsxJPOov4rlQRXV1hYJLrJtE
+398,Best Western Plus Executive Court Inn & Conference Center,4.3,"13500 South Willow Street, Manchester",MHT,ChIJEy52sttN4okRL3pXLGJB7lw
+399,"Holiday Inn Express & Suites Manchester-Airport, an IHG Hotel",4.2,"1298 South Porter Street, Manchester",MHT,ChIJDSoMTIlO4okRbxjycxSKr1M
+400,Hilton Garden Inn Manchester Downtown,4.3,"101 South Commercial Street, Manchester",MHT,ChIJbba6mNBO4okRnC2wWOeJkp8
+401,Homewood Suites by Hilton Manchester/Airport,4.1,"1000 Perimeter Road, Manchester",MHT,ChIJozYONjlM4okRCdz_7Zqu-AA
+402,"Holiday Inn Manchester Airport, an IHG Hotel",4.3,"2280 Brown Avenue, Manchester",MHT,ChIJR0qa6SFM4okRfwlp3sAjs0s
+403,Travelodge by Wyndham Fort Myers Airport,3,"13661 Indian Paint Lane, Fort Myers",FMY,ChIJW_Ms_LgU24gRZvkum25NQg4
+404,SpringHill Suites by Marriott Fort Myers Airport,4.3,"9501 Marketplace Road, Fort Myers",FMY,ChIJ1d79SK2KXIYRpf8sdr5O0RQ
+405,La Quinta Inn & Suites by Wyndham Fort Myers Airport,3.5,"9521 Marketplace Road, Fort Myers",FMY,ChIJoW0ycbcU24gR6GMS-zeVGws
+406,Hampton Inn Ft. Myers-Airport I-75,4.4,"9241 Marketplace Road, Fort Myers",FMY,ChIJTcl8-8cU24gRjQDgXkG_HSM
+407,Comfort Inn & Suites Airport,4.2,"10081 Intercom Drive, Fort Myers",FMY,ChIJgeS7H7sU24gRns5QcK4qSc0
+408,La Quinta Inn & Suites by Wyndham Portland,4,"340 Park Avenue, Portland",PWM,ChIJ289tMQicskwR4xARHl3esKU
+409,Best Western Merry Manor Inn,4.3,"700 Main Street, South Portland",PWM,ChIJf2TS7NKeskwR9NGKndhau0Q
+410,Howard Johnson by Wyndham South Portland,3.7,"675 Main Street, South Portland",PWM,ChIJdy23ndKeskwRDSWwYbGRr3o
+411,"Holiday Inn Express & Suites South Portland, an IHG Hotel",4.3,"303 Sable Oaks Drive, South Portland",PWM,ChIJe8eOZXGZskwRwozYc6lkTBo
+412,Fireside Inn & Suites Portland,3.8,"81 Riverside Street, Portland",PWM,ChIJbWQ7Pk6askwRum2woCKliBo
+413,Best Western Plus South Coast Inn,4.4,"5620 Calle Real, Goleta",SBA,ChIJN6TrD3FA6YARrqK_v2HYrdc
+414,Ramada by Wyndham Santa Barbara,4.1,"4770 Calle Real, Santa Barbara",SBA,ChIJg5Yeoqpq6YAROj6fhRU791g
+415,"The Ritz-Carlton Bacara, Santa Barbara",4.4,"8301 Hollister Avenue, Santa Barbara",SBA,ChIJR5dB3hRH6YARhngDWzUoGl4
+416,Kimpton Canary Hotel,4.5,"31 West Carrillo Street, Santa Barbara",SBA,ChIJj4oQBXwU6YARZ93NzVVjolY
+417,Hotel Santa Barbara,4.3,"533 State Street, Santa Barbara",SBA,ChIJAyHWC3gU6YARIyx8qUv3gnA
+418,Howard Johnson by Wyndham Wichita Airport,3.4,"6575 West Kellogg Drive, Wichita",ICT,ChIJOUZgN7jguocRNyEIqnlz-BU
+419,Sonesta Simply Suites Wichita Airport,4.4,"570 South Julia Street, Wichita",ICT,ChIJz4KNvsbguocR8ZxPIZZ4ckg
+420,DoubleTree by Hilton Hotel Wichita Airport,4.4,"2098 South Airport Road, Wichita",ICT,ChIJ27Wt9lDnuocRepi1UGFkGJM
+421,"Holiday Inn Express & Suites Wichita Airport, an IHG Hotel",4.1,"1236 South Dugan Road, Wichita",ICT,ChIJp3HbCbjguocRIz_Dyr0LIHg
+422,Best Western Plus Wichita West Airport Inn,4.4,"3800 West Kellogg Drive, Wichita",ICT,ChIJIwYDmSXhuocRhHV_NCS6HE4
+423,Courtyard by Marriott Palm Springs,4.2,"1300 East Tahquitz Canyon Way, Palm Springs",PSP,ChIJa3mVrJ4b24ARQbQyEMBEMMw
+424,Renaissance Palm Springs Hotel,4.3,"888 East Tahquitz Canyon Way, Palm Springs",PSP,ChIJG001FqIb24ARf6DmPPoRowk
+425,The Saguaro Palm Springs,4,"1800 East Palm Canyon Drive, Palm Springs",PSP,ChIJgawnVGgb24AROV1E8Q2PxYE
+426,Hilton Palm Springs,4.1,"400 East Tahquitz Canyon Way, Palm Springs",PSP,ChIJFZ53d6Qb24AReSJBflV_-aY
+427,Best Western Plus Las Brisas Hotel,4.3,"222 South Indian Canyon Drive, Palm Springs",PSP,ChIJB9QhvaYb24ARz651gCe7-wA
+428,Best Western East Towne Suites,3.9,"4801 Annamark Drive, Madison",MSN,ChIJoZmbuPVWBogRLeMXEwSYXj8
+429,"Motel 6 Madison, WI - East",3.2,"4202 East Towne Boulevard, Madison",MSN,ChIJc2DUJY5WBogRPzm7W2_JlL8
+430,"Red Roof Inn Madison, WI",3,"4830 Hayes Road, Madison",MSN,ChIJJeJ45l5WBogRr9nce9laFXw
+431,Motel 6 Madison North,2.6,"1754 Thierer Road, Madison",MSN,ChIJXRh2m5pWBogRC0x3nPoJY78
+432,Hampton Inn Madison East Towne Mall Area,4.4,"4820 Hayes Road, Madison",MSN,ChIJp9Q16V5WBogRni5vJsfjIyM
+433,"Holiday Inn Grand Rapids - Airport, an IHG Hotel",4,"3063 Lake Eastbrook Boulevard Southeast, Grand Rapids",GRR,ChIJE0MnHRFNGIgRUGU8SYR2btY
+434,Sheraton Grand Rapids Airport Hotel,3.8,"5700 28th Street Southeast, Grand Rapids",GRR,ChIJ7_xL7N1NGIgReDpb98MOKYM
+435,Hampton Inn & Suites Grand Rapids-Airport 28th St,4,"5200 28th Street Southeast, Grand Rapids",GRR,ChIJdc0rPcBNGIgRgEpdGjRHWPc
+436,Homewood Suites by Hilton Grand Rapids,3.7,"3920 Stahl Drive Southeast, Grand Rapids",GRR,ChIJiYWrUg1NGIgRnHINjEW2RfU
+437,Courtyard by Marriott Grand Rapids Airport,4.1,"4741 28th Street Southeast, Grand Rapids",GRR,ChIJZYb9paJNGIgRTc0V96vJbWY
+438,Des Moines Marriott Downtown,4.3,"700 Grand Avenue, Des Moines",DSM,ChIJTUirfQGZ7ocRsdJ8_2tgTag
+439,Hilton Garden Inn Des Moines/Urbandale,4.4,"8600 Northpark Drive, Johnston",DSM,ChIJB032EYSd7ocRqWzIf9Z8d2c
+440,Embassy Suites by Hilton Des Moines Downtown,4.2,"101 East Locust Street, Des Moines",DSM,ChIJRykGFayZ7ocROQSNdyBtxP0
+441,Sheraton West Des Moines Hotel,4.1,"1800 50th Street, West Des Moines",DSM,ChIJ9yi_Kugg7IcRtN89yElQBdI
+442,Hampton Inn Des Moines-Airport,4,"5001 Fleur Drive, Des Moines",DSM,ChIJsQx5fgui7ocRKPATjjJpzIo
+443,La Quinta Inn & Suites by Wyndham South Burlington,3.6,"1285 Williston Road, South Burlington",BTV,ChIJdyWN9S56ykwR4bjyKwweor0
+444,"Holiday Inn Burlington, an IHG Hotel",3.9,"1068 Williston Road, South Burlington",BTV,ChIJbwHPyjB6ykwR6ptI39xLR5Q
+445,Hilton Burlington Lake Champlain,3.9,"60 Battery Street, Burlington",BTV,ChIJ5wGp9PB6ykwRARmQ9CjEh5M
+446,Courtyard by Marriott Burlington Harbor,4.4,"25 Cherry Street, Burlington",BTV,ChIJX63c7vZ6ykwRZm41PFFna7g
+447,The Essex,4.3,"70 Essex Way, Essex Junction",BTV,ChIJUf2rRZh3ykwRYEVYXj8hRjU
+448,Courtyard by Marriott Little Rock Downtown,4.1,"521 President Clinton Avenue, Little Rock",LIT,ChIJo7cezHi70ocRz-esf00t0ow
+449,"Holiday Inn Express Little Rock-Airport, an IHG Hotel",3.9,"3121 Bankhead Drive, Little Rock",LIT,ChIJq1OtCda70ocR8L_4Lv2sa5Q
+450,Comfort Inn & Suites Airport,4.2,"4301 East Roosevelt Road, Little Rock",LIT,ChIJyW0m2tm70ocRMrCikDixC1I
+451,Comfort Inn & Suites Presidential,4.3,"707 Interstate 30, Little Rock",LIT,ChIJm5CPP5270ocR_dryBsxhkuc
+452,Hampton Inn & Suites Little Rock-Downtown,4.2,"320 River Market Avenue, Little Rock",LIT,ChIJ-6UdqHm70ocRhfdVMz5QKG4
+453,Embassy Suites by Hilton Greensboro Airport,4.1,"204 Centreport Drive, Greensboro",GSO,ChIJqzCueYoEU4gRHq66D41kDHc
+454,Greensboro-High Point Marriott Airport,4.3,"One Marriott Drive, Greensboro",GSO,ChIJS-abXWcDU4gRPghpbY3gmZs
+455,Residence Inn by Marriott Greensboro Airport,4,"7616 Thorndike Road, Greensboro",GSO,ChIJ5Y4xBvUEU4gRaFlyGOsCX1g
+456,"Holiday Inn Express & Suites Greensboro - Airport Area, an IHG Hotel",4.4,"645 South Regional Road, Greensboro",GSO,ChIJMYZFZPMEU4gR_llHCyV4vv0
+457,Homewood Suites by Hilton Greensboro,4,"201 Centreport Drive, Greensboro",GSO,ChIJ3eUa3WEEU4gRFCbgeSGVu-8
+458,Hilton Garden Inn Tulsa Airport,3.5,"7728 East Virgin Court, Tulsa",TUL,ChIJY7HgdA3ytocRrsosK1Rvdk4
+459,OYO Hotel Tulsa International Airport,2.6,"1016 North Garnett Road, Tulsa",TUL,ChIJs3mSYqnztocR9hGHoR6z8Uw
+460,La Quinta Inn & Suites by Wyndham Tulsa Airpt / Expo Square,3.5,"23 North 67th East Avenue, Tulsa",TUL,ChIJg1pC04HttocRX2wsmayqBmM
+461,"Country Inn & Suites by Radisson, Tulsa, OK",3.5,"1034 North Garnett Road, Tulsa",TUL,ChIJs1WK-qvztocRWQSiVmJF8_4
+462,The Campbell Hotel,4.4,"2636 East 11th Street, Tulsa",TUL,ChIJeaiC_O_stocRq8KBBOPfsyM
+463,Four Seasons Resort Hualalai,4.7,"72-100 Ka'upulehu Drive, Kailua-Kona",KOA,ChIJIX4RcbFzVHkRQdMrhTjUyzM
+464,Courtyard by Marriott King Kamehameha's Kona Beach Hotel,4.2,"75-5660 Palani Road, Kailua-Kona",KOA,ChIJs9LSzvgOVHkRPxwo30Zg4ns
+465,Kona Seaside Hotel,4,"75-5652 Likana Lane, Kailua-Kona",KOA,ChIJ5082vvgOVHkRrpgQ44DyNjM
+466,Royal Kona Resort,4.1,"75-5852 Ali‘i Drive, Kailua-Kona",KOA,ChIJU-3R4wIPVHkRXWXFJtNIvOw
+467,Kona Islander Inn Hotel,3.6,"75-5776 Kuakini Highway, Kailua-Kona",KOA,ChIJZ5kWU_wOVHkRWyLmY7drshM
+468,Hotel Shangri-La,4.1,"1301 Ocean Avenue, Santa Monica",SMO,ChIJIxnYQcWkwoARVbqXi2BrqlM
+469,Fairmont Miramar - Hotel & Bungalows,4.4,"101 Wilshire Boulevard, Santa Monica",SMO,ChIJBx8nTcSkwoAR1bDfXdfVf20
+470,The Georgian Hotel,4.3,"1415 Ocean Avenue, Santa Monica",SMO,ChIJmUX7DdCkwoAREiyIPcEgeu0
+471,HI Los Angeles Santa Monica Hostel,4.3,"1436 2nd Street, Santa Monica",SMO,ChIJC3edO9CkwoARYkgjx-ONxDs
+472,Ocean View Hotel,4.1,"1447 Ocean Avenue, Santa Monica",SMO,ChIJd5_ZadCkwoARWV1mjHVj1lA
+473,Hampton Inn Pensacola-Airport (Cordova Mall Area),4,"2187 Airport Boulevard, Pensacola",PNS,ChIJwy96iD_AkIgRUCRgb8JXDiM
+474,Days Inn by Wyndham Pensacola - Historic Downtown,3.5,"710 North Palafox Street, Pensacola",PNS,ChIJC5uOgqbAkIgRSAJ_3SpT5Nw
+475,"Holiday Inn Pensacola - University Area, an IHG Hotel",4.2,"7813 North Davis Highway, Pensacola",PNS,ChIJuzBk1azqkIgRRNKP-L75KZ8
+476,Hampton Inn & Suites Pensacola I-10 North at University Town Plaza,4.2,"7050 Plantation Road, Pensacola",PNS,ChIJH7H9Ef6_kIgRrMGCq83PGjc
+477,La Quinta Inn by Wyndham Pensacola,2.7,"7750 North Davis Highway, Pensacola",PNS,ChIJsQ2L8azqkIgR8ngPWCy-Ibw
+478,"Holiday Inn Hasbrouck Heights-Meadowlands, an IHG Hotel",4.1,"283 New Jersey 17, Hasbrouck Heights",TEB,ChIJpaI0oKT5wokRlCPv9AvDhU8
+479,Hilton Hasbrouck Heights/Meadowlands,3.9,"650 Terrace Avenue, Hasbrouck Heights",TEB,ChIJze1A5ZD5wokRw5API3ksj8A
+480,Rodeway Inn Capri,3.3,"1 Valley Road, Little Ferry",TEB,ChIJK9BBA9n5wokRQNwiedz51zs
+481,"Holiday Inn Express & Suites Meadowlands Area, an IHG Hotel",4.1,"100 Paterson Plank Road, Carlstadt",TEB,ChIJJ8wNqGb4wokRRVBNDZFgMT4
+482,Hampton Inn Carlstadt-At The Meadowlands,4.3,"304 Paterson Plank Road, Carlstadt",TEB,ChIJow_RQXBXwokRF4JioUKSmOM
+483,Hampton Inn & Suites Los Angeles/Sherman Oaks,4.3,"5638 Sepulveda Boulevard, Sherman Oaks",LAX,ChIJF_h3_56XwoARhaPL2hznm7A
+484,Best Western Plus Carriage Inn,4.1,"5525 Sepulveda Boulevard, Sherman Oaks",LAX,ChIJa02o2p6XwoAR0Gj1-7a9g7k
+485,"Holiday Inn Express Van Nuys, an IHG Hotel",3.8,"8244 Orion Avenue, Van Nuys",LAX,ChIJu_XS1rOQwoARuxXCE3_eSVY
+486,Airtel Plaza Hotel,3.9,"7277 Valjean Avenue, Van Nuys",LAX,ChIJT2wg51eXwoAR8rIpTKoTJuA
+487,"Motel 6 Sepulveda, CA - Los Angeles - Van Nuys - North Hills",3.3,"15711 Roscoe Boulevard, North Hills",LAX,ChIJZRyZ1a-QwoARrcWUP4GSl1k
+488,Fairfield Inn & Suites by Marriott Rapid City,4,"1314 North Elk Vale Road, Rapid City",RAP,ChIJbR38_udnfYcRvBAgsqFLTik
+489,"Hotel Alex Johnson Rapid City, Curio Collection by Hilton",4.3,"523 6th Street, Rapid City",RAP,ChIJg10sNdNcfYcRRW7tT015U48
+490,Hilton Garden Inn Rapid City,4.3,"815 East Mall Drive, Rapid City",RAP,ChIJTfnE0xJdfYcRAvJNDahJDIg
+491,Hampton Inn Rapid City,4.1,"1720 Rapp Street, Rapid City",RAP,ChIJuVLF9RVdfYcRRoI01lxMaXo
+492,Best Western Ramkota Hotel,3.9,"2111 North Lacrosse Street, Rapid City",RAP,ChIJK1VuuxZdfYcRYoCRgLfR1p0
+493,Hampton Inn Knoxville-Airport,4.2,"148 International Avenue, Alcoa",TYS,ChIJM9-JKAQhXIgR2C61Gas8D4o
+494,Hilton Knoxville Airport,4.4,"2001 Alcoa Highway, Alcoa",TYS,ChIJ3S3nSOEgXIgR6vb4gftaNng
+495,Courtyard by Marriott Knoxville Airport Alcoa,4.3,"141 Furrow Way, Alcoa",TYS,ChIJT1jLDAIhXIgRXv_Aq5YhiZc
+496,"Holiday Inn Express & Suites Alcoa (Knoxville Airport), an IHG Hotel",4.4,"130 Associates Boulevard, Alcoa",TYS,ChIJt4ueppMgXIgRyyO6houeB3Y
+497,"Candlewood Suites Knoxville Airport-Alcoa, an IHG Hotel",4,"176 Cusick Road, Alcoa",TYS,ChIJw3nrkgMhXIgRiHTmeaDgn3Q
+498,Homewood Suites by Hilton Tallahassee,4.3,"2987 Apalachee Parkway, Tallahassee",TLH,ChIJMws0ZrVf7IgRqPOHyKFlYZY
+499,Fairfield Inn & Suites by Marriott Tallahassee Central,4.2,"2997 Apalachee Parkway, Tallahassee",TLH,ChIJeZXLJ7Vf7IgR5iw6oYwXZVw
+500,Four Points by Sheraton Tallahassee Downtown,4,"316 West Tennessee Street, Tallahassee",TLH,ChIJdUtEmHb17IgR_JYPfAsF83Y
+501,DoubleTree by Hilton Hotel Tallahassee,4.2,"101 South Adams Street, Tallahassee",TLH,ChIJU3nzk3D17IgRKpgJpWXrWFQ
+502,SpringHill Suites by Marriott Tallahassee Central,4.3,"1300 Executive Center Drive, Tallahassee",TLH,ChIJAyCeqbdf7IgRZgK5PdDSraw
+503,Best Western Plus Fresno Airport Hotel,4.2,"1551 North Peach Avenue, Fresno",FAT,ChIJZ1YsX71elIARYrVX_u3DTXo
+504,"Homewood Suites by Hilton Fresno Airport/Clovis, CA",4.3,"835 Gettysburg Avenue, Clovis",FAT,ChIJAUQL4XRclIARHvRAtSga2sY
+505,Hilton Garden Inn Clovis,4.1,"520 West Shaw Avenue, Clovis",FAT,ChIJgwY9711clIAR-XkNTUYN0k8
+506,"Holiday Inn Express & Suites Clovis-Fresno Area, an IHG Hotel",4,"650 West Shaw Avenue, Clovis",FAT,ChIJncWLKVxclIARdD5yu1D7qqI
+507,Hampton Inn & Suites Clovis-Airport North,4.2,"855 Gettysburg Avenue, Clovis",FAT,ChIJDRyGH3VclIAR7A7vqY74838
+508,Hampton Inn & Suites Sarasota/Bradenton-Airport,4.3,"975 University Parkway, Sarasota",SRQ,ChIJDf4oLts_w4gRy2J34JnyrpE
+509,Hilton Garden Inn Sarasota-Bradenton Airport,4.1,"8270 North Tamiami Trail, Sarasota",SRQ,ChIJsUjHE34Vw4gRP0OdD5Is2SI
+510,Ramada by Wyndham Sarasota Waterfront,3.5,"7150 North Tamiami Trail, Sarasota",SRQ,ChIJ_1W8M5AVw4gRRBIwOhNShU4
+511,SpringHill Suites by Marriott Sarasota Bradenton,3.8,"1020 University Parkway, Sarasota",SRQ,ChIJ8_g5t8Q_w4gRHJziKZPtZfc
+512,"Hotel Indigo Sarasota, an IHG Hotel",4.5,"1223 Boulevard of the Arts, Sarasota",SRQ,ChIJ-0P9ZA5Aw4gR71lS69AigVA
+513,"Holiday Inn & Suites Albuquerque Airport, an IHG Hotel",3.7,"1501 Sunport Place Southeast, Albuquerque",ABQ,ChIJWSNsYHcMIocRAEwTzmc2p4Q
+514,Hilton Garden Inn Albuquerque Airport,3.9,"2601 Yale Boulevard Southeast, Albuquerque",ABQ,ChIJ19wg04ULIocRD295rgmyS5o
+515,"Holiday Inn Express & Suites Albuquerque Airport, an IHG Hotel",4.3,"1921 Yale Boulevard Southeast, Albuquerque",ABQ,ChIJKxw9BYILIocRxWmgRIN0608
+516,Sheraton Albuquerque Airport Hotel,4,"2910 Yale Boulevard Southeast, Albuquerque",ABQ,ChIJO1Sk9IULIocROm7jBp0RNYQ
+517,Fairfield Inn & Suites by Marriott Albuquerque Airport,3.9,"2300 Centre Avenue Southeast, Albuquerque",ABQ,ChIJ13wBU4ILIocRpT2xkae5lMY
+518,Atlanta Airport Marriott Gateway,4.4,"2020 Convention Center Concourse, Atlanta",ATL,ChIJh9qjPsLi9IgRiBpQaVMRTmM
+519,Days Inn by Wyndham College Park Airport Best Road,3,"4505 Best Road, College Park",ATL,ChIJTcnwBd7i9IgRBdMt19FVc9U
+520,"Holiday Inn Express Atlanta Airport-College Park, an IHG Hotel",3.8,"4601 Best Road, College Park",ATL,ChIJW6-E0t_i9IgRNU8CN079VD8
+521,The Westin Atlanta Airport,4.1,"4736 Best Road, Atlanta",ATL,ChIJs-e3biDj9IgR42e_U-svTsY
+522,Atlanta Airport Marriott,4.3,"4711 Best Road, Atlanta",ATL,ChIJc6teEyDj9IgR1XhXudL9XBI
+523,Aloft BWI Baltimore Washington International Airport,3.7,"1741 West Nursery Road, Linthicum Heights",BWI,ChIJUdwkj4zit4kRVFdQFZcppG4
+524,Hilton Baltimore BWI Airport,4.3,"1739 West Nursery Road, Linthicum Heights",BWI,ChIJfVS3hYzit4kRh6WUVco_4Ag
+525,BWI Airport Marriott,4.2,"1743 West Nursery Road, Linthicum Heights",BWI,ChIJa0r6qIvit4kRuyI_mMaCzMQ
+526,Sheraton Baltimore Washington Airport Hotel - BWI,4.1,"1100 Old Elkridge Landing Road, Linthicum Heights",BWI,ChIJ58-kZnvit4kRRaQwj95lfag
+527,The Westin Baltimore Washington Airport - BWI,4.2,"1110 Old Elkridge Landing Road, Linthicum Heights",BWI,ChIJ58-kZnvit4kRHOh9miSvsDM
+528,Hilton Boston Logan Airport,4.1,"One Hotel Drive, Boston",BOS,ChIJc9thrD9w44kRLRAPv-EXzT8
+529,Hyatt Regency Boston Harbor,4.4,"101 Harborside Drive, Boston",BOS,ChIJO7whihFw44kR0qUerB-XS4o
+530,Embassy Suites by Hilton Boston at Logan Airport,4.1,"207 Porter Street, Boston",BOS,ChIJk0IQX0Fw44kR5XxQKfT28rI
+531,Northeast Suites,4.5,"50 Lewis Street, East Boston",BOS,ChIJNRjOlYV044kRiOfrEfELq54
+532,158 Cottage St LLC,3,"158 Cottage Street, Boston",BOS,ChIJ6xwrz0Nw44kR3rdffxQZDhI
+533,Hotel Flamingo Cancun Resort,3.9,"Boulevard Kukulcan km 11.5, Zona Hotelera, Cancún",CUN,ChIJq6qqYQ0rTI8RZeqGQ9iCIZc
+534,Royal Sands - Resort & SPA,4.6,"Boulevard Kukulcan Km 13.5, Zona Hotelera, Cancún",CUN,ChIJCUbAonqv14ARL7pMhy0d5yM
+535,Grand Fiesta Americana Coral Beach Cancún - All Inclusive,4.6,"Boulevard Kukulcan km. 9.5, Zona Hotelera, Cancún",CUN,ChIJ_z7eiqEoTI8Rd460P_qMgEY
+536,Moon Palace® Cancun All Inclusive Resort,4.5,"Cancun - Chetumal Km 340, Riviera Maya, Cancún",CUN,ChIJpy4RUlwoTI8RXrJ2FFP42qc
+537,Live Aqua Beach Resort Cancun,4.6,"Boulevard Kukulcan Km 12.5, Zona Hotelera, Cancún",CUN,ChIJNaiYPHYrTI8R6qHmlkHnuWI
+538,Sheraton Charlotte Airport Hotel,4.3,"3315 Scott Futrell Drive, Charlotte",CLT,ChIJbZ-wtxKiVogROzKJ8Fze8FM
+539,Hyatt Place Charlotte Airport/Tyvola Road,4,"2950 Oak Lake Boulevard, Charlotte",CLT,ChIJc6MGw-eYVogRvg9hgVFI56E
+540,Hyatt Place Charlotte Airport/Lake Pointe,4.1,"4119 South Stream Boulevard, Charlotte",CLT,ChIJy6wOld-YVogRTZnrYGAYWtg
+541,"Holiday Inn Charlotte-Airport Conf Ctr, an IHG Hotel",4.1,"2707 Little Rock Road, Charlotte",CLT,ChIJdbjECWOiVogRUOJppRWrk-U
+542,Hampton Inn & Suites Charlotte-Airport,4.2,"2731 Little Rock Road, Charlotte",CLT,ChIJqbVsF2OiVogRATDYOUp9TFA
+543,Hilton Chicago O'Hare Airport,3.8,"10000 West Balmoral Avenue, Chicago",CHI,ChIJkQT6kAe2D4gR52GlJt1dD0A
+544,Sheraton Suites Chicago O'Hare,4.3,"6501 Mannheim Road, Rosemont",CHI,ChIJpw77ZGi2D4gRT-t2raLahQU
+545,Best Western At O'Hare,3.7,"10300 West Higgins Road, Rosemont",CHI,ChIJyxHg5We2D4gRiGgYloWqdJc
+546,Sonesta Chicago O'Hare Airport Rosemont,4.2,"10233 West Higgins Road, Rosemont",CHI,ChIJx_mi-Gi2D4gRFbi8l1JRess
+547,Four Points by Sheraton Chicago O'Hare Airport,3.8,"10249 West Irving Park Road, Schiller Park",CHI,ChIJu0v2trm1D4gRCKrJi_F7GCY
+548,"Holiday Inn Express & Suites Chicago-Midway Airport, an IHG Hotel",4.2,"6500 South Cicero Avenue, Chicago",CHI,ChIJ6dTsFPwwDogRKHrBt08Kolw
+549,Chicago Marriott Midway,4.2,"6520 South Cicero Avenue, Chicago",CHI,ChIJ-S-Rh_wwDogRtRIkyZ00ulo
+550,Courtyard by Marriott Chicago Midway Airport,4.1,"6610 South Cicero Avenue, Bedford Park",CHI,ChIJxyoZ4fswDogRR1wA8Y4oOWU
+551,Fairfield Inn & Suites by Marriott Chicago Midway Airport,4,"6630 South Cicero Avenue, Bedford Park",CHI,ChIJ4efn4PswDogRlyPq55S1rzQ
+552,Hilton Garden Inn Chicago/Midway Airport,4.1,"6530 South Cicero Avenue, Bedford Park",CHI,ChIJgY_PBPwwDogREO3iaaFP8uo
+553,Hilton Garden Inn Colorado Springs Airport,4.2,"2035 Aerotech Drive, Colorado Springs",COS,ChIJWdkSfbZGE4cR-P352U_H_yQ
+554,Radisson Hotel Colorado Springs Airport,4.4,"1645 Newport Road, Colorado Springs",COS,ChIJgcYTDhhFE4cRNij0sYiUZpM
+555,TownePlace Suites by Marriott Colorado Springs South,4.1,"1530 Newport Road, Colorado Springs",COS,ChIJdcUPd7hGE4cRf56TfQFdaTM
+556,SpringHill Suites by Marriott Colorado Springs South,4.2,"1570 Newport Road, Colorado Springs",COS,ChIJa4duCrhGE4cRGH1mnKWhJbQ
+557,"Holiday Inn Express & Suites Colorado Springs Airport, an IHG Hotel",4,"1815 Aeroplaza Drive, Colorado Springs",COS,ChIJ-XPzcLpGE4cR_Uvql1IBWas
+558,Embassy Suites by Hilton Dallas Love Field,4.3,"3880 West Northwest Highway, Dallas",DFW,ChIJv3QIGcSdToYRPI1IP5IcGpk
+559,Hawthorn Suites by Wyndham Dallas Love Field Airport,3.2,"7900 Brookriver Drive, Dallas",DFW,ChIJn8Ye4GicToYRfaW-McfeTZk
+560,"Crowne Plaza Dallas-Market Center, an IHG Hotel",3.5,"7050 North Stemmons Freeway, Dallas",DFW,ChIJvVZ6XG-cToYR_uPnPuhuiYQ
+561,Comfort Inn & Suites Dallas Medical-Market Center,3.9,"1521 Inwood Road, Dallas",DFW,ChIJVwgtfg6cToYRFx8Z5lwufMY
+562,Embassy Suites by Hilton Dallas Market Center,3.8,"2727 North Stemmons Freeway, Dallas",DFW,ChIJ9fa91qqeToYRCE4aW1Vw-2M
+563,Hyatt Regency Dfw International Airport,4.3,"2334 North International Parkway, Dallas",DFW,ChIJA6nNJtjGK4YRLtRc_TGYfNI
+564,"Holiday Inn Express & Suites Irving DFW Airport North, an IHG Hotel",3.8,"4550 West John Carpenter Freeway, Irving",DFW,ChIJrfI1MyYqTIYRZ3fMo6r-oZo
+565,Dallas/Fort Worth Airport Marriott,4.2,"8440 Freeport Parkway, Irving",DFW,ChIJG83rAzIqTIYRAgtPIsKMEmQ
+566,The Westin Dallas Fort Worth Airport,4.2,"4545 West John Carpenter Freeway, Irving",DFW,ChIJK9SAYSgqTIYRFTR0pt3X69A
+567,Quality Inn DFW Airport North,3.4,"8205 Esters Boulevard, Irving",DFW,ChIJ40pFOCgqTIYRSmJAlUeqR6U
+568,The Westin Denver International Airport,4.4,"8300 Peña Boulevard, Denver",DEN,ChIJcTeWd-5nbIcRsyz5EkBkup0
+569,Detroit Metro Airport Marriott,4.2,"30559 Flynn Drive, Romulus",DTT,ChIJYZv8DtVOO4gR11GgOKANvmg
+570,Howard Johnson by Wyndham Romulus Detroit Metro Airport,3.1,"31119 Flynn Drive, Romulus",DTT,ChIJyzmfBNdOO4gRoi5sB-pWQxw
+571,Embassy Suites by Hilton Detroit Metro Airport,4.2,"8600 Wickham Road, Romulus",DTT,ChIJ3d4oWthOO4gR_6BL9NPXGfs
+572,Baymont by Wyndham Detroit Airport/Romulus,3.9,"9000 Wickham Road, Romulus",DTT,ChIJZcn3gSdPO4gRsxQJ8dhEgvU
+573,"Holiday Inn Detroit Metro Airport, an IHG Hotel",4.2,"8400 Merriman Road, Romulus",DTT,ChIJjX-D6NlOO4gRUbAibrY2QXE
+574,Super 8 by Wyndham El Paso Airport,3.4,"7144 Gateway Boulevard East, El Paso",ELP,ChIJl8xSPBdb54YRNllYE4-xcXs
+575,Marriott El Paso,4.1,"1600 Airway Boulevard, El Paso",ELP,ChIJJVJLIVha54YRr45tjC17DFg
+576,Residence Inn by Marriott El Paso,4.1,"6355 Gateway Boulevard West, El Paso",ELP,ChIJeVt6OVJa54YRTMa_RU7c7aU
+577,Wyndham El Paso Airport Hotel and Water Park,3.9,"2027 Airway Boulevard, El Paso",ELP,ChIJPb1O515a54YRuvLOfO-Agg0
+578,Courtyard by Marriott El Paso Airport,4.2,"6610 International Drive, El Paso",ELP,ChIJlZdi-FRa54YRDieaZB9ZMCQ
+579,Hangar Inn Hotel,4.2,"Chapala - Guadalajara No. 8701, El Refugio",GDL,ChIJgT32jF9ML4QRVh6IQrX4EkU
+580,Houston Airport Marriott at George Bush Intercontinental,4.3,"18700 John F Kennedy Boulevard, Houston",HOU,ChIJx1VD2SO0QIYRVimPKW3cF1M
+581,Ramada by Wyndham Houston Intercontinental Airport East,3.4,"6115 Will Clayton Parkway, Humble",HOU,ChIJx6erZ42zQIYRaglFH8e2838
+582,DoubleTree by Hilton Hotel Houston Intercontinental Airport,4.2,"15747 John F Kennedy Boulevard, Houston",HOU,ChIJ8TvZ6Je2QIYRo9ccXopKZ6g
+583,Sheraton North Houston at George Bush Intercontinental,4.1,"15700 John F Kennedy Boulevard, Houston",HOU,ChIJBWA9Zb22QIYRfEcBOYKf8a8
+584,SpringHill Suites by Marriott Houston Intercontinental Airport,4.4,"15840 John F Kennedy Boulevard, Houston",HOU,ChIJoSoOC5i2QIYR_eODAX2UcPU
+585,Houston Marriott South at Hobby Airport,4.2,"9100 Gulf Freeway, Houston",HOU,ChIJQyH-ibuXQIYRDu7JnrD-pIU
+586,DoubleTree by Hilton Hotel Houston Hobby Airport,4.3,"8181 Airport Boulevard, Houston",HOU,ChIJy4n4MbWXQIYRV_rJGCS5d34
+587,Courtyard by Marriott Houston Hobby Airport,4.1,"9190 Gulf Freeway, Houston",HOU,ChIJRQtwCryXQIYRR9_CfzR9McE
+588,"Motel 6 Houston, TX - Hobby",2.9,"9005 Airport Boulevard, Houston",HOU,ChIJI6Bv9rqXQIYRxmHDxQ7haNs
+589,"Holiday Inn Houston-Hobby Airport, an IHG Hotel",3.4,"8611 Airport Boulevard, Houston",HOU,ChIJI-G7-bOXQIYR2I95sh7KXcY
+590,Hilton Kansas City Airport,4,"8801 Northwest 112th Street, Kansas City",MKC,ChIJgVzzZYlewIcRQKsmlOfawjQ
+591,Embassy Suites by Hilton Kansas City International Airport,4.2,"7640 Northwest Tiffany Springs Parkway, Kansas City",MKC,ChIJHe4YQudewIcRGxviyNLCFzA
+592,Days Inn by Wyndham Kansas City International Airport,3.2,"11120 North Ambassador Drive, Kansas City",MKC,ChIJz3XV6YtewIcR1FwWjP4kr1Q
+593,"Holiday Inn Kansas City Airport, an IHG Hotel",4.2,"11728 North Ambassador Drive, Kansas City",MKC,ChIJ3yVvHIFewIcRmGPBpC9rvK0
+594,Kansas City Airport Marriott,4,"775 Brasilia Avenue, Kansas City",MKC,ChIJK-0pReJdwIcR234PgUgxi8E
+595,Best Western Mccarran Inn,4,"4970 Paradise Road, Las Vegas",LAS,ChIJQwPVPK_FyIARs0tWbaAaTMY
+596,"Motel 6 Las Vegas, NV - Tropicana",3.6,"195 East Tropicana Avenue, Las Vegas",LAS,ChIJX2Wc7bXFyIAR8p6Z3iYbTx4
+597,Desert Rose Resort,4.4,"5051 Duke Ellington Way, Las Vegas",LAS,ChIJHYMKmsnFyIARKIyIsI13bYU
+598,Hyatt Place Las Vegas,4.2,"4520 Paradise Road, Las Vegas",LAS,ChIJO12eJa3FyIAROUIjotAL-Lo
+599,Howard Johnson by Wyndham Las Vegas near the Strip,3,"165 East Tropicana Avenue, Las Vegas",LAS,ChIJPS2gccrFyIARWS-0npDA3AQ
+600,"Holiday Inn Express Silao-Aeropuerto Bajio, an IHG Hotel",4.4,"Libramiento Norte 3360, Col. la Joja, Silao",BJX,ChIJcfKG9am_K4QR7pPwzHoet_Y
+601,Hotel Splash Inn,4.3,"Km 155.3 Silao-León de Los Aldama Playas de Sotelo, Silao",BJX,ChIJt67bG9WbK4QRcI1NCqveRAM
+602,Hotel 5 Inn,4.5,"Km 158+300, 36270 México, Carretera Federal 45, Silao",BJX,ChIJeZq2luWZK4QRy78Etzqi-pI
+603,Hotel Villa Victoria,3.8,"Álvaro Obregón 245a, Sin Nombre, Silao",BJX,ChIJN0a04IabK4QRLxT9Xg4tnw0
+604,Hotel Mision Comanjilla,4.2,"Congregación Comanjilla, S/N Rancho Agua Caliente, Silao",BJX,ChIJiQd-TIKYK4QR0COom6F-ZU4
+605,Courtyard by Marriott Los Angeles LAX/Century Boulevard,4.1,"6161 West Century Boulevard, Los Angeles",LAX,ChIJ5-c-ziqxwoAR0PB8w7mx744
+606,Embassy Suites by Hilton Los Angeles International Airport South,4,"1440 East Imperial Avenue, El Segundo",LAX,ChIJqwKyxTaxwoARKc-Swehxlpk
+607,Sheraton Gateway Los Angeles Hotel,4.1,"6101 West Century Boulevard, Los Angeles",LAX,ChIJWQrR4tS2woARHV9LcAjcw48
+608,Travelodge by Wyndham LAX,3.4,"1804 East Sycamore Avenue, El Segundo",LAX,ChIJ6yPHkzWxwoAR-MPLHV1sjRE
+609,Embassy Suites by Hilton Los Angeles International Airport North,4,"9801 Airport Boulevard, Los Angeles",LAX,ChIJHRv6mta2woAR3F88Nz0Mt7Q
+610,We Hotel Aeropuerto,4.1,"Boulevard Puerto Aéreo 390, Moctezuma 2da Sección, Ciudad de México",MEX,ChIJW8MJYwj80YURc0q6XMSv-ks
+611,Hilton México City Airport,4.2,"International Mexico City Airport, Ciudad de México",MEX,ChIJYfcDJHb80YURqf2Q3gID4JI
+612,Camino Real Aeropuerto México,4.3,"Puerto México 80, Peñón de los Baños, Ciudad de México",MEX,ChIJJTny9Qn80YURYx2kbwiftd8
+613,Fiesta Inn Aeropuerto Ciudad de México,4.3,"Boulevard Puerto Aéreo 502, Moctezuma 2da Sección, Ciudad de México",MEX,ChIJM9ELdxz80YUR4Wy_N6se01g
+614,Hotel NH Collection Mexico City Airport T2,4.4,"Capitán Carlos León Gonzales s/n, Ciudad de México",MEX,ChIJAV3tavX70YURoElOH9wXwHs
+615,Miami International Airport Hotel,4.1,"Miami International Airport Hotel, Le Jeune Rd, Concourse E 2nd Floor, Northwest 20th Street, Miami",MIA,ChIJe75xWOK52YgRLUnSri2m6qk
+616,"Holiday Inn Express Miami-Arpt Ctrl-Miami Springs, an IHG Hotel",3.6,"5125 Northwest 36th Street, Miami Springs",MIA,ChIJh5i2ov-52YgRZg1p1LyGx9s
+617,Days Inn by Wyndham Miami Airport North,2.5,"4767 Northwest 36th Street, Miami",MIA,ChIJR8SMCwK72YgR1v0V7WYGm_s
+618,Runway Inn Miami Airport Hotel,2.8,"656 East Drive, Miami Springs",MIA,ChIJZ-tWzlS32YgR9WLi_hc1-30
+619,Sleep Inn Miami Airport,3.6,"105 Fairway Drive, Miami Springs",MIA,ChIJWVoNyPi52YgRCyI9_vhgRYA
+620,Hilton Minneapolis-St. Paul Airport,4.2,"3800 American Boulevard East, Bloomington",MSP,ChIJudV85h8v9ocRmpBcgEwXupo
+621,Embassy Suites by Hilton Minneapolis Airport,4,"7901 34th Avenue South, Bloomington",MSP,ChIJe_VuPh8v9ocRClalfFc_54U
+622,Hampton Inn Suites Minneapolis St Paul Arpt-Mall of America,3.9,"2860 Metro Drive, Bloomington",MSP,ChIJb7y6zBcv9ocRqxNSqVEnyWs
+623,"Crowne Plaza Suites Msp Airport - Mall of America, an IHG Hotel",4,"3 Appletree Square, Bloomington",MSP,ChIJCQdAmx4v9ocR16dqgZVt8sk
+624,Marriott Minneapolis Airport,4,"2020 American Boulevard East, Bloomington",MSP,ChIJmWsQ_2kv9ocRnVIcd0lfjjE
+625,City Express Monterrey Aeropuerto,4.2,"Boulevard Aeropuerto 5028, Industrial Milenium, Ciudad Apodaca",MTY,ChIJI7ClooSVYoYR4qyBX4fZAUE
+626,"Holiday Inn Express & Suites Monterrey Aeropuerto, an IHG Hotel",4.4,"Boulevard Aeropuerto 400, Parque Industrial Milenium, Monterrey",MTY,ChIJNTo3QWrpYoYRf3-RMcx7BxY
+627,"Crowne Plaza Monterrey Aeropuerto, an IHG Hotel",4.5,"Boulevard Aeropuerto 171 Col, Parque Industrial Nexxus, Monterrey",MTY,ChIJC_7jBdLuYoYRu3eqy6WNmxk
+628,ibis Monterrey Aeropuerto,3.8,"Blvd. Interamerican 105 Al 109, Parque Industrial FINSA, Ciudad Apodaca",MTY,ChIJvaoRZ_eVYoYRpvhs_CTXmsk
+629,Best Western Premier Monterrey Aeropuerto,4.6,"Boulevard Aeropuerto 5001, Parque Industrial Milenio, Ciudad Apodaca",MTY,ChIJbbaf_83uYoYRpoDtCzD150g
+630,La Quinta Inn & Suites by Wyndham Nashville Airport,3.3,"531 Donelson Pike, Nashville",BNA,ChIJxTeEAVxpZIgRD4evBpoadP4
+631,Sheraton Music City Nashville Airport,4.2,"777 McGavock Pike, Nashville",BNA,ChIJrX1v5ThpZIgRzvK5VyDuaEU
+632,Sonesta Nashville Airport,4.4,"600 Marriott Drive, Nashville",BNA,ChIJkx4glCRpZIgRjMkFeR3DPnQ
+633,Hilton Nashville Airport,4,"2200 Elm Hill Pike, Nashville",BNA,ChIJZRS3NhZpZIgR5xeM-RPi8_c
+634,La Quinta Inn & Suites by Wyndham Nashville Airport/Opryland,3.1,"2345 Atrium Way, Nashville",BNA,ChIJQeN62RlpZIgRgDNIbkLPCXM
+635,Hilton New Orleans Airport,4.1,"901 Airline Drive, Kenner",MSY,ChIJm_MQeXm3IIYR0pKegSA2b1g
+636,La Quinta Inn & Suites by Wyndham New Orleans Airport,3.6,"2610 Williams Boulevard, Kenner",MSY,ChIJ6946Rjy3IIYR0-i1CZ5PAm0
+637,Comfort Suites Airport,4,"2710 Idaho Avenue, Kenner",MSY,ChIJZ0Mbhzu3IIYRwNR_x-uQMYw
+638,Days Inn by Wyndham New Orleans Airport,2.9,"1021 Airline Drive, Kenner",MSY,ChIJya9qWHi3IIYRdCdpGYRju14
+639,DoubleTree by Hilton Hotel New Orleans Airport,4,"2150 Veterans Memorial Boulevard, Kenner",MSY,ChIJa4hRmjy3IIYRxCZL4YviMNg
+640,TWA Hotel,4.3,"John F. Kennedy International Airport, One, JFK Access Road, Idlewild Drive, Queens",NYC,ChIJUQfOtlhmwokRWLy40MMrLcQ
+641,Smarte Carte Inc,1,"Jfk International Airport, Jamaica",NYC,ChIJQ8ytUepjwokRNc8uaE6PcSI
+642,TWA Fitness,4.8,"John F. Kennedy International Airport, One Idlewild Drive, Queens",NYC,ChIJ84UHG89nwokRXNTuJUme5KQ
+643,Newark Liberty International Airport Marriott,4,"Newark Liberty International Airport, 1 Hotel Road, Newark",NYC,ChIJlXycOvpSwokRRtWN6t7gjJw
+644,Hilton Newark Airport,4,"1170 Spring Street, Elizabeth",NYC,ChIJQ_SvvOpSwokRffhKuMFRj9Q
+645,Holiday Inn Newark Airport,3.9,"450 US Route 1 &, 9, Newark",NYC,ChIJId6gPexSwokRxo1OL_fk4Eo
+646,"Crowne Plaza Newark Airport, an IHG Hotel",3.6,"901 Spring Street, Elizabeth",NYC,ChIJt5FQF5ZSwokRxKd9lxfdqUE
+647,Best Western Plus Newark Airport West,3.8,"101 International Way, Newark",NYC,ChIJOSlAfh1TwokRk06ueEQUhGo
+648,Cambridge Inn,3.7,"7400 South May Avenue, Oklahoma City",OKC,ChIJ36JUdbUTsocRHJPJUcoibq4
+649,"Motel 6 Oklahoma City, OK - Airport East",3.1,"7404 South May Avenue, Oklahoma City",OKC,ChIJHU4CCbUTsocR__NXA_vbXj4
+650,Hyatt Regency Orlando International Airport,4.5,"9300 Jeff Fuqua Boulevard, Orlando",ORL,ChIJ3WB_SuVi54gRBht8RQ7TZeU
+651,Ramada by Wyndham Suites Orlando Airport,3.9,"7500 Augusta National Drive, Orlando",ORL,ChIJeyGRTBBj54gRg2_dLKOGhVw
+652,Marriott Orlando Airport Lakeside,4.3,"7499 Augusta National Drive, Orlando",ORL,ChIJuYNTzA9j54gR6gElen245tA
+653,Hilton Garden Inn Orlando Airport,4.2,"7300 Augusta National Drive, Orlando",ORL,ChIJH_My7BFj54gRDQc1O6UgZIQ
+654,La Quinta Inn & Suites by Wyndham Orlando Airport North,4.1,"7160 North Frontage Road, Orlando",ORL,ChIJRX5UohZj54gRs-mUifTINOw
+655,Philadelphia Airport Marriott,4.1,"One Arrivals Road Terminal B, Philadelphia",PHL,ChIJaQfX4ZzExokRQc3HFJWnlb4
+656,Embassy Suites by Hilton Philadelphia Airport,3.5,"9000 Bartram Avenue, Philadelphia",PHL,ChIJRTmGxn3DxokRTe3Yvn-Nrl0
+657,Sonesta Select Philadelphia Airport,4,"8900 Bartram Avenue, Philadelphia",PHL,ChIJ78HXE4DExokRsj-AjwOorrw
+658,Fairfield Inn Philadelphia Airport,3.7,"8800 Bartram Avenue, Philadelphia",PHL,ChIJORlx1IHExokR9CX_HJ9tbAM
+659,Hampton Inn Philadelphia-International Airport,3.8,"8600 Bartram Avenue, Philadelphia",PHL,ChIJW7-AQ4DExokRjkd3o-GLRCk
+660,Hilton Garden Inn Phoenix Airport North,4.2,"3838 East Van Buren Street, Phoenix",PHX,ChIJH2-KO4cOK4cRdw4y671fEgw
+661,Aloft Phoenix-Airport,4.2,"4450 East Washington Street, Phoenix",PHX,ChIJcfl0b5AOK4cRNPRF4KMuxZw
+662,DoubleTree Suites by Hilton Hotel Phoenix,4,"320 North 44th Street, Phoenix",PHX,ChIJYcZBvoQOK4cRV_kAP0NqshA
+663,Hilton Phoenix Airport,4.3,"2435 South 47th Street, Phoenix",PHX,ChIJwbhAveYOK4cRS_nQ9KGAi6s
+664,"Holiday Inn Express & Suites Phoenix Airport, an IHG Hotel",4.2,"3401 East University Drive, Phoenix",PHX,ChIJ36JozsIRK4cRHTOhqCLJWSg
+665,La Quinta Inn & Suites by Wyndham Salt Lake City Airport,3.8,"4905 Wiley Post Way, Salt Lake City",SLC,ChIJhXlv2jbyUocRrs14OraVwkQ
+666,"Holiday Inn Express & Suites Salt Lake City-Airport East, an IHG Hotel",4.2,"200 North 2100 West, Salt Lake City",SLC,ChIJGWMtPHb0UocRzV0IqxXiiB4
+667,Radisson Hotel Salt Lake City Airport,3.3,"2177 West North Temple Street, Salt Lake City",SLC,ChIJ18mQ2Hf0UocRkArKsR3iODg
+668,DoubleTree by Hilton Hotel Salt Lake City Airport,4.1,"5151 Wiley Post Way, Salt Lake City",SLC,ChIJD2O7OTryUocRnRbxDgzDpC8
+669,Residence Inn by Marriott Salt Lake City Airport,4.2,"4883 West Douglas Corrigan Way, Salt Lake City",SLC,ChIJnaJy-jbyUocR-95Zw6hfomA
+670,Sheraton San Diego Hotel & Marina,4.1,"1380 Harbor Island Drive, San Diego",SAN,ChIJz51XAUCr3oAR6XwxuHXrOUc
+671,Hilton San Diego Airport/Harbor Island,4.2,"1960 Harbor Island Drive, San Diego",SAN,ChIJBwpcVg2r3oARFfs8-h0mBeg
+672,Courtyard by Marriott San Diego Airport/Liberty Station,4.5,"2592 Laning Road, San Diego",SAN,ChIJgzar2Air3oARtNzkgMUEko8
+673,La Quinta Inn & Suites by Wyndham San Diego Old Town/Airport,4,"2380 Moore Street, San Diego",SAN,ChIJUbzGhN-q3oARzfsh-dL45yc
+674,Fairfield Inn & Suites by Marriott San Diego Old Town,4.2,"3900 Old Town Avenue, San Diego",SAN,ChIJiZnBoSCr3oARGXDO-NgF9q8
+675,Embassy Suites by Hilton San Antonio Airport,4.3,"10110 U.S. 281, San Antonio",SAT,ChIJZYtR8KeKXIYR7Kvg0ip6Y5Q
+676,Hilton Garden Inn San Antonio Airport South,4.1,"8505 Broadway, San Antonio",SAT,ChIJbaxwxUr1XIYRK5FMJRFxgSc
+677,La Quinta Inn & Suites by Wyndham San Antonio Airport,4,"850 Halm Boulevard, San Antonio",SAT,ChIJ-TCOMauKXIYR2co_TdsQgOc
+678,"Holiday Inn Express San Antonio-Airport, an IHG Hotel",4.5,"91 Northeast Interstate 410 Loop, San Antonio",SAT,ChIJz6RWuAFgXIYRgPrmRhQJ4WY
+679,Fairfield Inn & Suites by Marriott San Antonio Airport/North Star Mall,3.9,"88 Northeast Interstate 410 Loop, San Antonio",SAT,ChIJoRp0kABgXIYR4bqZfJGJ2eM
+680,"Sfo Airport Hotel, El Rancho Inn, BW Signature Collection",4.1,"1100 El Camino Real, Millbrae",SFO,ChIJwf_keZ93j4ARXnyhPd_snMw
+681,Hotel 1550,4,"1550 El Camino Real, San Bruno",SFO,ChIJK2TBOXZ3j4AR0GcBlSQsOY4
+682,The Millwood - A Boutique Hotel,4.3,"1375 El Camino Real, Millbrae",SFO,ChIJBWjaH553j4ARUA_jMvWQ_Mk
+683,Fairfield Inn & Suites by Marriott San Francisco Airport/Millbrae,4,"250 El Camino Real, Millbrae",SFO,ChIJWbk5MqV3j4ARAe6duVmddx8
+684,Hotel Aura,4.3,"190 El Camino Real, San Bruno",SFO,ChIJZ4zb8nt3j4ARZA9zjTiRfIU
+685,Hilton Seattle Airport & Conference Center,4,"17620 International Boulevard, Seattle",SEA,ChIJvcyZA6xckFQRdOePznHCxns
+686,Radisson Hotel Seattle Airport,4.1,"18118 International Boulevard, Seattle",SEA,ChIJU46tiahckFQRXtt6bjMdi60
+687,Seattle Airport Marriott,4.2,"3201 South 176th Street, Seattle",SEA,ChIJq62dVa5ckFQRlC164bJxLUw
+688,Red Roof Inn Seattle Airport - SEATAC,3.6,"16838 International Boulevard, Seattle",SEA,ChIJXQaeV01DkFQR96eEyUW5L8s
+689,La Quinta Inn & Suites by Wyndham Seattle Sea-Tac Airport,3.9,"2824 South 188th Street, Seattle",SEA,ChIJrU386FhbkFQRj8xo7Kneums
+690,Drury Inn & Suites St. Louis Airport,4.5,"10490 Natural Bridge Road, St. Louis",STL,ChIJg-2svac234cRfvo0xrYviO0
+691,Hilton St. Louis Airport,3.8,"10330 Natural Bridge Road, St. Louis",STL,ChIJqXUrER4034cRFjDf-lygnrw
+692,Quality Inn Airport,2.9,"10232 Natural Bridge Road, St. Louis",STL,ChIJyRw2xx8034cRnaBs4tIW1jY
+693,"Crowne Plaza St. Louis Airport, an IHG Hotel",3.9,"11228 Lone Eagle Drive, Bridgeton",STL,ChIJb6akrWYx34cRlc4u8rSZ6OY
+694,Super 8 by Wyndham St. Louis Airport,2.8,"9798 Saint Charles Rock Road, Breckenridge Hills",STL,ChIJ9xlFFQk034cRD6bjOrzUZCI
+695,Grand Hyatt Tampa Bay,4.5,"2900 Bayport Drive, Tampa",TPA,ChIJoaNvaGPCwogRa7EVtzV5nd8
+696,Renaissance Tampa International Plaza Hotel,4.5,"4200 Jim Walter Boulevard, Tampa",TPA,ChIJc4_gvVLCwogRcMKGyflqumU
+697,Tampa Airport Marriott,4.4,"Tampa International Airport, 4200 George J Bean Parkway, Tampa",TPA,ChIJQ0Sek0bCwogRpIIFHoyDJAs
+698,Hilton Garden Inn Tampa Airport Westshore,4.4,"5312 Avion Park Drive, Tampa",TPA,ChIJ9fwTv1jCwogRLxo1ERokfrY
+699,La Quinta Inn by Wyndham Tampa Bay Airport,3.1,"4730 West Spruce Street, Tampa",TPA,ChIJeXfQ9lbCwogROB-w_011tmQ
+700,Washington Dulles Airport Marriott,4,"45020 Aviation Drive, Dulles",WAS,ChIJK87f1INHtokR8V-p_sIlSCc
+701,The Westin Washington Dulles Airport,4.2,"2520 Wasser Terrace, Herndon",WAS,ChIJ3ZQHkXZHtokR0exa1cY04BY
+702,"Candlewood Suites Washington-Dulles Herndon, an IHG Hotel",4,"13845 Sunrise Valley Drive, Herndon",WAS,ChIJIY5UmHVHtokRbH1F9nyGPFY
+703,Hyatt Regency Dulles,4.2,"2300 Dulles Corner Boulevard, Herndon",WAS,ChIJQUumvYJHtokRz1JgP9NRqWg
+704,Hyatt Place Herndon/Dulles Airport-East,4.1,"13711 Sayward Boulevard, Herndon",WAS,ChIJFd4YKZ1HtokRsrQ3BOMseMM
+705,Courtyard by Marriott Fort Lauderdale Airport & Cruise Port,4.1,"400 Gulf Stream Way, Dania Beach",FLL,ChIJMc5As2qq2YgRiAl0u3qUCmE
+706,"Candlewood Suites Ft. Lauderdale Airport/Cruise, an IHG Hotel",3.8,"1120 West State Road 84, Fort Lauderdale",FLL,ChIJ6fUl4poA2YgRijpxqXxaV5A
+707,Fairfield Inn & Suites by Marriott Fort Lauderdale Airport & Cruise Port,4,"2081 Griffin Road, Dania Beach",FLL,ChIJMWeG9RSq2YgRkKZVuCe9jSQ
+708,"Holiday Inn Express & Suites Ft. Lauderdale Airport/Cruise, an IHG Hotel",4,"1150 Florida 84, Fort Lauderdale",FLL,ChIJQ6j9-5oA2YgRDiZyGwuzOAY
+709,Crowne Plaza Ft. Lauderdale Airport/Cruise,4,"455 Florida 84, Fort Lauderdale",FLL,ChIJH2ZuTWMA2YgRlIUFxmq5u0M
+710,Best Western The Plaza Hotel,3.8,"3253 North Nimitz Highway, Honolulu",HNL,ChIJd0UB06lvAHwRZ131j2NndB8
+711,Pacific Marina Inn,3.3,"2628 Waiwai Loop, Honolulu",HNL,ChIJRzU4sVVuAHwRb47zX4bkyCQ
+712,Airport Honolulu Hotel,3.8,"3401 North Nimitz Highway, Honolulu",HNL,ChIJgYwc8advAHwRnS0CTS0s00I
+713,Embassy Suites by Hilton Portland Airport,4.2,"7900 Northeast 82nd Avenue, Portland",PDX,ChIJlSaRYBaklVQRx0ubTIGuW_Y
+714,Radisson Hotel Portland Airport,4.2,"6233 Northeast 78th Court, Portland",PDX,ChIJ42NOWh2klVQRkGW0guqQUMY
+715,"Holiday Inn Portland-Airport (I-205), an IHG Hotel",3.9,"8439 Northeast Columbia Court, Portland",PDX,ChIJ8wvW7AGklVQR6oUdY50VKXU
+716,Sheraton Portland Airport Hotel,4.2,"8235 Northeast Airport Way, Portland",PDX,ChIJwc5JlT2klVQRa1czlXp86R8
+717,Residence Inn by Marriott Portland Airport at Cascade Station,4.4,"9301 Northeast Cascades Parkway, Portland",PDX,ChIJfdzA-hOklVQRSsFJBRJDsFg
+718,Grand Hyatt Tampa Bay,4.5,"2900 Bayport Drive, Tampa",TPA,ChIJoaNvaGPCwogRa7EVtzV5nd8
+719,Renaissance Tampa International Plaza Hotel,4.5,"4200 Jim Walter Boulevard, Tampa",TPA,ChIJc4_gvVLCwogRcMKGyflqumU
+720,Tampa Airport Marriott,4.4,"Tampa International Airport, 4200 George J Bean Parkway, Tampa",TPA,ChIJQ0Sek0bCwogRpIIFHoyDJAs
+721,Hilton Garden Inn Tampa Airport Westshore,4.4,"5312 Avion Park Drive, Tampa",TPA,ChIJ9fwTv1jCwogRLxo1ERokfrY
+722,La Quinta Inn by Wyndham Tampa Bay Airport,3.1,"4730 West Spruce Street, Tampa",TPA,ChIJeXfQ9lbCwogROB-w_011tmQ
+723,Red Roof Inn Cincinnati Airport-Florence/ Erlanger,3.3,"599 Donaldson Highway, Erlanger",CVG,ChIJZZzmQP3HQYgRGfMTQMEBV5U
+724,"Holiday Inn Cincinnati Airport, an IHG Hotel",4.1,"1717 Airport Exchange Boulevard, Erlanger",CVG,ChIJDYR6q0DIQYgRf5GKvdFDfAI
+725,Hilton Cincinnati Airport,4.2,"7373 Turfway Road, Florence",CVG,ChIJyz6ooMbHQYgRdYKeM6UBOtE
+726,Marriott Cincinnati Airport,4.4,"2395 Progress Drive, Hebron",CVG,ChIJdcWlXwLJQYgRwuzg6iohFvU
+727,Hampton Inn Cincinnati Airport-North,4.1,"755 Petersburg Road, Hebron",CVG,ChIJC4-D0QLJQYgRmZ02jGW-Wgw
+728,Hilton Oakland Airport,3.8,"One Hegenberger Road, Oakland",OAK,ChIJ5ThdbKGFj4ARMP22GPvcZGo
+729,Best Western Plus Airport Inn & Suites,4.1,"170 Hegenberger Loop, Oakland",OAK,ChIJ70vjh5eFj4ARJG9ggZ4vj04
+730,Hampton Inn & Suites Oakland Airport-Alameda,4.1,"1700 Harbor Bay Parkway, Alameda",OAK,ChIJF_2QcEKEj4ARS4D7AUsIQ58
+731,La Quinta Inn & Suites by Wyndham Oakland Airport Coliseum,3.3,"8465 Enterprise Way, Oakland",OAK,ChIJ45hkRJSFj4ARV7SszfZFo1M
+732,Econo Lodge Inn & Suites Oakland Airport,3.5,"10 Hegenberger Road, Oakland",OAK,ChIJlTTRfqGFj4ARq_DpKSv1ekw
+733,Hyatt Regency Pittsburgh International Airport,4.1,"1111 Airport Boulevard, Pittsburgh",PIT,ChIJw_MAUcNcNIgRW4fVO69-65k
+734,La Quinta Inn by Wyndham Pittsburgh Airport,3.9,"8507 University Boulevard, Moon Township",PIT,ChIJl0mVz61dNIgRVETMweeLz00
+735,Americas Best Value Inn Pittsburgh Airport,2.9,"8858 University Boulevard, Coraopolis",PIT,ChIJWRyH36xdNIgRdk2teK7MNZQ
+736,Hampton Inn Pittsburgh-Airport,4.1,"8514 University Boulevard, Moon Township",PIT,ChIJjVCpOaxdNIgRSYmX9ELAETk
+737,Sheraton Pittsburgh Airport Hotel,4,"1160 Thorn Run Road, Coraopolis",PIT,ChIJEf6uqEpcNIgR1DDf7XG5Gpg
+738,DoubleTree by Hilton Hotel San Jose,3.9,"2050 Gateway Place, San Jose",SJC,ChIJK0PeRurLj4AR9WQha5RrPRQ
+739,Sonesta Select San Jose Airport,4.1,"1727 Technology Drive, San Jose",SJC,ChIJf3Rp6pPLj4ARV_ZqG8IhgSE
+740,Fairfield Inn & Suites by Marriott San Jose Airport,4.1,"1755 North First Street, San Jose",SJC,ChIJ1Q_Ji5LLj4ARvnfD6_dlgU8
+741,Sonesta ES Suites San Jose Airport,4.3,"1602 Crane Court, San Jose",SJC,ChIJvfYujfLLj4ARNK3HJdqghfw
+742,La Quinta Inn & Suites by Wyndham San Jose Airport,3.9,"2585 Seaboard Avenue, San Jose",SJC,ChIJD8snJtfLj4ARBwiVOrGWpyk
+743,Embassy Suites by Hilton Raleigh Durham Airport Brier Creek,4.6,"8001 Arco Corporate Drive, Raleigh",RDU,ChIJ012f0J3wrIkRW5LCjhFIG-s
+744,Hilton Garden Inn Raleigh-Durham Airport,4.1,"1500 RDU Center Drive, Morrisville",RDU,ChIJUfaGJqHxrIkR2q6fS13h32w
+745,Fairfield Inn & Suites by Marriott Raleigh-Durham Airport/Research Triangle Park,4.3,"2750 Slater Road, Morrisville",RDU,ChIJe5XNU8_xrIkRRlANdluUetc
+746,Microtel Inn & Suites by Wyndham Raleigh Durham Airport,3.4,"104 Factory Shops Road, Morrisville",RDU,ChIJ3ZvXUMjxrIkR7pvPaqVbeSk
+747,Fairfield Inn & Suites by Marriott Raleigh-Durham Airport/Brier Creek,4.3,"10040 Sellona Street, Raleigh",RDU,ChIJd0APrGjwrIkRRG5Reg4zH2E
+748,La Quinta Inn & Suites by Wyndham Memphis Airport Graceland,3.7,"2979 Millbranch Road, Memphis",MEM,ChIJY5BkyGV91YcRDbcuUuiTfMI
+749,Knights Inn Memphis at Airways Blvd,2.7,"2949 Airways Boulevard, Memphis",MEM,ChIJQzNd9o2Hf4gREyEykOmlmLQ
+750,Courtyard by Marriott Memphis Airport,3.7,"1780 Nonconnah Boulevard, Memphis",MEM,ChIJvR2PNGN91YcRsV2OTaSr03k
+751,Days Inn by Wyndham Memphis at Graceland Airport,3,"3839 Elvis Presley Boulevard, Memphis",MEM,ChIJqfV7KTJ91YcRefCLX7wnGWM
+752,Holiday Inn Memphis Airport - Conf Ctr,3.6,"2240 Democrat Road, Memphis",MEM,ChIJDXp3L-iHf4gRn7wgNk_D9FM
+753,Hilton Irvine/Orange County Airport,4,"18800 Macarthur Boulevard, Irvine",SNA,ChIJkV5eRfHe3IAR6Cs5dv_0vNw
+754,Irvine Marriott,4.4,"18000 Von Karman Avenue, Irvine",SNA,ChIJx6oOPoze3IAR4aCGakw8AA4
+755,Embassy Suites by Hilton Irvine Orange County Airport,4.2,"2120 Main Street, Irvine",SNA,ChIJW4qqNZLe3IARkZszdPZl3a8
+756,SpringHill Suites by Marriott Irvine John Wayne Airport/Orange County,4.2,"17601 Fitch, Irvine",SNA,ChIJWWJMx8be3IARazbB-zQjze4
+757,Courtyard by Marriott Irvine John Wayne Airport/Orange County,4.1,"2701 Main Street, Irvine",SNA,ChIJJfLgTITe3IARxED3ASX3kao
+758,La Quinta Inn & Suites by Wyndham Cleveland - Airport North,4,"4222 West 150th Street, Cleveland",CLE,ChIJE3BVwbntMIgRSD-ab95c1io
+759,Hilton Garden Inn Cleveland Airport,4.2,"4900 Emerald Court Southwest, Cleveland",CLE,ChIJnfbGlt3sMIgRBWLZwfE8w3o
+760,Ramada by Wyndham Cleveland Airport West,2.9,"22115 Brookpark Road, Fairview Park",CLE,ChIJOQceKjOTMIgRTk7FAt6xEOs
+761,Howard Johnson by Wyndham Cleveland Airport,2.6,"16644 Snow Road, Brook Park",CLE,ChIJoSwMPmTsMIgRuKWSc15GfEA
+762,Comfort Inn Cleveland Airport,3.5,"17550 Rosbough Boulevard, Middleburg Heights",CLE,ChIJBVvE453rMIgRS_8rzAo0o8s
+763,"Crowne Plaza Indianapolis-Airport, an IHG Hotel",4,"2501 South High School Road, Indianapolis",IND,ChIJTX58BZGnbIgR-C97ptNlWcw
+764,"Country Inn & Suites by Radisson, Indianapolis Airport South, IN",4.2,"5630 Flight School Drive, Indianapolis",IND,ChIJSyTicWGnbIgR5Y2PKwa1NKg
+765,Comfort Suites near Indianapolis Airport,4.1,"2750 Fortune Circle West, Indianapolis",IND,ChIJYyiF7IWnbIgRST0Ts_ewSw8
+766,Wyndham Indianapolis West,3.7,"2544 Executive Drive, Indianapolis",IND,ChIJFRoLx4mnbIgRoVSCc_zKW7I
+767,La Quinta Inn by Wyndham Indianapolis Airport Executive Dr,3.3,"2650 Executive Drive, Indianapolis",IND,ChIJLc23FIinbIgRwUi8W9ZBzcs
+768,Embassy Suites by Hilton Columbus Airport,4.4,"2886 Airport Drive, Columbus",CMH,ChIJS7UCj5GJOIgRr3Owc49VN68
+769,Hampton Inn Columbus-Airport,4.1,"4280 International Gateway, Columbus",CMH,ChIJR7IzpxBiOIgRZ6mrlJkPpOU
+770,Hilton Garden Inn Columbus Airport,4.1,"4265 Sawyer Road, Columbus",CMH,ChIJt7XtPBpiOIgR7akCfQBjnvo
+771,Sonesta Simply Suites Columbus Airport Gahanna,4.3,"590 Taylor Road, Gahanna",CMH,ChIJC0WnSdRjOIgRTLkUuDxJF8E
+772,Four Points by Sheraton Columbus Ohio Airport,3.8,"3030 Plaza Properties Boulevard, Columbus",CMH,ChIJ02d16_KJOIgRDAFVubwTjbM
+773,Courtyard by Marriott Tucson Airport,4.1,"2505 East Executive Drive, Tucson",TUS,ChIJx-6uDxp71oYR1zLoIv7ZNbo
+774,La Quinta Inn & Suites by Wyndham Tucson Airport,4.2,"7001 South Tucson Boulevard, Tucson",TUS,ChIJXeOavxN71oYRbLGkKoBPTwQ
+775,Best Western Tucson Int'L Airport Hotel & Suites,3.9,"6801 South Tucson Boulevard, Tucson",TUS,ChIJXZQvFhF71oYR1aZdfq5j_co
+776,"Country Inn & Suites by Radisson, Tucson Airport, AZ",4.2,"6681 South Tucson Boulevard, Tucson",TUS,ChIJGZV3tBB71oYRX517ECSJP50
+777,Four Points by Sheraton Tucson Airport,4,"7060 South Tucson Boulevard, Tucson",TUS,ChIJ7bMXUxJ71oYRL7Hoo2boW6E
+778,Hilton Garden Inn Buffalo Airport,4.4,"4201 Genesee Street, Cheektowaga",BUF,ChIJLfFZwrN004kRIOrKwqI9M7g
+779,Homewood Suites by Hilton Buffalo-Airport,4.3,"760 Dick Road, Cheektowaga",BUF,ChIJJR9vBFQL04kRTZjIgC5V6Xo
+780,Salvatore's Garden Place Hotel,3.9,"6615 Transit Road, Williamsville",BUF,ChIJUd1w49V104kRh6m_t8jVotI
+781,Millennium Buffalo,3.9,"2040 Walden Avenue, Buffalo",BUF,ChIJeaLDnpcM04kR_Fo5TWal0ZE
+782,"Holiday Inn Express & Suites Buffalo-Airport, an IHG Hotel",4.2,"131 Buell Avenue, Cheektowaga",BUF,ChIJk0apc61004kRTC3FueOL5_I
+783,Hotel Captain Cook,4.5,"939 West 5th Avenue, Anchorage",ANC,ChIJoUUNNIG9yFYRT1rea_yflgI
+784,Hilton Anchorage,3.6,"500 West 3rd Avenue, Anchorage",ANC,ChIJgzxCdIe9yFYRdq3MOq8mrQ0
+785,SpringHill Suites by Marriott Anchorage University Lake,4.3,"4050 University Lake Drive, Anchorage",ANC,ChIJiTrF5QKXyFYRaSvG-2NZzx4
+786,Dimond Center Hotel,4.1,"700 East Dimond Boulevard, Anchorage",ANC,ChIJhwSSWNCZyFYRERrQFrAM0SI
+787,Anchorage Downtown Hotel,3.1,"826 K Street, Anchorage",ANC,ChIJef-GSIC9yFYRMmMwrhjjdgY
+788,Hilton Garden Inn Jacksonville Airport,4,"13503 Ranch Road, Jacksonville",JAX,ChIJ1RVGsq2v5YgRppXEnZKVlGw
+789,Hyatt Place Jacksonville Airport,4.2,"14565 Duval Road, Jacksonville",JAX,ChIJx0UteK2v5YgRbEix1kc2xQw
+790,Courtyard by Marriott Jacksonville Airport Northeast,4.2,"14668 Duval Road, Jacksonville",JAX,ChIJ8c4hSa2v5YgRf2shsMAJ9UY
+791,Jacksonville Plaza Hotel & Suites,3.3,"14585 Duval Road, Jacksonville",JAX,ChIJ_2fScq2v5YgRpPr-0M8hsSw
+792,SpringHill Suites by Marriott Jacksonville Airport,4,"13550 Airport Court, Jacksonville",JAX,ChIJozSXGq-v5YgREgRuKj_hsYY
+793,Hilton Garden Inn Hartford North/Bradley Int'l Airport,4.3,"555 Corporate Drive, Windsor",BDL,ChIJVQB4cqH_5okRViSjZ0-lmGs
+794,Fairfield Inn & Suites by Marriott Hartford Airport,4,"2 Loten Drive, Windsor Locks",BDL,ChIJ4TTxTHr-5okRGibDNTOM44I
+795,Econo Lodge Inn & Suites Airport,3.4,"34 Old County Road, Windsor Locks",BDL,ChIJacAY2dX95okROwpeOqd4FvU
+796,DoubleTree by Hilton Hotel Hartford - Bradley Airport,3.8,"16 Ella T, Ella Grasso Turnpike, Windsor Locks",BDL,ChIJW3ufqHr-5okRMN1mxWxsQmQ
+797,SpringHill Suites by Marriott Hartford Airport/Windsor Locks,4.2,"225 Ella Grasso Turnpike, Windsor Locks",BDL,ChIJrU6Szdb95okRQok30QWT8Qs
+798,"Holiday Inn Palm Beach-Airport Conf Ctr, an IHG Hotel",3.8,"1301 Belvedere Road, West Palm Beach",PBI,ChIJg6jptk7W2IgRmpbpLFl1q70
+799,Hilton Palm Beach Airport,4.1,"150 Australian Avenue, West Palm Beach",PBI,ChIJSQIRg7bX2IgRWt51oMk2y8M
+800,DoubleTree by Hilton Hotel West Palm Beach Airport,3.8,"1808 South Australian Avenue, West Palm Beach",PBI,ChIJ1xoQbUbW2IgRSlb3VSAOhlw
+801,Embassy Suites by Hilton West Palm Beach Central,4.2,"1601 Belvedere Road, West Palm Beach",PBI,ChIJ-0o670nW2IgRei3NTJxV6EU
+802,West Palm Beach Marriott,4.2,"1001 Okeechobee Boulevard, West Palm Beach",PBI,ChIJLRfMWF3W2IgRApHUwnsXqdM
+803,Maui Seaside Hotel,3.8,"100 West Kaahumanu Avenue, Kahului",OGG,ChIJi7shuN7SVHkRlj70fKaE7N0
+804,Maui Beach Hotel,3.7,"170 West Kaahumanu Avenue, Kahului",OGG,ChIJJwCz3N7SVHkRXqWINLrLXOE
+805,Maui Sunset,4.4,"1032 South Kihei Road, Kihei",OGG,ChIJhX9eG0TQVHkR418-ozVji8o
+806,Maui Coast Hotel,4.5,"2259 South Kihei Road, Kihei",OGG,ChIJ9QaO7qDaVHkR5yI5lfNlSOg
+807,The Hale Pau Hana,4.8,"2480 South Kihei Road, Kihei",OGG,ChIJnR4fuaPaVHkRj_dN_9_yVVI
+808,"Holiday Inn Express & Suites Sacramento Airport Natomas, an IHG Hotel",4.2,"2981 Advantage Way, Sacramento",SAC,ChIJM1QSh_spm4ARraE1WYfixbQ
+809,Hampton Inn & Suites Sacramento-Airport-Natomas,4.3,"3021 Advantage Way, Sacramento",SAC,ChIJz_XrEfwpm4ARZgOu1GHw-Pw
+810,Homewood Suites by Hilton Sacramento Airport-Natomas,4.2,"3001 Advantage Way, Sacramento",SAC,ChIJ2euq9fspm4ARDJNU9vy4YKY
+811,Four Points by Sheraton Sacramento International Airport,3.7,"4900 Duckhorn Drive, Sacramento",SAC,ChIJqVGyVwIqm4ARUMigG870MPY
+812,Worldwide Oakwood,4,"4101 Innovator Drive, Sacramento",SAC,ChIJxdU1aT3WmoARHjV5i7OKDWc
+813,Hampton Inn & Suites Norfolk-Airport,4.2,"1511 USAA Drive, Norfolk",ORF,ChIJ2407cfaWuokR6Y2N6L4kRdc
+814,Best Western Center Inn,3.8,"5718 Northampton Boulevard, Virginia Beach",ORF,ChIJsT-2OpyWuokRMIVM3DNjulc
+815,Residence Inn by Marriott Norfolk Airport,4,"1590 North Military Highway, Norfolk",ORF,ChIJhS21KveWuokRX2SwzyxdsHc
+816,La Quinta Inn & Suites by Wyndham Norfolk Airport,3.9,"1387 North Military Highway, Norfolk",ORF,ChIJiX36SliWuokR4O69vfL-4ak
+817,Red Roof Inn Virginia Beach - Norfolk Airport,3.2,"5745 Northampton Boulevard, Virginia Beach",ORF,ChIJNTTI8JyWuokRGAg71TOFzvY
+818,"Holiday Inn Express & Suites Reno Airport, an IHG Hotel",4.4,"2375 Market Street, Reno",RNO,ChIJX8m41WY_mYAR7oBrdT7oP9M
+819,Grand Sierra Resort and Casino,4.3,"2500 East 2nd Street, Reno",RNO,ChIJG7qnuls_mYARweP739kMgh8
+820,Peppermill Resort Spa Casino,4.4,"2707 South Virginia Street, Reno",RNO,ChIJ07LkRY9AmYARbPPabWOgb1I
+821,Nugget Casino Resort,3.8,"1100 Nugget Avenue, Sparks",RNO,ChIJxQpVnjo_mYARW9gkVzXSKgY
+822,Eldorado Resort Casino,4.2,"345 North Virginia Street, Reno",RNO,ChIJ080StzVHmYARD-YbD1sKARw
+823,Los Angeles Marriott Burbank Airport,4.3,"2500 North Hollywood Way, Burbank",BUR,ChIJdQ5F7aeVwoARAsQHeyQNLzA
+824,Ramada by Wyndham Burbank Airport,3.7,"2900 North San Fernando Boulevard, Burbank",BUR,ChIJ-TgkJgSVwoARnM1PziFoUb4
+825,Hampton Inn and Suites Los Angeles Burbank Airport,4.2,"7501 North Glenoaks Boulevard, Burbank",BUR,ChIJr3gi1gGVwoARg_Wq-IpPZqM
+826,Courtyard by Marriott Los Angeles Burbank Airport,4.2,"2100 Empire Avenue, Burbank",BUR,ChIJ1XWJhxKVwoAROqbHjEbClSc
+827,Extended Stay America - Los Angeles - Burbank Airport,3.6,"2200 Empire Avenue, Burbank",BUR,ChIJn9DknhKVwoARzZYfCk-I424
+828,Long Beach Marriott,4.4,"4700 Airport Plaza Drive, Long Beach",LGB,ChIJaxXXgyEy3YARo3UO0Y5o8ao
+829,"Holiday Inn Long Beach Airport, an IHG Hotel",4,"2640 North Lakewood Boulevard, Long Beach",LGB,ChIJGdQGnIkx3YARHcjYXaRh0NE
+830,Residence Inn by Marriott Long Beach,4.3,"4111 East Willow Street, Long Beach",LGB,ChIJV01VNogx3YARqMq1oDJEAxM
+831,Courtyard by Marriott Long Beach Airport,4.4,"3841 North Lakewood Boulevard, Long Beach",LGB,ChIJ13s5P0cy3YARKf-7H9rpskw
+832,Extended Stay America - Los Angeles - Long Beach Airport,3.2,"4105 East Willow Street, Long Beach",LGB,ChIJnyw1TYgx3YARWU25vbcqlF4
+833,Hampton Inn & Suites Providence/Warwick-Airport,3.2,"2100 Post Road, Warwick",PVD,ChIJaV_w2yhM5IkRf2AL3kRAuvU
+834,Holiday Inn Express & Suites Warwick-Providence (Airport),4.2,"901 Jefferson Boulevard, Warwick",PVD,ChIJH6DlNSRM5IkRPb0odTDwTEU
+835,Radisson Hotel Providence Airport,3.9,"2081 Post Road, Warwick",PVD,ChIJc9d88ChM5IkROk3cbd1z7q0
+836,Hilton Garden Inn Providence Airport/Warwick,4.3,"1 Thurber Street, Warwick",PVD,ChIJlROHX51O5IkRxnltsrLH7IY
+837,La Quinta Inn & Suites by Wyndham Warwick Providence Airport,3.6,"36 Jefferson Boulevard, Warwick",PVD,ChIJGxUFuPZO5IkRVXNj2eSaBnE
+838,Best Western Premier Waterfront Hotel & Convention Center,4.4,"1 North Main Street, Oshkosh",OSH,ChIJe7QFyfTrA4gRbIws5gZLRd0
+839,Hilton Garden Inn Oshkosh,4.1,"1355 West 20th Avenue, Oshkosh",OSH,ChIJaar5lr7uA4gRiK4T4ZwObi8
+840,Fairfield Inn & Suites by Marriott Oshkosh,3.9,"1800 South Koeller Street, Oshkosh",OSH,ChIJi-Sd0cXuA4gRAnIbjG7LjFY
+841,"Holiday Inn Express & Suites Oshkosh-Sr 41, an IHG Hotel",4.1,"2251 Westowne Avenue, Oshkosh",OSH,ChIJTU_emxjpA4gRlrVabv9oDcA
+842,"Motel 6 Oshkosh, WI",2.7,"1015 South Washburn Street, Oshkosh",OSH,ChIJKzzrFM3uA4gRYl0digf5Ar4
+843,Hilton Omaha,4.1,"1001 Cass Street, Omaha",OMA,ChIJVVxxHrqPk4cRG2Y67svzDxo
+844,Courtyard by Marriott Omaha Downtown/Old Market Area,4.3,"101 South 10th Street, Omaha",OMA,ChIJ11V5zrqPk4cRpmeVE18hdlA
+845,Hilton Garden Inn Omaha Downtown/Old Market Area,4.1,"1005 Dodge Street, Omaha",OMA,ChIJP_nuurqPk4cRr4gaAZTf6UU
+846,DoubleTree by Hilton Hotel Omaha Downtown,3.8,"1616 Dodge Street, Omaha",OMA,ChIJwdXLQLKPk4cRsqu7mX4skBY
+847,Magnolia Hotel Omaha,4.2,"1615 Howard Street, Omaha",OMA,ChIJvRwUUayPk4cRKeFqDLEl2NA
+848,"Crowne Plaza Louisville Airport Expo Ctr, an IHG Hotel",4.1,"830 Phillips Lane, Louisville",SDF,ChIJ-R6CU6YNaYgRAgpCmQr6wNQ
+849,Hilton Garden Inn Louisville Airport,4.4,"2735 Crittenden Drive, Louisville",SDF,ChIJSxoR5nMNaYgRVxION2i3fbY
+850,Courtyard by Marriott Louisville Airport,4,"819 Phillips Lane, Louisville",SDF,ChIJ0cgL3KMNaYgR9pGKS9MxiKs
+851,Red Roof Inn Louisville Expo Airport,3.3,"4704 Preston Highway, Louisville",SDF,ChIJHwJ3IUkMaYgR4NkP_JRB2Dc
+852,Ramada by Wyndham Louisville Expo Center,3.5,"2912 Crittenden Drive, Louisville",SDF,ChIJl7fCLnQNaYgRTmj9gFm0Vz4
+853,DoubleTree by Hilton Hotel Ontario Airport,4.2,"222 North Vineyard Avenue, Ontario",ONT,ChIJ_3xWE1o0w4ARNg29tIPPFvY
+854,Ontario Airport Hotel & Conference Center,4.1,"700 North Haven Avenue, Ontario",ONT,ChIJh8pUSqA1w4ARnmmYTDrKXUg
+855,"Holiday Inn Express & Suites Ontario Airport, an IHG Hotel",4.3,"2280 South Haven Avenue, Ontario",ONT,ChIJtcXnsjU1w4ARtLIf9Leuv9s
+856,Best Western Plus Ontario Airport & Convention Center,4.3,"209 North Vineyard Avenue, Ontario",ONT,ChIJ0QCww1s0w4ARDq52_JdEjLg
+857,Hilton Garden Inn Ontario/Rancho Cucamonga,4.3,"11481 Mission Vista Drive, Rancho Cucamonga",ONT,ChIJK4Dsu4Y1w4ARV524Sx2C4yQ
+858,Crowne Plaza Syracuse,4,"701 East Genesee Street, Syracuse",SYR,ChIJXxPu66Tz2YkRrDM-ZxvDhEE
+859,The Parkview Hotel,4.3,"713 East Genesee Street, Syracuse",SYR,ChIJrWsN9KTz2YkRFwo4vpFDe8I
+860,Jefferson Clinton Suites,4.3,"416 South Clinton Street, Syracuse",SYR,ChIJa_hOyrjz2YkRPNS3MsHdMlA
+861,Hilton Garden Inn Syracuse,4.3,"6004 Fair Lakes Road, East Syracuse",SYR,ChIJMRZlv6eS2YkRsqEZ4W4L3vU
+862,"Holiday Inn Express Syracuse Airport, an IHG Hotel",4,"5418 South Bay Road, North Syracuse",SYR,ChIJZcNblaLt2YkRbFxK7fMyW4Y
+863,Camp Cobbossee Inc,4.5,"3 New King Street # 1, West Harrison",HPN,ChIJCxCWS5C9wokRraf6PG250To
+864,Moorehead Manor,5,"1065 King Street, Greenwich",HPN,ChIJ7e1U3peXwokRVRxwr-Yl_Jc
+865,Cedar Hall,4.1,"1 Orchard Road, Armonk",HPN,ChIJNakqpbW9wokRTA6kcr3wc1E
+866,"Crowne Plaza Albany - the Desmond Hotel, an IHG Hotel",4.3,"660 Albany Shaker Road, Albany",ALB,ChIJ7Z55HvUM3okRxsDNMYb8DhI
+867,SureStay Plus Hotel By Best Western Albany Airport,3.2,"200 Wolf Road, Albany",ALB,ChIJZ5pjjIsM3okRykpQyo9Jxfg
+868,Marriott Albany,4.2,"189 Wolf Road, Albany",ALB,ChIJuer1J4kM3okRp4RBJOztaeA
+869,Hilton Garden Inn Albany Airport,4,"800 Albany Shaker Road, Albany",ALB,ChIJr6-fGd4M3okRH6zn1hg7LaU
+870,Hampton Inn Albany-Wolf Road (Airport),4.1,"10 Ulenski Drive, Albany",ALB,ChIJq0QkYooM3okRKyGRYaJfDwU
+871,"Crowne Plaza Charleston Airport - Conv Ctr, an IHG Hotel",4.3,"4831 Tanger Outlet Boulevard, North Charleston",CHS,ChIJY5dR91tj_ogR_Wmf9kfe1ho
+872,Hilton Garden Inn Charleston Airport,4.2,"5265 International Boulevard, North Charleston",CHS,ChIJf5Y90U5j_ogRm4_4yWYS8yg
+873,Hyatt Place Charleston Airport/Convention Center,4.4,"3234 West Montague Avenue, North Charleston",CHS,ChIJQbhrLFJj_ogRBKUuArcBxIY
+874,"Home2 Suites by Hilton Charleston Airport/Convention Center, SC",4.3,"3401 West Montague Avenue, North Charleston",CHS,ChIJzyfruU1j_ogRs5UD_CYF8O8
+875,Quality Inn Coliseum,3.3,"5055 North Arco Lane, North Charleston",CHS,ChIJoVL_ZFlj_ogRTDhleKy_m6s
+876,"Holiday Inn Birmingham-Airport, an IHG Hotel",3.7,"5000 Richard Arrington Junior Boulevard North, Birmingham",BHM,ChIJK_5lyZIaiYgRlEEdCuHxgGg
+877,Ramada by Wyndham Birmingham Airport,2.9,"5216 Messer Airport Highway, Birmingham",BHM,ChIJcWB2C5QaiYgRJ1TJHJ0Hh8U
+878,Budgetel Inn and Suites,2.5,"5101 Messer Airport Highway, Birmingham",BHM,ChIJAQDAnJIaiYgRkVekQUQz_6Y
+879,Relax Inn,3.2,"6101 1st Avenue North, Birmingham",BHM,ChIJ6_vXbpwaiYgRMm_orphBceQ
+880,Motel 8 Inn,2.8,"5009 1st Avenue North, Birmingham",BHM,ChIJq6PIXYsaiYgR3Stt7v65iX8
+881,Homewood Suites by Hilton Richmond - Airport,3.8,"5996 Audubon Drive, Sandston",RIC,ChIJl0k-4rUbsYkR0DXWIITKIlQ
+882,Hampton Inn Richmond - Airport,4.2,"421 International Center Drive, Sandston",RIC,ChIJHZBt98obsYkRoIQN7tU5jSI
+883,Hilton Garden Inn Richmond Airport,4.1,"441 International Center Drive, Sandston",RIC,ChIJ-50YZ8obsYkRfTS2aQI5NlI
+884,Sheraton Richmond Airport Hotel,3.5,"5501 Eubank Road, Sandston",RIC,ChIJLwLzpFYasYkRbfhFy5RHtcQ
+885,Microtel Inn & Suites by Wyndham Richmond Airport,2.7,"6000 Audubon Drive, Sandston",RIC,ChIJQcG7crYbsYkROUijQw5ZtSw
+886,"Staybridge Suites Rochester University, an IHG Hotel",4.3,"1000 Genesee Street, Rochester",ROC,ChIJd9XGirm01okRzm2xLjyb8nI
+887,Courtyard by Marriott Rochester Brighton,4.1,"33 Corporate Woods, Rochester",ROC,ChIJmzuk7DpL0YkR95dXgAuYIWI
+888,Rodeway Inn Rochester Airport,3.2,"1273 Chili Avenue, Rochester",ROC,ChIJJ5MQwUOz1okRzn392ojxEXw
+889,Fairfield Inn by Marriott Rochester Airport,4,"1200 Brooks Avenue, Rochester",ROC,ChIJGTRMhk6z1okRHiz4WBttEJg
+890,Best Western The Inn At Rochester Airport,4,"395 Buell Road, Rochester",ROC,ChIJRXYN90-z1okR2yPD5PN_peA
+891,Days Inn & Suites by Wyndham Savannah North I-95,3.7,"105 Traveler's Way, Port Wentworth",SAV,ChIJNaxrVPCi-4gR7GjmQk0Nd1k
+892,Embassy Suites by Hilton Savannah Airport,4.2,"145 West Mulberry Boulevard, Savannah",SAV,ChIJUavq-fyj-4gR7VCriCgXUII
+893,Fairfield Inn & Suites by Marriott Savannah Airport,3.8,"10 Stephen South Green Drive, Savannah",SAV,ChIJyXj-Hlqh-4gRmrByUv8EdFM
+894,Inn at Mulberry Grove,3.5,"101 O'Leary Road, Savannah",SAV,ChIJ6Skg8vai-4gRUCjRnk_nNSE
+895,Hampton Inn and Suites Savannah-Airport,4.3,"70 Stephen South Green Drive, Savannah",SAV,ChIJyXj-Hlqh-4gRWJ0Lb9KoHno
+896,Super 8 by Wyndham Vandalia/Dayton International Airport,3.1,"550 East National Road, Vandalia",DAY,ChIJZ1RI9Jt-P4gR3H9kEmJbGwQ
+897,Courtyard by Marriott Dayton North,4,"7087 Miller Lane, Dayton",DAY,ChIJMQytvw5-P4gRo9eJOLHe_rg
+898,Residence Inn by Marriott Dayton Vandalia,4.4,"7227 York Center Drive, Dayton",DAY,ChIJlQY2GAx-P4gR8gxAta4MW3I
+899,Hampton Inn & Suites Dayton-Vandalia,4.3,"7043 Miller Lane, Dayton",DAY,ChIJz_J57w5-P4gReqy3zRa9ZaA
+900,Hawthorn Suites by Wyndham Dayton North,3.1,"7070 Poe Avenue, Dayton",DAY,ChIJGV8UoAl-P4gRtsXdOFHpMx0
+901,"The Historic Davenport, Autograph Collection",4.6,"10 South Post Street, Spokane",GEG,ChIJoTimK2cYnlQR7BfF2VEGVZ4
+902,Hampton Inn Spokane,4.4,"2010 South Assembly Road, Spokane",GEG,ChIJHX3a-_AXnlQReokh0QBkSs0
+903,Hotel Ruby,4.1,"901 West 1st Avenue, Spokane",GEG,ChIJSewz3mYYnlQRF9Ds9pDTO5Y
+904,Best Western Plus Peppertree Airport Inn,4.1,"3711 South Geiger Boulevard, Spokane",GEG,ChIJ2bAHlNYXnlQRiidVdEHHqug
+905,Hilton Garden Inn Spokane Airport,4.5,"9015 U.S. 2, Spokane",GEG,ChIJA4ShO60XnlQRt7ndBtC00QY
+906,"Holiday Inn Boise Airport, an IHG Hotel",4.3,"2970 West Elder Street, Boise",BOI,ChIJYaWKBONXrlQRy-2-KBi8wsg
+907,TownePlace Suites by Marriott Boise Downtown/University,4.3,"1455 South Capitol Boulevard, Boise",BOI,ChIJK8VPLIv4rlQRBRtqqcDjKG4
+908,Inn America - Boise,4.1,"2275 West Airport Way, Boise",BOI,ChIJ-SsC-P1XrlQRv0kt0hrodRc
+909,Super 8 by Wyndham Boise,3,"2773 West Elder Street, Boise",BOI,ChIJk4yVxOJXrlQRJfiRjaw2E_c
+910,Residence Inn by Marriott Boise Downtown/University,4.4,"1401 South Lusk Place, Boise",BOI,ChIJsxJPOov4rlQRXV1hYJLrJtE
+911,Best Western Plus Executive Court Inn & Conference Center,4.3,"13500 South Willow Street, Manchester",MHT,ChIJEy52sttN4okRL3pXLGJB7lw
+912,"Holiday Inn Express & Suites Manchester-Airport, an IHG Hotel",4.2,"1298 South Porter Street, Manchester",MHT,ChIJDSoMTIlO4okRbxjycxSKr1M
+913,Hilton Garden Inn Manchester Downtown,4.3,"101 South Commercial Street, Manchester",MHT,ChIJbba6mNBO4okRnC2wWOeJkp8
+914,Homewood Suites by Hilton Manchester/Airport,4.1,"1000 Perimeter Road, Manchester",MHT,ChIJozYONjlM4okRCdz_7Zqu-AA
+915,"Holiday Inn Manchester Airport, an IHG Hotel",4.3,"2280 Brown Avenue, Manchester",MHT,ChIJR0qa6SFM4okRfwlp3sAjs0s
+916,Travelodge by Wyndham Fort Myers Airport,3,"13661 Indian Paint Lane, Fort Myers",FMY,ChIJW_Ms_LgU24gRZvkum25NQg4
+917,SpringHill Suites by Marriott Fort Myers Airport,4.3,"9501 Marketplace Road, Fort Myers",FMY,ChIJ1d79SK2KXIYRpf8sdr5O0RQ
+918,La Quinta Inn & Suites by Wyndham Fort Myers Airport,3.5,"9521 Marketplace Road, Fort Myers",FMY,ChIJoW0ycbcU24gR6GMS-zeVGws
+919,Hampton Inn Ft. Myers-Airport I-75,4.4,"9241 Marketplace Road, Fort Myers",FMY,ChIJTcl8-8cU24gRjQDgXkG_HSM
+920,Comfort Inn & Suites Airport,4.2,"10081 Intercom Drive, Fort Myers",FMY,ChIJgeS7H7sU24gRns5QcK4qSc0
+921,La Quinta Inn & Suites by Wyndham Portland,4,"340 Park Avenue, Portland",PWM,ChIJ289tMQicskwR4xARHl3esKU
+922,Best Western Merry Manor Inn,4.3,"700 Main Street, South Portland",PWM,ChIJf2TS7NKeskwR9NGKndhau0Q
+923,Howard Johnson by Wyndham South Portland,3.7,"675 Main Street, South Portland",PWM,ChIJdy23ndKeskwRDSWwYbGRr3o
+924,"Holiday Inn Express & Suites South Portland, an IHG Hotel",4.3,"303 Sable Oaks Drive, South Portland",PWM,ChIJe8eOZXGZskwRwozYc6lkTBo
+925,Fireside Inn & Suites Portland,3.8,"81 Riverside Street, Portland",PWM,ChIJbWQ7Pk6askwRum2woCKliBo
+926,Best Western Plus South Coast Inn,4.4,"5620 Calle Real, Goleta",SBA,ChIJN6TrD3FA6YARrqK_v2HYrdc
+927,Ramada by Wyndham Santa Barbara,4.1,"4770 Calle Real, Santa Barbara",SBA,ChIJg5Yeoqpq6YAROj6fhRU791g
+928,"The Ritz-Carlton Bacara, Santa Barbara",4.4,"8301 Hollister Avenue, Santa Barbara",SBA,ChIJR5dB3hRH6YARhngDWzUoGl4
+929,Kimpton Canary Hotel,4.5,"31 West Carrillo Street, Santa Barbara",SBA,ChIJj4oQBXwU6YARZ93NzVVjolY
+930,Hotel Santa Barbara,4.3,"533 State Street, Santa Barbara",SBA,ChIJAyHWC3gU6YARIyx8qUv3gnA
+931,Howard Johnson by Wyndham Wichita Airport,3.4,"6575 West Kellogg Drive, Wichita",ICT,ChIJOUZgN7jguocRNyEIqnlz-BU
+932,Sonesta Simply Suites Wichita Airport,4.4,"570 South Julia Street, Wichita",ICT,ChIJz4KNvsbguocR8ZxPIZZ4ckg
+933,DoubleTree by Hilton Hotel Wichita Airport,4.4,"2098 South Airport Road, Wichita",ICT,ChIJ27Wt9lDnuocRepi1UGFkGJM
+934,"Holiday Inn Express & Suites Wichita Airport, an IHG Hotel",4.1,"1236 South Dugan Road, Wichita",ICT,ChIJp3HbCbjguocRIz_Dyr0LIHg
+935,Best Western Plus Wichita West Airport Inn,4.4,"3800 West Kellogg Drive, Wichita",ICT,ChIJIwYDmSXhuocRhHV_NCS6HE4
+936,Courtyard by Marriott Palm Springs,4.2,"1300 East Tahquitz Canyon Way, Palm Springs",PSP,ChIJa3mVrJ4b24ARQbQyEMBEMMw
+937,Renaissance Palm Springs Hotel,4.3,"888 East Tahquitz Canyon Way, Palm Springs",PSP,ChIJG001FqIb24ARf6DmPPoRowk
+938,The Saguaro Palm Springs,4,"1800 East Palm Canyon Drive, Palm Springs",PSP,ChIJgawnVGgb24AROV1E8Q2PxYE
+939,Hilton Palm Springs,4.1,"400 East Tahquitz Canyon Way, Palm Springs",PSP,ChIJFZ53d6Qb24AReSJBflV_-aY
+940,Best Western Plus Las Brisas Hotel,4.3,"222 South Indian Canyon Drive, Palm Springs",PSP,ChIJB9QhvaYb24ARz651gCe7-wA
+941,Best Western East Towne Suites,3.9,"4801 Annamark Drive, Madison",MSN,ChIJoZmbuPVWBogRLeMXEwSYXj8
+942,"Motel 6 Madison, WI - East",3.2,"4202 East Towne Boulevard, Madison",MSN,ChIJc2DUJY5WBogRPzm7W2_JlL8
+943,"Red Roof Inn Madison, WI",3,"4830 Hayes Road, Madison",MSN,ChIJJeJ45l5WBogRr9nce9laFXw
+944,Motel 6 Madison North,2.6,"1754 Thierer Road, Madison",MSN,ChIJXRh2m5pWBogRC0x3nPoJY78
+945,Hampton Inn Madison East Towne Mall Area,4.4,"4820 Hayes Road, Madison",MSN,ChIJp9Q16V5WBogRni5vJsfjIyM
+946,"Holiday Inn Grand Rapids - Airport, an IHG Hotel",4,"3063 Lake Eastbrook Boulevard Southeast, Grand Rapids",GRR,ChIJE0MnHRFNGIgRUGU8SYR2btY
+947,Sheraton Grand Rapids Airport Hotel,3.8,"5700 28th Street Southeast, Grand Rapids",GRR,ChIJ7_xL7N1NGIgReDpb98MOKYM
+948,Hampton Inn & Suites Grand Rapids-Airport 28th St,4,"5200 28th Street Southeast, Grand Rapids",GRR,ChIJdc0rPcBNGIgRgEpdGjRHWPc
+949,Homewood Suites by Hilton Grand Rapids,3.7,"3920 Stahl Drive Southeast, Grand Rapids",GRR,ChIJiYWrUg1NGIgRnHINjEW2RfU
+950,Courtyard by Marriott Grand Rapids Airport,4.1,"4741 28th Street Southeast, Grand Rapids",GRR,ChIJZYb9paJNGIgRTc0V96vJbWY
+951,Des Moines Marriott Downtown,4.3,"700 Grand Avenue, Des Moines",DSM,ChIJTUirfQGZ7ocRsdJ8_2tgTag
+952,Hilton Garden Inn Des Moines/Urbandale,4.4,"8600 Northpark Drive, Johnston",DSM,ChIJB032EYSd7ocRqWzIf9Z8d2c
+953,Embassy Suites by Hilton Des Moines Downtown,4.2,"101 East Locust Street, Des Moines",DSM,ChIJRykGFayZ7ocROQSNdyBtxP0
+954,Sheraton West Des Moines Hotel,4.1,"1800 50th Street, West Des Moines",DSM,ChIJ9yi_Kugg7IcRtN89yElQBdI
+955,Hampton Inn Des Moines-Airport,4,"5001 Fleur Drive, Des Moines",DSM,ChIJsQx5fgui7ocRKPATjjJpzIo
+956,La Quinta Inn & Suites by Wyndham South Burlington,3.6,"1285 Williston Road, South Burlington",BTV,ChIJdyWN9S56ykwR4bjyKwweor0
+957,"Holiday Inn Burlington, an IHG Hotel",3.9,"1068 Williston Road, South Burlington",BTV,ChIJbwHPyjB6ykwR6ptI39xLR5Q
+958,Hilton Burlington Lake Champlain,3.9,"60 Battery Street, Burlington",BTV,ChIJ5wGp9PB6ykwRARmQ9CjEh5M
+959,Courtyard by Marriott Burlington Harbor,4.4,"25 Cherry Street, Burlington",BTV,ChIJX63c7vZ6ykwRZm41PFFna7g
+960,The Essex,4.3,"70 Essex Way, Essex Junction",BTV,ChIJUf2rRZh3ykwRYEVYXj8hRjU
+961,Courtyard by Marriott Little Rock Downtown,4.1,"521 President Clinton Avenue, Little Rock",LIT,ChIJo7cezHi70ocRz-esf00t0ow
+962,"Holiday Inn Express Little Rock-Airport, an IHG Hotel",3.9,"3121 Bankhead Drive, Little Rock",LIT,ChIJq1OtCda70ocR8L_4Lv2sa5Q
+963,Comfort Inn & Suites Airport,4.2,"4301 East Roosevelt Road, Little Rock",LIT,ChIJyW0m2tm70ocRMrCikDixC1I
+964,Comfort Inn & Suites Presidential,4.3,"707 Interstate 30, Little Rock",LIT,ChIJm5CPP5270ocR_dryBsxhkuc
+965,Hampton Inn & Suites Little Rock-Downtown,4.2,"320 River Market Avenue, Little Rock",LIT,ChIJ-6UdqHm70ocRhfdVMz5QKG4
+966,Embassy Suites by Hilton Greensboro Airport,4.1,"204 Centreport Drive, Greensboro",GSO,ChIJqzCueYoEU4gRHq66D41kDHc
+967,Greensboro-High Point Marriott Airport,4.3,"One Marriott Drive, Greensboro",GSO,ChIJS-abXWcDU4gRPghpbY3gmZs
+968,Residence Inn by Marriott Greensboro Airport,4,"7616 Thorndike Road, Greensboro",GSO,ChIJ5Y4xBvUEU4gRaFlyGOsCX1g
+969,"Holiday Inn Express & Suites Greensboro - Airport Area, an IHG Hotel",4.4,"645 South Regional Road, Greensboro",GSO,ChIJMYZFZPMEU4gR_llHCyV4vv0
+970,Homewood Suites by Hilton Greensboro,4,"201 Centreport Drive, Greensboro",GSO,ChIJ3eUa3WEEU4gRFCbgeSGVu-8
+971,Hilton Garden Inn Tulsa Airport,3.5,"7728 East Virgin Court, Tulsa",TUL,ChIJY7HgdA3ytocRrsosK1Rvdk4
+972,OYO Hotel Tulsa International Airport,2.6,"1016 North Garnett Road, Tulsa",TUL,ChIJs3mSYqnztocR9hGHoR6z8Uw
+973,La Quinta Inn & Suites by Wyndham Tulsa Airpt / Expo Square,3.5,"23 North 67th East Avenue, Tulsa",TUL,ChIJg1pC04HttocRX2wsmayqBmM
+974,"Country Inn & Suites by Radisson, Tulsa, OK",3.5,"1034 North Garnett Road, Tulsa",TUL,ChIJs1WK-qvztocRWQSiVmJF8_4
+975,The Campbell Hotel,4.4,"2636 East 11th Street, Tulsa",TUL,ChIJeaiC_O_stocRq8KBBOPfsyM
+976,Four Seasons Resort Hualalai,4.7,"72-100 Ka'upulehu Drive, Kailua-Kona",KOA,ChIJIX4RcbFzVHkRQdMrhTjUyzM
+977,Courtyard by Marriott King Kamehameha's Kona Beach Hotel,4.2,"75-5660 Palani Road, Kailua-Kona",KOA,ChIJs9LSzvgOVHkRPxwo30Zg4ns
+978,Kona Seaside Hotel,4,"75-5652 Likana Lane, Kailua-Kona",KOA,ChIJ5082vvgOVHkRrpgQ44DyNjM
+979,Royal Kona Resort,4.1,"75-5852 Ali‘i Drive, Kailua-Kona",KOA,ChIJU-3R4wIPVHkRXWXFJtNIvOw
+980,Kona Islander Inn Hotel,3.6,"75-5776 Kuakini Highway, Kailua-Kona",KOA,ChIJZ5kWU_wOVHkRWyLmY7drshM
+981,Hotel Shangri-La,4.1,"1301 Ocean Avenue, Santa Monica",SMO,ChIJIxnYQcWkwoARVbqXi2BrqlM
+982,Fairmont Miramar - Hotel & Bungalows,4.4,"101 Wilshire Boulevard, Santa Monica",SMO,ChIJBx8nTcSkwoAR1bDfXdfVf20
+983,The Georgian Hotel,4.3,"1415 Ocean Avenue, Santa Monica",SMO,ChIJmUX7DdCkwoAREiyIPcEgeu0
+984,HI Los Angeles Santa Monica Hostel,4.3,"1436 2nd Street, Santa Monica",SMO,ChIJC3edO9CkwoARYkgjx-ONxDs
+985,Ocean View Hotel,4.1,"1447 Ocean Avenue, Santa Monica",SMO,ChIJd5_ZadCkwoARWV1mjHVj1lA
+986,Hampton Inn Pensacola-Airport (Cordova Mall Area),4,"2187 Airport Boulevard, Pensacola",PNS,ChIJwy96iD_AkIgRUCRgb8JXDiM
+987,Days Inn by Wyndham Pensacola - Historic Downtown,3.5,"710 North Palafox Street, Pensacola",PNS,ChIJC5uOgqbAkIgRSAJ_3SpT5Nw
+988,"Holiday Inn Pensacola - University Area, an IHG Hotel",4.2,"7813 North Davis Highway, Pensacola",PNS,ChIJuzBk1azqkIgRRNKP-L75KZ8
+989,Hampton Inn & Suites Pensacola I-10 North at University Town Plaza,4.2,"7050 Plantation Road, Pensacola",PNS,ChIJH7H9Ef6_kIgRrMGCq83PGjc
+990,La Quinta Inn by Wyndham Pensacola,2.7,"7750 North Davis Highway, Pensacola",PNS,ChIJsQ2L8azqkIgR8ngPWCy-Ibw
+991,"Holiday Inn Hasbrouck Heights-Meadowlands, an IHG Hotel",4.1,"283 New Jersey 17, Hasbrouck Heights",TEB,ChIJpaI0oKT5wokRlCPv9AvDhU8
+992,Hilton Hasbrouck Heights/Meadowlands,3.9,"650 Terrace Avenue, Hasbrouck Heights",TEB,ChIJze1A5ZD5wokRw5API3ksj8A
+993,Rodeway Inn Capri,3.3,"1 Valley Road, Little Ferry",TEB,ChIJK9BBA9n5wokRQNwiedz51zs
+994,"Holiday Inn Express & Suites Meadowlands Area, an IHG Hotel",4.1,"100 Paterson Plank Road, Carlstadt",TEB,ChIJJ8wNqGb4wokRRVBNDZFgMT4
+995,Hampton Inn Carlstadt-At The Meadowlands,4.3,"304 Paterson Plank Road, Carlstadt",TEB,ChIJow_RQXBXwokRF4JioUKSmOM
+996,Hampton Inn & Suites Los Angeles/Sherman Oaks,4.3,"5638 Sepulveda Boulevard, Sherman Oaks",LAX,ChIJF_h3_56XwoARhaPL2hznm7A
+997,Best Western Plus Carriage Inn,4.1,"5525 Sepulveda Boulevard, Sherman Oaks",LAX,ChIJa02o2p6XwoAR0Gj1-7a9g7k
+998,"Holiday Inn Express Van Nuys, an IHG Hotel",3.8,"8244 Orion Avenue, Van Nuys",LAX,ChIJu_XS1rOQwoARuxXCE3_eSVY
+999,Airtel Plaza Hotel,3.9,"7277 Valjean Avenue, Van Nuys",LAX,ChIJT2wg51eXwoAR8rIpTKoTJuA
+1000,"Motel 6 Sepulveda, CA - Los Angeles - Van Nuys - North Hills",3.3,"15711 Roscoe Boulevard, North Hills",LAX,ChIJZRyZ1a-QwoARrcWUP4GSl1k
+1001,Fairfield Inn & Suites by Marriott Rapid City,4,"1314 North Elk Vale Road, Rapid City",RAP,ChIJbR38_udnfYcRvBAgsqFLTik
+1002,"Hotel Alex Johnson Rapid City, Curio Collection by Hilton",4.3,"523 6th Street, Rapid City",RAP,ChIJg10sNdNcfYcRRW7tT015U48
+1003,Hilton Garden Inn Rapid City,4.3,"815 East Mall Drive, Rapid City",RAP,ChIJTfnE0xJdfYcRAvJNDahJDIg
+1004,Hampton Inn Rapid City,4.1,"1720 Rapp Street, Rapid City",RAP,ChIJuVLF9RVdfYcRRoI01lxMaXo
+1005,Best Western Ramkota Hotel,3.9,"2111 North Lacrosse Street, Rapid City",RAP,ChIJK1VuuxZdfYcRYoCRgLfR1p0
+1006,Hampton Inn Knoxville-Airport,4.2,"148 International Avenue, Alcoa",TYS,ChIJM9-JKAQhXIgR2C61Gas8D4o
+1007,Hilton Knoxville Airport,4.4,"2001 Alcoa Highway, Alcoa",TYS,ChIJ3S3nSOEgXIgR6vb4gftaNng
+1008,Courtyard by Marriott Knoxville Airport Alcoa,4.3,"141 Furrow Way, Alcoa",TYS,ChIJT1jLDAIhXIgRXv_Aq5YhiZc
+1009,"Holiday Inn Express & Suites Alcoa (Knoxville Airport), an IHG Hotel",4.4,"130 Associates Boulevard, Alcoa",TYS,ChIJt4ueppMgXIgRyyO6houeB3Y
+1010,"Candlewood Suites Knoxville Airport-Alcoa, an IHG Hotel",4,"176 Cusick Road, Alcoa",TYS,ChIJw3nrkgMhXIgRiHTmeaDgn3Q
+1011,Homewood Suites by Hilton Tallahassee,4.3,"2987 Apalachee Parkway, Tallahassee",TLH,ChIJMws0ZrVf7IgRqPOHyKFlYZY
+1012,Fairfield Inn & Suites by Marriott Tallahassee Central,4.2,"2997 Apalachee Parkway, Tallahassee",TLH,ChIJeZXLJ7Vf7IgR5iw6oYwXZVw
+1013,Four Points by Sheraton Tallahassee Downtown,4,"316 West Tennessee Street, Tallahassee",TLH,ChIJdUtEmHb17IgR_JYPfAsF83Y
+1014,DoubleTree by Hilton Hotel Tallahassee,4.2,"101 South Adams Street, Tallahassee",TLH,ChIJU3nzk3D17IgRKpgJpWXrWFQ
+1015,SpringHill Suites by Marriott Tallahassee Central,4.3,"1300 Executive Center Drive, Tallahassee",TLH,ChIJAyCeqbdf7IgRZgK5PdDSraw
+1016,Best Western Plus Fresno Airport Hotel,4.2,"1551 North Peach Avenue, Fresno",FAT,ChIJZ1YsX71elIARYrVX_u3DTXo
+1017,"Homewood Suites by Hilton Fresno Airport/Clovis, CA",4.3,"835 Gettysburg Avenue, Clovis",FAT,ChIJAUQL4XRclIARHvRAtSga2sY
+1018,Hilton Garden Inn Clovis,4.1,"520 West Shaw Avenue, Clovis",FAT,ChIJgwY9711clIAR-XkNTUYN0k8
+1019,"Holiday Inn Express & Suites Clovis-Fresno Area, an IHG Hotel",4,"650 West Shaw Avenue, Clovis",FAT,ChIJncWLKVxclIARdD5yu1D7qqI
+1020,Hampton Inn & Suites Clovis-Airport North,4.2,"855 Gettysburg Avenue, Clovis",FAT,ChIJDRyGH3VclIAR7A7vqY74838
+1021,Hampton Inn & Suites Sarasota/Bradenton-Airport,4.3,"975 University Parkway, Sarasota",SRQ,ChIJDf4oLts_w4gRy2J34JnyrpE
+1022,Hilton Garden Inn Sarasota-Bradenton Airport,4.1,"8270 North Tamiami Trail, Sarasota",SRQ,ChIJsUjHE34Vw4gRP0OdD5Is2SI
+1023,Ramada by Wyndham Sarasota Waterfront,3.5,"7150 North Tamiami Trail, Sarasota",SRQ,ChIJ_1W8M5AVw4gRRBIwOhNShU4
+1024,SpringHill Suites by Marriott Sarasota Bradenton,3.8,"1020 University Parkway, Sarasota",SRQ,ChIJ8_g5t8Q_w4gRHJziKZPtZfc
+1025,"Hotel Indigo Sarasota, an IHG Hotel",4.5,"1223 Boulevard of the Arts, Sarasota",SRQ,ChIJ-0P9ZA5Aw4gR71lS69AigVA
+1026,"Holiday Inn & Suites Albuquerque Airport, an IHG Hotel",3.7,"1501 Sunport Place Southeast, Albuquerque",ABQ,ChIJWSNsYHcMIocRAEwTzmc2p4Q
+1027,Hilton Garden Inn Albuquerque Airport,3.9,"2601 Yale Boulevard Southeast, Albuquerque",ABQ,ChIJ19wg04ULIocRD295rgmyS5o
+1028,"Holiday Inn Express & Suites Albuquerque Airport, an IHG Hotel",4.3,"1921 Yale Boulevard Southeast, Albuquerque",ABQ,ChIJKxw9BYILIocRxWmgRIN0608
+1029,Sheraton Albuquerque Airport Hotel,4,"2910 Yale Boulevard Southeast, Albuquerque",ABQ,ChIJO1Sk9IULIocROm7jBp0RNYQ
+1030,Fairfield Inn & Suites by Marriott Albuquerque Airport,3.9,"2300 Centre Avenue Southeast, Albuquerque",ABQ,ChIJ13wBU4ILIocRpT2xkae5lMY
+1031,Atlanta Airport Marriott Gateway,4.4,"2020 Convention Center Concourse, Atlanta",ATL,ChIJh9qjPsLi9IgRiBpQaVMRTmM
+1032,Days Inn by Wyndham College Park Airport Best Road,3,"4505 Best Road, College Park",ATL,ChIJTcnwBd7i9IgRBdMt19FVc9U
+1033,"Holiday Inn Express Atlanta Airport-College Park, an IHG Hotel",3.8,"4601 Best Road, College Park",ATL,ChIJW6-E0t_i9IgRNU8CN079VD8
+1034,The Westin Atlanta Airport,4.1,"4736 Best Road, Atlanta",ATL,ChIJs-e3biDj9IgR42e_U-svTsY
+1035,Atlanta Airport Marriott,4.3,"4711 Best Road, Atlanta",ATL,ChIJc6teEyDj9IgR1XhXudL9XBI
+1036,Aloft BWI Baltimore Washington International Airport,3.7,"1741 West Nursery Road, Linthicum Heights",BWI,ChIJUdwkj4zit4kRVFdQFZcppG4
+1037,Hilton Baltimore BWI Airport,4.3,"1739 West Nursery Road, Linthicum Heights",BWI,ChIJfVS3hYzit4kRh6WUVco_4Ag
+1038,BWI Airport Marriott,4.2,"1743 West Nursery Road, Linthicum Heights",BWI,ChIJa0r6qIvit4kRuyI_mMaCzMQ
+1039,Sheraton Baltimore Washington Airport Hotel - BWI,4.1,"1100 Old Elkridge Landing Road, Linthicum Heights",BWI,ChIJ58-kZnvit4kRRaQwj95lfag
+1040,The Westin Baltimore Washington Airport - BWI,4.2,"1110 Old Elkridge Landing Road, Linthicum Heights",BWI,ChIJ58-kZnvit4kRHOh9miSvsDM
+1041,Hilton Boston Logan Airport,4.1,"One Hotel Drive, Boston",BOS,ChIJc9thrD9w44kRLRAPv-EXzT8
+1042,Hyatt Regency Boston Harbor,4.4,"101 Harborside Drive, Boston",BOS,ChIJO7whihFw44kR0qUerB-XS4o
+1043,Embassy Suites by Hilton Boston at Logan Airport,4.1,"207 Porter Street, Boston",BOS,ChIJk0IQX0Fw44kR5XxQKfT28rI
+1044,Northeast Suites,4.5,"50 Lewis Street, East Boston",BOS,ChIJNRjOlYV044kRiOfrEfELq54
+1045,158 Cottage St LLC,3,"158 Cottage Street, Boston",BOS,ChIJ6xwrz0Nw44kR3rdffxQZDhI
+1046,Hotel Flamingo Cancun Resort,3.9,"Boulevard Kukulcan km 11.5, Zona Hotelera, Cancún",CUN,ChIJq6qqYQ0rTI8RZeqGQ9iCIZc
+1047,Royal Sands - Resort & SPA,4.6,"Boulevard Kukulcan Km 13.5, Zona Hotelera, Cancún",CUN,ChIJCUbAonqv14ARL7pMhy0d5yM
+1048,Grand Fiesta Americana Coral Beach Cancún - All Inclusive,4.6,"Boulevard Kukulcan km. 9.5, Zona Hotelera, Cancún",CUN,ChIJ_z7eiqEoTI8Rd460P_qMgEY
+1049,Moon Palace® Cancun All Inclusive Resort,4.5,"Cancun - Chetumal Km 340, Riviera Maya, Cancún",CUN,ChIJpy4RUlwoTI8RXrJ2FFP42qc
+1050,Live Aqua Beach Resort Cancun,4.6,"Boulevard Kukulcan Km 12.5, Zona Hotelera, Cancún",CUN,ChIJNaiYPHYrTI8R6qHmlkHnuWI
+1051,Sheraton Charlotte Airport Hotel,4.3,"3315 Scott Futrell Drive, Charlotte",CLT,ChIJbZ-wtxKiVogROzKJ8Fze8FM
+1052,Hyatt Place Charlotte Airport/Tyvola Road,4,"2950 Oak Lake Boulevard, Charlotte",CLT,ChIJc6MGw-eYVogRvg9hgVFI56E
+1053,Hyatt Place Charlotte Airport/Lake Pointe,4.1,"4119 South Stream Boulevard, Charlotte",CLT,ChIJy6wOld-YVogRTZnrYGAYWtg
+1054,"Holiday Inn Charlotte-Airport Conf Ctr, an IHG Hotel",4.1,"2707 Little Rock Road, Charlotte",CLT,ChIJdbjECWOiVogRUOJppRWrk-U
+1055,Hampton Inn & Suites Charlotte-Airport,4.2,"2731 Little Rock Road, Charlotte",CLT,ChIJqbVsF2OiVogRATDYOUp9TFA
+1056,Hilton Chicago O'Hare Airport,3.8,"10000 West Balmoral Avenue, Chicago",CHI,ChIJkQT6kAe2D4gR52GlJt1dD0A
+1057,Sheraton Suites Chicago O'Hare,4.3,"6501 Mannheim Road, Rosemont",CHI,ChIJpw77ZGi2D4gRT-t2raLahQU
+1058,Best Western At O'Hare,3.7,"10300 West Higgins Road, Rosemont",CHI,ChIJyxHg5We2D4gRiGgYloWqdJc
+1059,Sonesta Chicago O'Hare Airport Rosemont,4.2,"10233 West Higgins Road, Rosemont",CHI,ChIJx_mi-Gi2D4gRFbi8l1JRess
+1060,Four Points by Sheraton Chicago O'Hare Airport,3.8,"10249 West Irving Park Road, Schiller Park",CHI,ChIJu0v2trm1D4gRCKrJi_F7GCY
+1061,"Holiday Inn Express & Suites Chicago-Midway Airport, an IHG Hotel",4.2,"6500 South Cicero Avenue, Chicago",CHI,ChIJ6dTsFPwwDogRKHrBt08Kolw
+1062,Chicago Marriott Midway,4.2,"6520 South Cicero Avenue, Chicago",CHI,ChIJ-S-Rh_wwDogRtRIkyZ00ulo
+1063,Courtyard by Marriott Chicago Midway Airport,4.1,"6610 South Cicero Avenue, Bedford Park",CHI,ChIJxyoZ4fswDogRR1wA8Y4oOWU
+1064,Fairfield Inn & Suites by Marriott Chicago Midway Airport,4,"6630 South Cicero Avenue, Bedford Park",CHI,ChIJ4efn4PswDogRlyPq55S1rzQ
+1065,Hilton Garden Inn Chicago/Midway Airport,4.1,"6530 South Cicero Avenue, Bedford Park",CHI,ChIJgY_PBPwwDogREO3iaaFP8uo
+1066,Hilton Garden Inn Colorado Springs Airport,4.2,"2035 Aerotech Drive, Colorado Springs",COS,ChIJWdkSfbZGE4cR-P352U_H_yQ
+1067,Radisson Hotel Colorado Springs Airport,4.4,"1645 Newport Road, Colorado Springs",COS,ChIJgcYTDhhFE4cRNij0sYiUZpM
+1068,TownePlace Suites by Marriott Colorado Springs South,4.1,"1530 Newport Road, Colorado Springs",COS,ChIJdcUPd7hGE4cRf56TfQFdaTM
+1069,SpringHill Suites by Marriott Colorado Springs South,4.2,"1570 Newport Road, Colorado Springs",COS,ChIJa4duCrhGE4cRGH1mnKWhJbQ
+1070,"Holiday Inn Express & Suites Colorado Springs Airport, an IHG Hotel",4,"1815 Aeroplaza Drive, Colorado Springs",COS,ChIJ-XPzcLpGE4cR_Uvql1IBWas
+1071,Embassy Suites by Hilton Dallas Love Field,4.3,"3880 West Northwest Highway, Dallas",DFW,ChIJv3QIGcSdToYRPI1IP5IcGpk
+1072,Hawthorn Suites by Wyndham Dallas Love Field Airport,3.2,"7900 Brookriver Drive, Dallas",DFW,ChIJn8Ye4GicToYRfaW-McfeTZk
+1073,"Crowne Plaza Dallas-Market Center, an IHG Hotel",3.5,"7050 North Stemmons Freeway, Dallas",DFW,ChIJvVZ6XG-cToYR_uPnPuhuiYQ
+1074,Comfort Inn & Suites Dallas Medical-Market Center,3.9,"1521 Inwood Road, Dallas",DFW,ChIJVwgtfg6cToYRFx8Z5lwufMY
+1075,Embassy Suites by Hilton Dallas Market Center,3.8,"2727 North Stemmons Freeway, Dallas",DFW,ChIJ9fa91qqeToYRCE4aW1Vw-2M
+1076,Hyatt Regency Dfw International Airport,4.3,"2334 North International Parkway, Dallas",DFW,ChIJA6nNJtjGK4YRLtRc_TGYfNI
+1077,"Holiday Inn Express & Suites Irving DFW Airport North, an IHG Hotel",3.8,"4550 West John Carpenter Freeway, Irving",DFW,ChIJrfI1MyYqTIYRZ3fMo6r-oZo
+1078,Dallas/Fort Worth Airport Marriott,4.2,"8440 Freeport Parkway, Irving",DFW,ChIJG83rAzIqTIYRAgtPIsKMEmQ
+1079,The Westin Dallas Fort Worth Airport,4.2,"4545 West John Carpenter Freeway, Irving",DFW,ChIJK9SAYSgqTIYRFTR0pt3X69A
+1080,Quality Inn DFW Airport North,3.4,"8205 Esters Boulevard, Irving",DFW,ChIJ40pFOCgqTIYRSmJAlUeqR6U
+1081,The Westin Denver International Airport,4.4,"8300 Peña Boulevard, Denver",DEN,ChIJcTeWd-5nbIcRsyz5EkBkup0
+1082,Detroit Metro Airport Marriott,4.2,"30559 Flynn Drive, Romulus",DTT,ChIJYZv8DtVOO4gR11GgOKANvmg
+1083,Howard Johnson by Wyndham Romulus Detroit Metro Airport,3.1,"31119 Flynn Drive, Romulus",DTT,ChIJyzmfBNdOO4gRoi5sB-pWQxw
+1084,Embassy Suites by Hilton Detroit Metro Airport,4.2,"8600 Wickham Road, Romulus",DTT,ChIJ3d4oWthOO4gR_6BL9NPXGfs
+1085,Baymont by Wyndham Detroit Airport/Romulus,3.9,"9000 Wickham Road, Romulus",DTT,ChIJZcn3gSdPO4gRsxQJ8dhEgvU
+1086,"Holiday Inn Detroit Metro Airport, an IHG Hotel",4.2,"8400 Merriman Road, Romulus",DTT,ChIJjX-D6NlOO4gRUbAibrY2QXE
+1087,Super 8 by Wyndham El Paso Airport,3.4,"7144 Gateway Boulevard East, El Paso",ELP,ChIJl8xSPBdb54YRNllYE4-xcXs
+1088,Marriott El Paso,4.1,"1600 Airway Boulevard, El Paso",ELP,ChIJJVJLIVha54YRr45tjC17DFg
+1089,Residence Inn by Marriott El Paso,4.1,"6355 Gateway Boulevard West, El Paso",ELP,ChIJeVt6OVJa54YRTMa_RU7c7aU
+1090,Wyndham El Paso Airport Hotel and Water Park,3.9,"2027 Airway Boulevard, El Paso",ELP,ChIJPb1O515a54YRuvLOfO-Agg0
+1091,Courtyard by Marriott El Paso Airport,4.2,"6610 International Drive, El Paso",ELP,ChIJlZdi-FRa54YRDieaZB9ZMCQ
+1092,Hangar Inn Hotel,4.2,"Chapala - Guadalajara No. 8701, El Refugio",GDL,ChIJgT32jF9ML4QRVh6IQrX4EkU
+1093,Houston Airport Marriott at George Bush Intercontinental,4.3,"18700 John F Kennedy Boulevard, Houston",HOU,ChIJx1VD2SO0QIYRVimPKW3cF1M
+1094,Ramada by Wyndham Houston Intercontinental Airport East,3.4,"6115 Will Clayton Parkway, Humble",HOU,ChIJx6erZ42zQIYRaglFH8e2838
+1095,DoubleTree by Hilton Hotel Houston Intercontinental Airport,4.2,"15747 John F Kennedy Boulevard, Houston",HOU,ChIJ8TvZ6Je2QIYRo9ccXopKZ6g
+1096,Sheraton North Houston at George Bush Intercontinental,4.1,"15700 John F Kennedy Boulevard, Houston",HOU,ChIJBWA9Zb22QIYRfEcBOYKf8a8
+1097,SpringHill Suites by Marriott Houston Intercontinental Airport,4.4,"15840 John F Kennedy Boulevard, Houston",HOU,ChIJoSoOC5i2QIYR_eODAX2UcPU
+1098,Houston Marriott South at Hobby Airport,4.2,"9100 Gulf Freeway, Houston",HOU,ChIJQyH-ibuXQIYRDu7JnrD-pIU
+1099,DoubleTree by Hilton Hotel Houston Hobby Airport,4.3,"8181 Airport Boulevard, Houston",HOU,ChIJy4n4MbWXQIYRV_rJGCS5d34
+1100,Courtyard by Marriott Houston Hobby Airport,4.1,"9190 Gulf Freeway, Houston",HOU,ChIJRQtwCryXQIYRR9_CfzR9McE
+1101,"Motel 6 Houston, TX - Hobby",2.9,"9005 Airport Boulevard, Houston",HOU,ChIJI6Bv9rqXQIYRxmHDxQ7haNs
+1102,"Holiday Inn Houston-Hobby Airport, an IHG Hotel",3.4,"8611 Airport Boulevard, Houston",HOU,ChIJI-G7-bOXQIYR2I95sh7KXcY
+1103,Hilton Kansas City Airport,4,"8801 Northwest 112th Street, Kansas City",MKC,ChIJgVzzZYlewIcRQKsmlOfawjQ
+1104,Embassy Suites by Hilton Kansas City International Airport,4.2,"7640 Northwest Tiffany Springs Parkway, Kansas City",MKC,ChIJHe4YQudewIcRGxviyNLCFzA
+1105,Days Inn by Wyndham Kansas City International Airport,3.2,"11120 North Ambassador Drive, Kansas City",MKC,ChIJz3XV6YtewIcR1FwWjP4kr1Q
+1106,"Holiday Inn Kansas City Airport, an IHG Hotel",4.2,"11728 North Ambassador Drive, Kansas City",MKC,ChIJ3yVvHIFewIcRmGPBpC9rvK0
+1107,Kansas City Airport Marriott,4,"775 Brasilia Avenue, Kansas City",MKC,ChIJK-0pReJdwIcR234PgUgxi8E
+1108,Best Western Mccarran Inn,4,"4970 Paradise Road, Las Vegas",LAS,ChIJQwPVPK_FyIARs0tWbaAaTMY
+1109,"Motel 6 Las Vegas, NV - Tropicana",3.6,"195 East Tropicana Avenue, Las Vegas",LAS,ChIJX2Wc7bXFyIAR8p6Z3iYbTx4
+1110,Desert Rose Resort,4.4,"5051 Duke Ellington Way, Las Vegas",LAS,ChIJHYMKmsnFyIARKIyIsI13bYU
+1111,Hyatt Place Las Vegas,4.2,"4520 Paradise Road, Las Vegas",LAS,ChIJO12eJa3FyIAROUIjotAL-Lo
+1112,Howard Johnson by Wyndham Las Vegas near the Strip,3,"165 East Tropicana Avenue, Las Vegas",LAS,ChIJPS2gccrFyIARWS-0npDA3AQ
+1113,"Holiday Inn Express Silao-Aeropuerto Bajio, an IHG Hotel",4.4,"Libramiento Norte 3360, Col. la Joja, Silao",BJX,ChIJcfKG9am_K4QR7pPwzHoet_Y
+1114,Hotel Splash Inn,4.3,"Km 155.3 Silao-León de Los Aldama Playas de Sotelo, Silao",BJX,ChIJt67bG9WbK4QRcI1NCqveRAM
+1115,Hotel 5 Inn,4.5,"Km 158+300, 36270 México, Carretera Federal 45, Silao",BJX,ChIJeZq2luWZK4QRy78Etzqi-pI
+1116,Hotel Villa Victoria,3.8,"Álvaro Obregón 245a, Sin Nombre, Silao",BJX,ChIJN0a04IabK4QRLxT9Xg4tnw0
+1117,Hotel Mision Comanjilla,4.2,"Congregación Comanjilla, S/N Rancho Agua Caliente, Silao",BJX,ChIJiQd-TIKYK4QR0COom6F-ZU4
+1118,Courtyard by Marriott Los Angeles LAX/Century Boulevard,4.1,"6161 West Century Boulevard, Los Angeles",LAX,ChIJ5-c-ziqxwoAR0PB8w7mx744
+1119,Embassy Suites by Hilton Los Angeles International Airport South,4,"1440 East Imperial Avenue, El Segundo",LAX,ChIJqwKyxTaxwoARKc-Swehxlpk
+1120,Sheraton Gateway Los Angeles Hotel,4.1,"6101 West Century Boulevard, Los Angeles",LAX,ChIJWQrR4tS2woARHV9LcAjcw48
+1121,Travelodge by Wyndham LAX,3.4,"1804 East Sycamore Avenue, El Segundo",LAX,ChIJ6yPHkzWxwoAR-MPLHV1sjRE
+1122,Embassy Suites by Hilton Los Angeles International Airport North,4,"9801 Airport Boulevard, Los Angeles",LAX,ChIJHRv6mta2woAR3F88Nz0Mt7Q
+1123,We Hotel Aeropuerto,4.1,"Boulevard Puerto Aéreo 390, Moctezuma 2da Sección, Ciudad de México",MEX,ChIJW8MJYwj80YURc0q6XMSv-ks
+1124,Hilton México City Airport,4.2,"International Mexico City Airport, Ciudad de México",MEX,ChIJYfcDJHb80YURqf2Q3gID4JI
+1125,Camino Real Aeropuerto México,4.3,"Puerto México 80, Peñón de los Baños, Ciudad de México",MEX,ChIJJTny9Qn80YURYx2kbwiftd8
+1126,Fiesta Inn Aeropuerto Ciudad de México,4.3,"Boulevard Puerto Aéreo 502, Moctezuma 2da Sección, Ciudad de México",MEX,ChIJM9ELdxz80YUR4Wy_N6se01g
+1127,Hotel NH Collection Mexico City Airport T2,4.4,"Capitán Carlos León Gonzales s/n, Ciudad de México",MEX,ChIJAV3tavX70YURoElOH9wXwHs
+1128,Miami International Airport Hotel,4.1,"Miami International Airport Hotel, Le Jeune Rd, Concourse E 2nd Floor, Northwest 20th Street, Miami",MIA,ChIJe75xWOK52YgRLUnSri2m6qk
+1129,"Holiday Inn Express Miami-Arpt Ctrl-Miami Springs, an IHG Hotel",3.6,"5125 Northwest 36th Street, Miami Springs",MIA,ChIJh5i2ov-52YgRZg1p1LyGx9s
+1130,Days Inn by Wyndham Miami Airport North,2.5,"4767 Northwest 36th Street, Miami",MIA,ChIJR8SMCwK72YgR1v0V7WYGm_s
+1131,Runway Inn Miami Airport Hotel,2.8,"656 East Drive, Miami Springs",MIA,ChIJZ-tWzlS32YgR9WLi_hc1-30
+1132,Sleep Inn Miami Airport,3.6,"105 Fairway Drive, Miami Springs",MIA,ChIJWVoNyPi52YgRCyI9_vhgRYA
+1133,Hilton Minneapolis-St. Paul Airport,4.2,"3800 American Boulevard East, Bloomington",MSP,ChIJudV85h8v9ocRmpBcgEwXupo
+1134,Embassy Suites by Hilton Minneapolis Airport,4,"7901 34th Avenue South, Bloomington",MSP,ChIJe_VuPh8v9ocRClalfFc_54U
+1135,Hampton Inn Suites Minneapolis St Paul Arpt-Mall of America,3.9,"2860 Metro Drive, Bloomington",MSP,ChIJb7y6zBcv9ocRqxNSqVEnyWs
+1136,"Crowne Plaza Suites Msp Airport - Mall of America, an IHG Hotel",4,"3 Appletree Square, Bloomington",MSP,ChIJCQdAmx4v9ocR16dqgZVt8sk
+1137,Marriott Minneapolis Airport,4,"2020 American Boulevard East, Bloomington",MSP,ChIJmWsQ_2kv9ocRnVIcd0lfjjE
+1138,City Express Monterrey Aeropuerto,4.2,"Boulevard Aeropuerto 5028, Industrial Milenium, Ciudad Apodaca",MTY,ChIJI7ClooSVYoYR4qyBX4fZAUE
+1139,"Holiday Inn Express & Suites Monterrey Aeropuerto, an IHG Hotel",4.4,"Boulevard Aeropuerto 400, Parque Industrial Milenium, Monterrey",MTY,ChIJNTo3QWrpYoYRf3-RMcx7BxY
+1140,"Crowne Plaza Monterrey Aeropuerto, an IHG Hotel",4.5,"Boulevard Aeropuerto 171 Col, Parque Industrial Nexxus, Monterrey",MTY,ChIJC_7jBdLuYoYRu3eqy6WNmxk
+1141,ibis Monterrey Aeropuerto,3.8,"Blvd. Interamerican 105 Al 109, Parque Industrial FINSA, Ciudad Apodaca",MTY,ChIJvaoRZ_eVYoYRpvhs_CTXmsk
+1142,Best Western Premier Monterrey Aeropuerto,4.6,"Boulevard Aeropuerto 5001, Parque Industrial Milenio, Ciudad Apodaca",MTY,ChIJbbaf_83uYoYRpoDtCzD150g
+1143,La Quinta Inn & Suites by Wyndham Nashville Airport,3.3,"531 Donelson Pike, Nashville",BNA,ChIJxTeEAVxpZIgRD4evBpoadP4
+1144,Sheraton Music City Nashville Airport,4.2,"777 McGavock Pike, Nashville",BNA,ChIJrX1v5ThpZIgRzvK5VyDuaEU
+1145,Sonesta Nashville Airport,4.4,"600 Marriott Drive, Nashville",BNA,ChIJkx4glCRpZIgRjMkFeR3DPnQ
+1146,Hilton Nashville Airport,4,"2200 Elm Hill Pike, Nashville",BNA,ChIJZRS3NhZpZIgR5xeM-RPi8_c
+1147,La Quinta Inn & Suites by Wyndham Nashville Airport/Opryland,3.1,"2345 Atrium Way, Nashville",BNA,ChIJQeN62RlpZIgRgDNIbkLPCXM
+1148,Hilton New Orleans Airport,4.1,"901 Airline Drive, Kenner",MSY,ChIJm_MQeXm3IIYR0pKegSA2b1g
+1149,La Quinta Inn & Suites by Wyndham New Orleans Airport,3.6,"2610 Williams Boulevard, Kenner",MSY,ChIJ6946Rjy3IIYR0-i1CZ5PAm0
+1150,Comfort Suites Airport,4,"2710 Idaho Avenue, Kenner",MSY,ChIJZ0Mbhzu3IIYRwNR_x-uQMYw
+1151,Days Inn by Wyndham New Orleans Airport,2.9,"1021 Airline Drive, Kenner",MSY,ChIJya9qWHi3IIYRdCdpGYRju14
+1152,DoubleTree by Hilton Hotel New Orleans Airport,4,"2150 Veterans Memorial Boulevard, Kenner",MSY,ChIJa4hRmjy3IIYRxCZL4YviMNg
+1153,TWA Hotel,4.3,"John F. Kennedy International Airport, One, JFK Access Road, Idlewild Drive, Queens",NYC,ChIJUQfOtlhmwokRWLy40MMrLcQ
+1154,Smarte Carte Inc,1,"Jfk International Airport, Jamaica",NYC,ChIJQ8ytUepjwokRNc8uaE6PcSI
+1155,TWA Fitness,4.8,"John F. Kennedy International Airport, One Idlewild Drive, Queens",NYC,ChIJ84UHG89nwokRXNTuJUme5KQ
+1156,Newark Liberty International Airport Marriott,4,"Newark Liberty International Airport, 1 Hotel Road, Newark",NYC,ChIJlXycOvpSwokRRtWN6t7gjJw
+1157,Hilton Newark Airport,4,"1170 Spring Street, Elizabeth",NYC,ChIJQ_SvvOpSwokRffhKuMFRj9Q
+1158,Holiday Inn Newark Airport,3.9,"450 US Route 1 &, 9, Newark",NYC,ChIJId6gPexSwokRxo1OL_fk4Eo
+1159,"Crowne Plaza Newark Airport, an IHG Hotel",3.6,"901 Spring Street, Elizabeth",NYC,ChIJt5FQF5ZSwokRxKd9lxfdqUE
+1160,Best Western Plus Newark Airport West,3.8,"101 International Way, Newark",NYC,ChIJOSlAfh1TwokRk06ueEQUhGo
+1161,Cambridge Inn,3.7,"7400 South May Avenue, Oklahoma City",OKC,ChIJ36JUdbUTsocRHJPJUcoibq4
+1162,"Motel 6 Oklahoma City, OK - Airport East",3.1,"7404 South May Avenue, Oklahoma City",OKC,ChIJHU4CCbUTsocR__NXA_vbXj4
+1163,Hyatt Regency Orlando International Airport,4.5,"9300 Jeff Fuqua Boulevard, Orlando",ORL,ChIJ3WB_SuVi54gRBht8RQ7TZeU
+1164,Ramada by Wyndham Suites Orlando Airport,3.9,"7500 Augusta National Drive, Orlando",ORL,ChIJeyGRTBBj54gRg2_dLKOGhVw
+1165,Marriott Orlando Airport Lakeside,4.3,"7499 Augusta National Drive, Orlando",ORL,ChIJuYNTzA9j54gR6gElen245tA
+1166,Hilton Garden Inn Orlando Airport,4.2,"7300 Augusta National Drive, Orlando",ORL,ChIJH_My7BFj54gRDQc1O6UgZIQ
+1167,La Quinta Inn & Suites by Wyndham Orlando Airport North,4.1,"7160 North Frontage Road, Orlando",ORL,ChIJRX5UohZj54gRs-mUifTINOw
+1168,Philadelphia Airport Marriott,4.1,"One Arrivals Road Terminal B, Philadelphia",PHL,ChIJaQfX4ZzExokRQc3HFJWnlb4
+1169,Embassy Suites by Hilton Philadelphia Airport,3.5,"9000 Bartram Avenue, Philadelphia",PHL,ChIJRTmGxn3DxokRTe3Yvn-Nrl0
+1170,Sonesta Select Philadelphia Airport,4,"8900 Bartram Avenue, Philadelphia",PHL,ChIJ78HXE4DExokRsj-AjwOorrw
+1171,Fairfield Inn Philadelphia Airport,3.7,"8800 Bartram Avenue, Philadelphia",PHL,ChIJORlx1IHExokR9CX_HJ9tbAM
+1172,Hampton Inn Philadelphia-International Airport,3.8,"8600 Bartram Avenue, Philadelphia",PHL,ChIJW7-AQ4DExokRjkd3o-GLRCk
+1173,Hilton Garden Inn Phoenix Airport North,4.2,"3838 East Van Buren Street, Phoenix",PHX,ChIJH2-KO4cOK4cRdw4y671fEgw
+1174,Aloft Phoenix-Airport,4.2,"4450 East Washington Street, Phoenix",PHX,ChIJcfl0b5AOK4cRNPRF4KMuxZw
+1175,DoubleTree Suites by Hilton Hotel Phoenix,4,"320 North 44th Street, Phoenix",PHX,ChIJYcZBvoQOK4cRV_kAP0NqshA
+1176,Hilton Phoenix Airport,4.3,"2435 South 47th Street, Phoenix",PHX,ChIJwbhAveYOK4cRS_nQ9KGAi6s
+1177,"Holiday Inn Express & Suites Phoenix Airport, an IHG Hotel",4.2,"3401 East University Drive, Phoenix",PHX,ChIJ36JozsIRK4cRHTOhqCLJWSg
+1178,La Quinta Inn & Suites by Wyndham Salt Lake City Airport,3.8,"4905 Wiley Post Way, Salt Lake City",SLC,ChIJhXlv2jbyUocRrs14OraVwkQ
+1179,"Holiday Inn Express & Suites Salt Lake City-Airport East, an IHG Hotel",4.2,"200 North 2100 West, Salt Lake City",SLC,ChIJGWMtPHb0UocRzV0IqxXiiB4
+1180,Radisson Hotel Salt Lake City Airport,3.3,"2177 West North Temple Street, Salt Lake City",SLC,ChIJ18mQ2Hf0UocRkArKsR3iODg
+1181,DoubleTree by Hilton Hotel Salt Lake City Airport,4.1,"5151 Wiley Post Way, Salt Lake City",SLC,ChIJD2O7OTryUocRnRbxDgzDpC8
+1182,Residence Inn by Marriott Salt Lake City Airport,4.2,"4883 West Douglas Corrigan Way, Salt Lake City",SLC,ChIJnaJy-jbyUocR-95Zw6hfomA
+1183,Sheraton San Diego Hotel & Marina,4.1,"1380 Harbor Island Drive, San Diego",SAN,ChIJz51XAUCr3oAR6XwxuHXrOUc
+1184,Hilton San Diego Airport/Harbor Island,4.2,"1960 Harbor Island Drive, San Diego",SAN,ChIJBwpcVg2r3oARFfs8-h0mBeg
+1185,Courtyard by Marriott San Diego Airport/Liberty Station,4.5,"2592 Laning Road, San Diego",SAN,ChIJgzar2Air3oARtNzkgMUEko8
+1186,La Quinta Inn & Suites by Wyndham San Diego Old Town/Airport,4,"2380 Moore Street, San Diego",SAN,ChIJUbzGhN-q3oARzfsh-dL45yc
+1187,Fairfield Inn & Suites by Marriott San Diego Old Town,4.2,"3900 Old Town Avenue, San Diego",SAN,ChIJiZnBoSCr3oARGXDO-NgF9q8
+1188,Embassy Suites by Hilton San Antonio Airport,4.3,"10110 U.S. 281, San Antonio",SAT,ChIJZYtR8KeKXIYR7Kvg0ip6Y5Q
+1189,Hilton Garden Inn San Antonio Airport South,4.1,"8505 Broadway, San Antonio",SAT,ChIJbaxwxUr1XIYRK5FMJRFxgSc
+1190,La Quinta Inn & Suites by Wyndham San Antonio Airport,4,"850 Halm Boulevard, San Antonio",SAT,ChIJ-TCOMauKXIYR2co_TdsQgOc
+1191,"Holiday Inn Express San Antonio-Airport, an IHG Hotel",4.5,"91 Northeast Interstate 410 Loop, San Antonio",SAT,ChIJz6RWuAFgXIYRgPrmRhQJ4WY
+1192,Fairfield Inn & Suites by Marriott San Antonio Airport/North Star Mall,3.9,"88 Northeast Interstate 410 Loop, San Antonio",SAT,ChIJoRp0kABgXIYR4bqZfJGJ2eM
+1193,"Sfo Airport Hotel, El Rancho Inn, BW Signature Collection",4.1,"1100 El Camino Real, Millbrae",SFO,ChIJwf_keZ93j4ARXnyhPd_snMw
+1194,Hotel 1550,4,"1550 El Camino Real, San Bruno",SFO,ChIJK2TBOXZ3j4AR0GcBlSQsOY4
+1195,The Millwood - A Boutique Hotel,4.3,"1375 El Camino Real, Millbrae",SFO,ChIJBWjaH553j4ARUA_jMvWQ_Mk
+1196,Fairfield Inn & Suites by Marriott San Francisco Airport/Millbrae,4,"250 El Camino Real, Millbrae",SFO,ChIJWbk5MqV3j4ARAe6duVmddx8
+1197,Hotel Aura,4.3,"190 El Camino Real, San Bruno",SFO,ChIJZ4zb8nt3j4ARZA9zjTiRfIU
+1198,Hilton Seattle Airport & Conference Center,4,"17620 International Boulevard, Seattle",SEA,ChIJvcyZA6xckFQRdOePznHCxns
+1199,Radisson Hotel Seattle Airport,4.1,"18118 International Boulevard, Seattle",SEA,ChIJU46tiahckFQRXtt6bjMdi60
+1200,Seattle Airport Marriott,4.2,"3201 South 176th Street, Seattle",SEA,ChIJq62dVa5ckFQRlC164bJxLUw
+1201,Red Roof Inn Seattle Airport - SEATAC,3.6,"16838 International Boulevard, Seattle",SEA,ChIJXQaeV01DkFQR96eEyUW5L8s
+1202,La Quinta Inn & Suites by Wyndham Seattle Sea-Tac Airport,3.9,"2824 South 188th Street, Seattle",SEA,ChIJrU386FhbkFQRj8xo7Kneums
+1203,Drury Inn & Suites St. Louis Airport,4.5,"10490 Natural Bridge Road, St. Louis",STL,ChIJg-2svac234cRfvo0xrYviO0
+1204,Hilton St. Louis Airport,3.8,"10330 Natural Bridge Road, St. Louis",STL,ChIJqXUrER4034cRFjDf-lygnrw
+1205,Quality Inn Airport,2.9,"10232 Natural Bridge Road, St. Louis",STL,ChIJyRw2xx8034cRnaBs4tIW1jY
+1206,"Crowne Plaza St. Louis Airport, an IHG Hotel",3.9,"11228 Lone Eagle Drive, Bridgeton",STL,ChIJb6akrWYx34cRlc4u8rSZ6OY
+1207,Super 8 by Wyndham St. Louis Airport,2.8,"9798 Saint Charles Rock Road, Breckenridge Hills",STL,ChIJ9xlFFQk034cRD6bjOrzUZCI
+1208,Grand Hyatt Tampa Bay,4.5,"2900 Bayport Drive, Tampa",TPA,ChIJoaNvaGPCwogRa7EVtzV5nd8
+1209,Renaissance Tampa International Plaza Hotel,4.5,"4200 Jim Walter Boulevard, Tampa",TPA,ChIJc4_gvVLCwogRcMKGyflqumU
+1210,Tampa Airport Marriott,4.4,"Tampa International Airport, 4200 George J Bean Parkway, Tampa",TPA,ChIJQ0Sek0bCwogRpIIFHoyDJAs
+1211,Hilton Garden Inn Tampa Airport Westshore,4.4,"5312 Avion Park Drive, Tampa",TPA,ChIJ9fwTv1jCwogRLxo1ERokfrY
+1212,La Quinta Inn by Wyndham Tampa Bay Airport,3.1,"4730 West Spruce Street, Tampa",TPA,ChIJeXfQ9lbCwogROB-w_011tmQ
+1213,Washington Dulles Airport Marriott,4,"45020 Aviation Drive, Dulles",WAS,ChIJK87f1INHtokR8V-p_sIlSCc
+1214,The Westin Washington Dulles Airport,4.2,"2520 Wasser Terrace, Herndon",WAS,ChIJ3ZQHkXZHtokR0exa1cY04BY
+1215,"Candlewood Suites Washington-Dulles Herndon, an IHG Hotel",4,"13845 Sunrise Valley Drive, Herndon",WAS,ChIJIY5UmHVHtokRbH1F9nyGPFY
+1216,Hyatt Regency Dulles,4.2,"2300 Dulles Corner Boulevard, Herndon",WAS,ChIJQUumvYJHtokRz1JgP9NRqWg
+1217,Hyatt Place Herndon/Dulles Airport-East,4.1,"13711 Sayward Boulevard, Herndon",WAS,ChIJFd4YKZ1HtokRsrQ3BOMseMM
+1218,Courtyard by Marriott Fort Lauderdale Airport & Cruise Port,4.1,"400 Gulf Stream Way, Dania Beach",FLL,ChIJMc5As2qq2YgRiAl0u3qUCmE
+1219,"Candlewood Suites Ft. Lauderdale Airport/Cruise, an IHG Hotel",3.8,"1120 West State Road 84, Fort Lauderdale",FLL,ChIJ6fUl4poA2YgRijpxqXxaV5A
+1220,Fairfield Inn & Suites by Marriott Fort Lauderdale Airport & Cruise Port,4,"2081 Griffin Road, Dania Beach",FLL,ChIJMWeG9RSq2YgRkKZVuCe9jSQ
+1221,"Holiday Inn Express & Suites Ft. Lauderdale Airport/Cruise, an IHG Hotel",4,"1150 Florida 84, Fort Lauderdale",FLL,ChIJQ6j9-5oA2YgRDiZyGwuzOAY
+1222,Crowne Plaza Ft. Lauderdale Airport/Cruise,4,"455 Florida 84, Fort Lauderdale",FLL,ChIJH2ZuTWMA2YgRlIUFxmq5u0M
+1223,Best Western The Plaza Hotel,3.8,"3253 North Nimitz Highway, Honolulu",HNL,ChIJd0UB06lvAHwRZ131j2NndB8
+1224,Pacific Marina Inn,3.3,"2628 Waiwai Loop, Honolulu",HNL,ChIJRzU4sVVuAHwRb47zX4bkyCQ
+1225,Airport Honolulu Hotel,3.8,"3401 North Nimitz Highway, Honolulu",HNL,ChIJgYwc8advAHwRnS0CTS0s00I
+1226,Embassy Suites by Hilton Portland Airport,4.2,"7900 Northeast 82nd Avenue, Portland",PDX,ChIJlSaRYBaklVQRx0ubTIGuW_Y
+1227,Radisson Hotel Portland Airport,4.2,"6233 Northeast 78th Court, Portland",PDX,ChIJ42NOWh2klVQRkGW0guqQUMY
+1228,"Holiday Inn Portland-Airport (I-205), an IHG Hotel",3.9,"8439 Northeast Columbia Court, Portland",PDX,ChIJ8wvW7AGklVQR6oUdY50VKXU
+1229,Sheraton Portland Airport Hotel,4.2,"8235 Northeast Airport Way, Portland",PDX,ChIJwc5JlT2klVQRa1czlXp86R8
+1230,Residence Inn by Marriott Portland Airport at Cascade Station,4.4,"9301 Northeast Cascades Parkway, Portland",PDX,ChIJfdzA-hOklVQRSsFJBRJDsFg
+1231,Grand Hyatt Tampa Bay,4.5,"2900 Bayport Drive, Tampa",TPA,ChIJoaNvaGPCwogRa7EVtzV5nd8
+1232,Renaissance Tampa International Plaza Hotel,4.5,"4200 Jim Walter Boulevard, Tampa",TPA,ChIJc4_gvVLCwogRcMKGyflqumU
+1233,Tampa Airport Marriott,4.4,"Tampa International Airport, 4200 George J Bean Parkway, Tampa",TPA,ChIJQ0Sek0bCwogRpIIFHoyDJAs
+1234,Hilton Garden Inn Tampa Airport Westshore,4.4,"5312 Avion Park Drive, Tampa",TPA,ChIJ9fwTv1jCwogRLxo1ERokfrY
+1235,La Quinta Inn by Wyndham Tampa Bay Airport,3.1,"4730 West Spruce Street, Tampa",TPA,ChIJeXfQ9lbCwogROB-w_011tmQ
+1236,Red Roof Inn Cincinnati Airport-Florence/ Erlanger,3.3,"599 Donaldson Highway, Erlanger",CVG,ChIJZZzmQP3HQYgRGfMTQMEBV5U
+1237,"Holiday Inn Cincinnati Airport, an IHG Hotel",4.1,"1717 Airport Exchange Boulevard, Erlanger",CVG,ChIJDYR6q0DIQYgRf5GKvdFDfAI
+1238,Hilton Cincinnati Airport,4.2,"7373 Turfway Road, Florence",CVG,ChIJyz6ooMbHQYgRdYKeM6UBOtE
+1239,Marriott Cincinnati Airport,4.4,"2395 Progress Drive, Hebron",CVG,ChIJdcWlXwLJQYgRwuzg6iohFvU
+1240,Hampton Inn Cincinnati Airport-North,4.1,"755 Petersburg Road, Hebron",CVG,ChIJC4-D0QLJQYgRmZ02jGW-Wgw
+1241,Hilton Oakland Airport,3.8,"One Hegenberger Road, Oakland",OAK,ChIJ5ThdbKGFj4ARMP22GPvcZGo
+1242,Best Western Plus Airport Inn & Suites,4.1,"170 Hegenberger Loop, Oakland",OAK,ChIJ70vjh5eFj4ARJG9ggZ4vj04
+1243,Hampton Inn & Suites Oakland Airport-Alameda,4.1,"1700 Harbor Bay Parkway, Alameda",OAK,ChIJF_2QcEKEj4ARS4D7AUsIQ58
+1244,La Quinta Inn & Suites by Wyndham Oakland Airport Coliseum,3.3,"8465 Enterprise Way, Oakland",OAK,ChIJ45hkRJSFj4ARV7SszfZFo1M
+1245,Econo Lodge Inn & Suites Oakland Airport,3.5,"10 Hegenberger Road, Oakland",OAK,ChIJlTTRfqGFj4ARq_DpKSv1ekw
+1246,Hyatt Regency Pittsburgh International Airport,4.1,"1111 Airport Boulevard, Pittsburgh",PIT,ChIJw_MAUcNcNIgRW4fVO69-65k
+1247,La Quinta Inn by Wyndham Pittsburgh Airport,3.9,"8507 University Boulevard, Moon Township",PIT,ChIJl0mVz61dNIgRVETMweeLz00
+1248,Americas Best Value Inn Pittsburgh Airport,2.9,"8858 University Boulevard, Coraopolis",PIT,ChIJWRyH36xdNIgRdk2teK7MNZQ
+1249,Hampton Inn Pittsburgh-Airport,4.1,"8514 University Boulevard, Moon Township",PIT,ChIJjVCpOaxdNIgRSYmX9ELAETk
+1250,Sheraton Pittsburgh Airport Hotel,4,"1160 Thorn Run Road, Coraopolis",PIT,ChIJEf6uqEpcNIgR1DDf7XG5Gpg
+1251,DoubleTree by Hilton Hotel San Jose,3.9,"2050 Gateway Place, San Jose",SJC,ChIJK0PeRurLj4AR9WQha5RrPRQ
+1252,Sonesta Select San Jose Airport,4.1,"1727 Technology Drive, San Jose",SJC,ChIJf3Rp6pPLj4ARV_ZqG8IhgSE
+1253,Fairfield Inn & Suites by Marriott San Jose Airport,4.1,"1755 North First Street, San Jose",SJC,ChIJ1Q_Ji5LLj4ARvnfD6_dlgU8
+1254,Sonesta ES Suites San Jose Airport,4.3,"1602 Crane Court, San Jose",SJC,ChIJvfYujfLLj4ARNK3HJdqghfw
+1255,La Quinta Inn & Suites by Wyndham San Jose Airport,3.9,"2585 Seaboard Avenue, San Jose",SJC,ChIJD8snJtfLj4ARBwiVOrGWpyk
+1256,Embassy Suites by Hilton Raleigh Durham Airport Brier Creek,4.6,"8001 Arco Corporate Drive, Raleigh",RDU,ChIJ012f0J3wrIkRW5LCjhFIG-s
+1257,Hilton Garden Inn Raleigh-Durham Airport,4.1,"1500 RDU Center Drive, Morrisville",RDU,ChIJUfaGJqHxrIkR2q6fS13h32w
+1258,Fairfield Inn & Suites by Marriott Raleigh-Durham Airport/Research Triangle Park,4.3,"2750 Slater Road, Morrisville",RDU,ChIJe5XNU8_xrIkRRlANdluUetc
+1259,Microtel Inn & Suites by Wyndham Raleigh Durham Airport,3.4,"104 Factory Shops Road, Morrisville",RDU,ChIJ3ZvXUMjxrIkR7pvPaqVbeSk
+1260,Fairfield Inn & Suites by Marriott Raleigh-Durham Airport/Brier Creek,4.3,"10040 Sellona Street, Raleigh",RDU,ChIJd0APrGjwrIkRRG5Reg4zH2E
+1261,La Quinta Inn & Suites by Wyndham Memphis Airport Graceland,3.7,"2979 Millbranch Road, Memphis",MEM,ChIJY5BkyGV91YcRDbcuUuiTfMI
+1262,Knights Inn Memphis at Airways Blvd,2.7,"2949 Airways Boulevard, Memphis",MEM,ChIJQzNd9o2Hf4gREyEykOmlmLQ
+1263,Courtyard by Marriott Memphis Airport,3.7,"1780 Nonconnah Boulevard, Memphis",MEM,ChIJvR2PNGN91YcRsV2OTaSr03k
+1264,Days Inn by Wyndham Memphis at Graceland Airport,3,"3839 Elvis Presley Boulevard, Memphis",MEM,ChIJqfV7KTJ91YcRefCLX7wnGWM
+1265,Holiday Inn Memphis Airport - Conf Ctr,3.6,"2240 Democrat Road, Memphis",MEM,ChIJDXp3L-iHf4gRn7wgNk_D9FM
+1266,Hilton Irvine/Orange County Airport,4,"18800 Macarthur Boulevard, Irvine",SNA,ChIJkV5eRfHe3IAR6Cs5dv_0vNw
+1267,Irvine Marriott,4.4,"18000 Von Karman Avenue, Irvine",SNA,ChIJx6oOPoze3IAR4aCGakw8AA4
+1268,Embassy Suites by Hilton Irvine Orange County Airport,4.2,"2120 Main Street, Irvine",SNA,ChIJW4qqNZLe3IARkZszdPZl3a8
+1269,SpringHill Suites by Marriott Irvine John Wayne Airport/Orange County,4.2,"17601 Fitch, Irvine",SNA,ChIJWWJMx8be3IARazbB-zQjze4
+1270,Courtyard by Marriott Irvine John Wayne Airport/Orange County,4.1,"2701 Main Street, Irvine",SNA,ChIJJfLgTITe3IARxED3ASX3kao
+1271,La Quinta Inn & Suites by Wyndham Cleveland - Airport North,4,"4222 West 150th Street, Cleveland",CLE,ChIJE3BVwbntMIgRSD-ab95c1io
+1272,Hilton Garden Inn Cleveland Airport,4.2,"4900 Emerald Court Southwest, Cleveland",CLE,ChIJnfbGlt3sMIgRBWLZwfE8w3o
+1273,Ramada by Wyndham Cleveland Airport West,2.9,"22115 Brookpark Road, Fairview Park",CLE,ChIJOQceKjOTMIgRTk7FAt6xEOs
+1274,Howard Johnson by Wyndham Cleveland Airport,2.6,"16644 Snow Road, Brook Park",CLE,ChIJoSwMPmTsMIgRuKWSc15GfEA
+1275,Comfort Inn Cleveland Airport,3.5,"17550 Rosbough Boulevard, Middleburg Heights",CLE,ChIJBVvE453rMIgRS_8rzAo0o8s
+1276,"Crowne Plaza Indianapolis-Airport, an IHG Hotel",4,"2501 South High School Road, Indianapolis",IND,ChIJTX58BZGnbIgR-C97ptNlWcw
+1277,"Country Inn & Suites by Radisson, Indianapolis Airport South, IN",4.2,"5630 Flight School Drive, Indianapolis",IND,ChIJSyTicWGnbIgR5Y2PKwa1NKg
+1278,Comfort Suites near Indianapolis Airport,4.1,"2750 Fortune Circle West, Indianapolis",IND,ChIJYyiF7IWnbIgRST0Ts_ewSw8
+1279,Wyndham Indianapolis West,3.7,"2544 Executive Drive, Indianapolis",IND,ChIJFRoLx4mnbIgRoVSCc_zKW7I
+1280,La Quinta Inn by Wyndham Indianapolis Airport Executive Dr,3.3,"2650 Executive Drive, Indianapolis",IND,ChIJLc23FIinbIgRwUi8W9ZBzcs
+1281,Embassy Suites by Hilton Columbus Airport,4.4,"2886 Airport Drive, Columbus",CMH,ChIJS7UCj5GJOIgRr3Owc49VN68
+1282,Hampton Inn Columbus-Airport,4.1,"4280 International Gateway, Columbus",CMH,ChIJR7IzpxBiOIgRZ6mrlJkPpOU
+1283,Hilton Garden Inn Columbus Airport,4.1,"4265 Sawyer Road, Columbus",CMH,ChIJt7XtPBpiOIgR7akCfQBjnvo
+1284,Sonesta Simply Suites Columbus Airport Gahanna,4.3,"590 Taylor Road, Gahanna",CMH,ChIJC0WnSdRjOIgRTLkUuDxJF8E
+1285,Four Points by Sheraton Columbus Ohio Airport,3.8,"3030 Plaza Properties Boulevard, Columbus",CMH,ChIJ02d16_KJOIgRDAFVubwTjbM
+1286,Courtyard by Marriott Tucson Airport,4.1,"2505 East Executive Drive, Tucson",TUS,ChIJx-6uDxp71oYR1zLoIv7ZNbo
+1287,La Quinta Inn & Suites by Wyndham Tucson Airport,4.2,"7001 South Tucson Boulevard, Tucson",TUS,ChIJXeOavxN71oYRbLGkKoBPTwQ
+1288,Best Western Tucson Int'L Airport Hotel & Suites,3.9,"6801 South Tucson Boulevard, Tucson",TUS,ChIJXZQvFhF71oYR1aZdfq5j_co
+1289,"Country Inn & Suites by Radisson, Tucson Airport, AZ",4.2,"6681 South Tucson Boulevard, Tucson",TUS,ChIJGZV3tBB71oYRX517ECSJP50
+1290,Four Points by Sheraton Tucson Airport,4,"7060 South Tucson Boulevard, Tucson",TUS,ChIJ7bMXUxJ71oYRL7Hoo2boW6E
+1291,Hilton Garden Inn Buffalo Airport,4.4,"4201 Genesee Street, Cheektowaga",BUF,ChIJLfFZwrN004kRIOrKwqI9M7g
+1292,Homewood Suites by Hilton Buffalo-Airport,4.3,"760 Dick Road, Cheektowaga",BUF,ChIJJR9vBFQL04kRTZjIgC5V6Xo
+1293,Salvatore's Garden Place Hotel,3.9,"6615 Transit Road, Williamsville",BUF,ChIJUd1w49V104kRh6m_t8jVotI
+1294,Millennium Buffalo,3.9,"2040 Walden Avenue, Buffalo",BUF,ChIJeaLDnpcM04kR_Fo5TWal0ZE
+1295,"Holiday Inn Express & Suites Buffalo-Airport, an IHG Hotel",4.2,"131 Buell Avenue, Cheektowaga",BUF,ChIJk0apc61004kRTC3FueOL5_I
+1296,Hotel Captain Cook,4.5,"939 West 5th Avenue, Anchorage",ANC,ChIJoUUNNIG9yFYRT1rea_yflgI
+1297,Hilton Anchorage,3.6,"500 West 3rd Avenue, Anchorage",ANC,ChIJgzxCdIe9yFYRdq3MOq8mrQ0
+1298,SpringHill Suites by Marriott Anchorage University Lake,4.3,"4050 University Lake Drive, Anchorage",ANC,ChIJiTrF5QKXyFYRaSvG-2NZzx4
+1299,Dimond Center Hotel,4.1,"700 East Dimond Boulevard, Anchorage",ANC,ChIJhwSSWNCZyFYRERrQFrAM0SI
+1300,Anchorage Downtown Hotel,3.1,"826 K Street, Anchorage",ANC,ChIJef-GSIC9yFYRMmMwrhjjdgY
+1301,Hilton Garden Inn Jacksonville Airport,4,"13503 Ranch Road, Jacksonville",JAX,ChIJ1RVGsq2v5YgRppXEnZKVlGw
+1302,Hyatt Place Jacksonville Airport,4.2,"14565 Duval Road, Jacksonville",JAX,ChIJx0UteK2v5YgRbEix1kc2xQw
+1303,Courtyard by Marriott Jacksonville Airport Northeast,4.2,"14668 Duval Road, Jacksonville",JAX,ChIJ8c4hSa2v5YgRf2shsMAJ9UY
+1304,Jacksonville Plaza Hotel & Suites,3.3,"14585 Duval Road, Jacksonville",JAX,ChIJ_2fScq2v5YgRpPr-0M8hsSw
+1305,SpringHill Suites by Marriott Jacksonville Airport,4,"13550 Airport Court, Jacksonville",JAX,ChIJozSXGq-v5YgREgRuKj_hsYY
+1306,Hilton Garden Inn Hartford North/Bradley Int'l Airport,4.3,"555 Corporate Drive, Windsor",BDL,ChIJVQB4cqH_5okRViSjZ0-lmGs
+1307,Fairfield Inn & Suites by Marriott Hartford Airport,4,"2 Loten Drive, Windsor Locks",BDL,ChIJ4TTxTHr-5okRGibDNTOM44I
+1308,Econo Lodge Inn & Suites Airport,3.4,"34 Old County Road, Windsor Locks",BDL,ChIJacAY2dX95okROwpeOqd4FvU
+1309,DoubleTree by Hilton Hotel Hartford - Bradley Airport,3.8,"16 Ella T, Ella Grasso Turnpike, Windsor Locks",BDL,ChIJW3ufqHr-5okRMN1mxWxsQmQ
+1310,SpringHill Suites by Marriott Hartford Airport/Windsor Locks,4.2,"225 Ella Grasso Turnpike, Windsor Locks",BDL,ChIJrU6Szdb95okRQok30QWT8Qs
+1311,"Holiday Inn Palm Beach-Airport Conf Ctr, an IHG Hotel",3.8,"1301 Belvedere Road, West Palm Beach",PBI,ChIJg6jptk7W2IgRmpbpLFl1q70
+1312,Hilton Palm Beach Airport,4.1,"150 Australian Avenue, West Palm Beach",PBI,ChIJSQIRg7bX2IgRWt51oMk2y8M
+1313,DoubleTree by Hilton Hotel West Palm Beach Airport,3.8,"1808 South Australian Avenue, West Palm Beach",PBI,ChIJ1xoQbUbW2IgRSlb3VSAOhlw
+1314,Embassy Suites by Hilton West Palm Beach Central,4.2,"1601 Belvedere Road, West Palm Beach",PBI,ChIJ-0o670nW2IgRei3NTJxV6EU
+1315,West Palm Beach Marriott,4.2,"1001 Okeechobee Boulevard, West Palm Beach",PBI,ChIJLRfMWF3W2IgRApHUwnsXqdM
+1316,Maui Seaside Hotel,3.8,"100 West Kaahumanu Avenue, Kahului",OGG,ChIJi7shuN7SVHkRlj70fKaE7N0
+1317,Maui Beach Hotel,3.7,"170 West Kaahumanu Avenue, Kahului",OGG,ChIJJwCz3N7SVHkRXqWINLrLXOE
+1318,Maui Sunset,4.4,"1032 South Kihei Road, Kihei",OGG,ChIJhX9eG0TQVHkR418-ozVji8o
+1319,Maui Coast Hotel,4.5,"2259 South Kihei Road, Kihei",OGG,ChIJ9QaO7qDaVHkR5yI5lfNlSOg
+1320,The Hale Pau Hana,4.8,"2480 South Kihei Road, Kihei",OGG,ChIJnR4fuaPaVHkRj_dN_9_yVVI
+1321,"Holiday Inn Express & Suites Sacramento Airport Natomas, an IHG Hotel",4.2,"2981 Advantage Way, Sacramento",SAC,ChIJM1QSh_spm4ARraE1WYfixbQ
+1322,Hampton Inn & Suites Sacramento-Airport-Natomas,4.3,"3021 Advantage Way, Sacramento",SAC,ChIJz_XrEfwpm4ARZgOu1GHw-Pw
+1323,Homewood Suites by Hilton Sacramento Airport-Natomas,4.2,"3001 Advantage Way, Sacramento",SAC,ChIJ2euq9fspm4ARDJNU9vy4YKY
+1324,Four Points by Sheraton Sacramento International Airport,3.7,"4900 Duckhorn Drive, Sacramento",SAC,ChIJqVGyVwIqm4ARUMigG870MPY
+1325,Worldwide Oakwood,4,"4101 Innovator Drive, Sacramento",SAC,ChIJxdU1aT3WmoARHjV5i7OKDWc
+1326,Hampton Inn & Suites Norfolk-Airport,4.2,"1511 USAA Drive, Norfolk",ORF,ChIJ2407cfaWuokR6Y2N6L4kRdc
+1327,Best Western Center Inn,3.8,"5718 Northampton Boulevard, Virginia Beach",ORF,ChIJsT-2OpyWuokRMIVM3DNjulc
+1328,Residence Inn by Marriott Norfolk Airport,4,"1590 North Military Highway, Norfolk",ORF,ChIJhS21KveWuokRX2SwzyxdsHc
+1329,La Quinta Inn & Suites by Wyndham Norfolk Airport,3.9,"1387 North Military Highway, Norfolk",ORF,ChIJiX36SliWuokR4O69vfL-4ak
+1330,Red Roof Inn Virginia Beach - Norfolk Airport,3.2,"5745 Northampton Boulevard, Virginia Beach",ORF,ChIJNTTI8JyWuokRGAg71TOFzvY
+1331,"Holiday Inn Express & Suites Reno Airport, an IHG Hotel",4.4,"2375 Market Street, Reno",RNO,ChIJX8m41WY_mYAR7oBrdT7oP9M
+1332,Grand Sierra Resort and Casino,4.3,"2500 East 2nd Street, Reno",RNO,ChIJG7qnuls_mYARweP739kMgh8
+1333,Peppermill Resort Spa Casino,4.4,"2707 South Virginia Street, Reno",RNO,ChIJ07LkRY9AmYARbPPabWOgb1I
+1334,Nugget Casino Resort,3.8,"1100 Nugget Avenue, Sparks",RNO,ChIJxQpVnjo_mYARW9gkVzXSKgY
+1335,Eldorado Resort Casino,4.2,"345 North Virginia Street, Reno",RNO,ChIJ080StzVHmYARD-YbD1sKARw
+1336,Los Angeles Marriott Burbank Airport,4.3,"2500 North Hollywood Way, Burbank",BUR,ChIJdQ5F7aeVwoARAsQHeyQNLzA
+1337,Ramada by Wyndham Burbank Airport,3.7,"2900 North San Fernando Boulevard, Burbank",BUR,ChIJ-TgkJgSVwoARnM1PziFoUb4
+1338,Hampton Inn and Suites Los Angeles Burbank Airport,4.2,"7501 North Glenoaks Boulevard, Burbank",BUR,ChIJr3gi1gGVwoARg_Wq-IpPZqM
+1339,Courtyard by Marriott Los Angeles Burbank Airport,4.2,"2100 Empire Avenue, Burbank",BUR,ChIJ1XWJhxKVwoAROqbHjEbClSc
+1340,Extended Stay America - Los Angeles - Burbank Airport,3.6,"2200 Empire Avenue, Burbank",BUR,ChIJn9DknhKVwoARzZYfCk-I424
+1341,Long Beach Marriott,4.4,"4700 Airport Plaza Drive, Long Beach",LGB,ChIJaxXXgyEy3YARo3UO0Y5o8ao
+1342,"Holiday Inn Long Beach Airport, an IHG Hotel",4,"2640 North Lakewood Boulevard, Long Beach",LGB,ChIJGdQGnIkx3YARHcjYXaRh0NE
+1343,Residence Inn by Marriott Long Beach,4.3,"4111 East Willow Street, Long Beach",LGB,ChIJV01VNogx3YARqMq1oDJEAxM
+1344,Courtyard by Marriott Long Beach Airport,4.4,"3841 North Lakewood Boulevard, Long Beach",LGB,ChIJ13s5P0cy3YARKf-7H9rpskw
+1345,Extended Stay America - Los Angeles - Long Beach Airport,3.2,"4105 East Willow Street, Long Beach",LGB,ChIJnyw1TYgx3YARWU25vbcqlF4
+1346,Hampton Inn & Suites Providence/Warwick-Airport,3.2,"2100 Post Road, Warwick",PVD,ChIJaV_w2yhM5IkRf2AL3kRAuvU
+1347,Holiday Inn Express & Suites Warwick-Providence (Airport),4.2,"901 Jefferson Boulevard, Warwick",PVD,ChIJH6DlNSRM5IkRPb0odTDwTEU
+1348,Radisson Hotel Providence Airport,3.9,"2081 Post Road, Warwick",PVD,ChIJc9d88ChM5IkROk3cbd1z7q0
+1349,Hilton Garden Inn Providence Airport/Warwick,4.3,"1 Thurber Street, Warwick",PVD,ChIJlROHX51O5IkRxnltsrLH7IY
+1350,La Quinta Inn & Suites by Wyndham Warwick Providence Airport,3.6,"36 Jefferson Boulevard, Warwick",PVD,ChIJGxUFuPZO5IkRVXNj2eSaBnE
+1351,Best Western Premier Waterfront Hotel & Convention Center,4.4,"1 North Main Street, Oshkosh",OSH,ChIJe7QFyfTrA4gRbIws5gZLRd0
+1352,Hilton Garden Inn Oshkosh,4.1,"1355 West 20th Avenue, Oshkosh",OSH,ChIJaar5lr7uA4gRiK4T4ZwObi8
+1353,Fairfield Inn & Suites by Marriott Oshkosh,3.9,"1800 South Koeller Street, Oshkosh",OSH,ChIJi-Sd0cXuA4gRAnIbjG7LjFY
+1354,"Holiday Inn Express & Suites Oshkosh-Sr 41, an IHG Hotel",4.1,"2251 Westowne Avenue, Oshkosh",OSH,ChIJTU_emxjpA4gRlrVabv9oDcA
+1355,"Motel 6 Oshkosh, WI",2.7,"1015 South Washburn Street, Oshkosh",OSH,ChIJKzzrFM3uA4gRYl0digf5Ar4
+1356,Hilton Omaha,4.1,"1001 Cass Street, Omaha",OMA,ChIJVVxxHrqPk4cRG2Y67svzDxo
+1357,Courtyard by Marriott Omaha Downtown/Old Market Area,4.3,"101 South 10th Street, Omaha",OMA,ChIJ11V5zrqPk4cRpmeVE18hdlA
+1358,Hilton Garden Inn Omaha Downtown/Old Market Area,4.1,"1005 Dodge Street, Omaha",OMA,ChIJP_nuurqPk4cRr4gaAZTf6UU
+1359,DoubleTree by Hilton Hotel Omaha Downtown,3.8,"1616 Dodge Street, Omaha",OMA,ChIJwdXLQLKPk4cRsqu7mX4skBY
+1360,Magnolia Hotel Omaha,4.2,"1615 Howard Street, Omaha",OMA,ChIJvRwUUayPk4cRKeFqDLEl2NA
+1361,"Crowne Plaza Louisville Airport Expo Ctr, an IHG Hotel",4.1,"830 Phillips Lane, Louisville",SDF,ChIJ-R6CU6YNaYgRAgpCmQr6wNQ
+1362,Hilton Garden Inn Louisville Airport,4.4,"2735 Crittenden Drive, Louisville",SDF,ChIJSxoR5nMNaYgRVxION2i3fbY
+1363,Courtyard by Marriott Louisville Airport,4,"819 Phillips Lane, Louisville",SDF,ChIJ0cgL3KMNaYgR9pGKS9MxiKs
+1364,Red Roof Inn Louisville Expo Airport,3.3,"4704 Preston Highway, Louisville",SDF,ChIJHwJ3IUkMaYgR4NkP_JRB2Dc
+1365,Ramada by Wyndham Louisville Expo Center,3.5,"2912 Crittenden Drive, Louisville",SDF,ChIJl7fCLnQNaYgRTmj9gFm0Vz4
+1366,DoubleTree by Hilton Hotel Ontario Airport,4.2,"222 North Vineyard Avenue, Ontario",ONT,ChIJ_3xWE1o0w4ARNg29tIPPFvY
+1367,Ontario Airport Hotel & Conference Center,4.1,"700 North Haven Avenue, Ontario",ONT,ChIJh8pUSqA1w4ARnmmYTDrKXUg
+1368,"Holiday Inn Express & Suites Ontario Airport, an IHG Hotel",4.3,"2280 South Haven Avenue, Ontario",ONT,ChIJtcXnsjU1w4ARtLIf9Leuv9s
+1369,Best Western Plus Ontario Airport & Convention Center,4.3,"209 North Vineyard Avenue, Ontario",ONT,ChIJ0QCww1s0w4ARDq52_JdEjLg
+1370,Hilton Garden Inn Ontario/Rancho Cucamonga,4.3,"11481 Mission Vista Drive, Rancho Cucamonga",ONT,ChIJK4Dsu4Y1w4ARV524Sx2C4yQ
+1371,Crowne Plaza Syracuse,4,"701 East Genesee Street, Syracuse",SYR,ChIJXxPu66Tz2YkRrDM-ZxvDhEE
+1372,The Parkview Hotel,4.3,"713 East Genesee Street, Syracuse",SYR,ChIJrWsN9KTz2YkRFwo4vpFDe8I
+1373,Jefferson Clinton Suites,4.3,"416 South Clinton Street, Syracuse",SYR,ChIJa_hOyrjz2YkRPNS3MsHdMlA
+1374,Hilton Garden Inn Syracuse,4.3,"6004 Fair Lakes Road, East Syracuse",SYR,ChIJMRZlv6eS2YkRsqEZ4W4L3vU
+1375,"Holiday Inn Express Syracuse Airport, an IHG Hotel",4,"5418 South Bay Road, North Syracuse",SYR,ChIJZcNblaLt2YkRbFxK7fMyW4Y
+1376,Camp Cobbossee Inc,4.5,"3 New King Street # 1, West Harrison",HPN,ChIJCxCWS5C9wokRraf6PG250To
+1377,Moorehead Manor,5,"1065 King Street, Greenwich",HPN,ChIJ7e1U3peXwokRVRxwr-Yl_Jc
+1378,Cedar Hall,4.1,"1 Orchard Road, Armonk",HPN,ChIJNakqpbW9wokRTA6kcr3wc1E
+1379,"Crowne Plaza Albany - the Desmond Hotel, an IHG Hotel",4.3,"660 Albany Shaker Road, Albany",ALB,ChIJ7Z55HvUM3okRxsDNMYb8DhI
+1380,SureStay Plus Hotel By Best Western Albany Airport,3.2,"200 Wolf Road, Albany",ALB,ChIJZ5pjjIsM3okRykpQyo9Jxfg
+1381,Marriott Albany,4.2,"189 Wolf Road, Albany",ALB,ChIJuer1J4kM3okRp4RBJOztaeA
+1382,Hilton Garden Inn Albany Airport,4,"800 Albany Shaker Road, Albany",ALB,ChIJr6-fGd4M3okRH6zn1hg7LaU
+1383,Hampton Inn Albany-Wolf Road (Airport),4.1,"10 Ulenski Drive, Albany",ALB,ChIJq0QkYooM3okRKyGRYaJfDwU
+1384,"Crowne Plaza Charleston Airport - Conv Ctr, an IHG Hotel",4.3,"4831 Tanger Outlet Boulevard, North Charleston",CHS,ChIJY5dR91tj_ogR_Wmf9kfe1ho
+1385,Hilton Garden Inn Charleston Airport,4.2,"5265 International Boulevard, North Charleston",CHS,ChIJf5Y90U5j_ogRm4_4yWYS8yg
+1386,Hyatt Place Charleston Airport/Convention Center,4.4,"3234 West Montague Avenue, North Charleston",CHS,ChIJQbhrLFJj_ogRBKUuArcBxIY
+1387,"Home2 Suites by Hilton Charleston Airport/Convention Center, SC",4.3,"3401 West Montague Avenue, North Charleston",CHS,ChIJzyfruU1j_ogRs5UD_CYF8O8
+1388,Quality Inn Coliseum,3.3,"5055 North Arco Lane, North Charleston",CHS,ChIJoVL_ZFlj_ogRTDhleKy_m6s
+1389,"Holiday Inn Birmingham-Airport, an IHG Hotel",3.7,"5000 Richard Arrington Junior Boulevard North, Birmingham",BHM,ChIJK_5lyZIaiYgRlEEdCuHxgGg
+1390,Ramada by Wyndham Birmingham Airport,2.9,"5216 Messer Airport Highway, Birmingham",BHM,ChIJcWB2C5QaiYgRJ1TJHJ0Hh8U
+1391,Budgetel Inn and Suites,2.5,"5101 Messer Airport Highway, Birmingham",BHM,ChIJAQDAnJIaiYgRkVekQUQz_6Y
+1392,Relax Inn,3.2,"6101 1st Avenue North, Birmingham",BHM,ChIJ6_vXbpwaiYgRMm_orphBceQ
+1393,Motel 8 Inn,2.8,"5009 1st Avenue North, Birmingham",BHM,ChIJq6PIXYsaiYgR3Stt7v65iX8
+1394,Homewood Suites by Hilton Richmond - Airport,3.8,"5996 Audubon Drive, Sandston",RIC,ChIJl0k-4rUbsYkR0DXWIITKIlQ
+1395,Hampton Inn Richmond - Airport,4.2,"421 International Center Drive, Sandston",RIC,ChIJHZBt98obsYkRoIQN7tU5jSI
+1396,Hilton Garden Inn Richmond Airport,4.1,"441 International Center Drive, Sandston",RIC,ChIJ-50YZ8obsYkRfTS2aQI5NlI
+1397,Sheraton Richmond Airport Hotel,3.5,"5501 Eubank Road, Sandston",RIC,ChIJLwLzpFYasYkRbfhFy5RHtcQ
+1398,Microtel Inn & Suites by Wyndham Richmond Airport,2.7,"6000 Audubon Drive, Sandston",RIC,ChIJQcG7crYbsYkROUijQw5ZtSw
+1399,"Staybridge Suites Rochester University, an IHG Hotel",4.3,"1000 Genesee Street, Rochester",ROC,ChIJd9XGirm01okRzm2xLjyb8nI
+1400,Courtyard by Marriott Rochester Brighton,4.1,"33 Corporate Woods, Rochester",ROC,ChIJmzuk7DpL0YkR95dXgAuYIWI
+1401,Rodeway Inn Rochester Airport,3.2,"1273 Chili Avenue, Rochester",ROC,ChIJJ5MQwUOz1okRzn392ojxEXw
+1402,Fairfield Inn by Marriott Rochester Airport,4,"1200 Brooks Avenue, Rochester",ROC,ChIJGTRMhk6z1okRHiz4WBttEJg
+1403,Best Western The Inn At Rochester Airport,4,"395 Buell Road, Rochester",ROC,ChIJRXYN90-z1okR2yPD5PN_peA
+1404,Days Inn & Suites by Wyndham Savannah North I-95,3.7,"105 Traveler's Way, Port Wentworth",SAV,ChIJNaxrVPCi-4gR7GjmQk0Nd1k
+1405,Embassy Suites by Hilton Savannah Airport,4.2,"145 West Mulberry Boulevard, Savannah",SAV,ChIJUavq-fyj-4gR7VCriCgXUII
+1406,Fairfield Inn & Suites by Marriott Savannah Airport,3.8,"10 Stephen South Green Drive, Savannah",SAV,ChIJyXj-Hlqh-4gRmrByUv8EdFM
+1407,Inn at Mulberry Grove,3.5,"101 O'Leary Road, Savannah",SAV,ChIJ6Skg8vai-4gRUCjRnk_nNSE
+1408,Hampton Inn and Suites Savannah-Airport,4.3,"70 Stephen South Green Drive, Savannah",SAV,ChIJyXj-Hlqh-4gRWJ0Lb9KoHno
+1409,Super 8 by Wyndham Vandalia/Dayton International Airport,3.1,"550 East National Road, Vandalia",DAY,ChIJZ1RI9Jt-P4gR3H9kEmJbGwQ
+1410,Courtyard by Marriott Dayton North,4,"7087 Miller Lane, Dayton",DAY,ChIJMQytvw5-P4gRo9eJOLHe_rg
+1411,Residence Inn by Marriott Dayton Vandalia,4.4,"7227 York Center Drive, Dayton",DAY,ChIJlQY2GAx-P4gR8gxAta4MW3I
+1412,Hampton Inn & Suites Dayton-Vandalia,4.3,"7043 Miller Lane, Dayton",DAY,ChIJz_J57w5-P4gReqy3zRa9ZaA
+1413,Hawthorn Suites by Wyndham Dayton North,3.1,"7070 Poe Avenue, Dayton",DAY,ChIJGV8UoAl-P4gRtsXdOFHpMx0
+1414,"The Historic Davenport, Autograph Collection",4.6,"10 South Post Street, Spokane",GEG,ChIJoTimK2cYnlQR7BfF2VEGVZ4
+1415,Hampton Inn Spokane,4.4,"2010 South Assembly Road, Spokane",GEG,ChIJHX3a-_AXnlQReokh0QBkSs0
+1416,Hotel Ruby,4.1,"901 West 1st Avenue, Spokane",GEG,ChIJSewz3mYYnlQRF9Ds9pDTO5Y
+1417,Best Western Plus Peppertree Airport Inn,4.1,"3711 South Geiger Boulevard, Spokane",GEG,ChIJ2bAHlNYXnlQRiidVdEHHqug
+1418,Hilton Garden Inn Spokane Airport,4.5,"9015 U.S. 2, Spokane",GEG,ChIJA4ShO60XnlQRt7ndBtC00QY
+1419,"Holiday Inn Boise Airport, an IHG Hotel",4.3,"2970 West Elder Street, Boise",BOI,ChIJYaWKBONXrlQRy-2-KBi8wsg
+1420,TownePlace Suites by Marriott Boise Downtown/University,4.3,"1455 South Capitol Boulevard, Boise",BOI,ChIJK8VPLIv4rlQRBRtqqcDjKG4
+1421,Inn America - Boise,4.1,"2275 West Airport Way, Boise",BOI,ChIJ-SsC-P1XrlQRv0kt0hrodRc
+1422,Super 8 by Wyndham Boise,3,"2773 West Elder Street, Boise",BOI,ChIJk4yVxOJXrlQRJfiRjaw2E_c
+1423,Residence Inn by Marriott Boise Downtown/University,4.4,"1401 South Lusk Place, Boise",BOI,ChIJsxJPOov4rlQRXV1hYJLrJtE
+1424,Best Western Plus Executive Court Inn & Conference Center,4.3,"13500 South Willow Street, Manchester",MHT,ChIJEy52sttN4okRL3pXLGJB7lw
+1425,"Holiday Inn Express & Suites Manchester-Airport, an IHG Hotel",4.2,"1298 South Porter Street, Manchester",MHT,ChIJDSoMTIlO4okRbxjycxSKr1M
+1426,Hilton Garden Inn Manchester Downtown,4.3,"101 South Commercial Street, Manchester",MHT,ChIJbba6mNBO4okRnC2wWOeJkp8
+1427,Homewood Suites by Hilton Manchester/Airport,4.1,"1000 Perimeter Road, Manchester",MHT,ChIJozYONjlM4okRCdz_7Zqu-AA
+1428,"Holiday Inn Manchester Airport, an IHG Hotel",4.3,"2280 Brown Avenue, Manchester",MHT,ChIJR0qa6SFM4okRfwlp3sAjs0s
+1429,Travelodge by Wyndham Fort Myers Airport,3,"13661 Indian Paint Lane, Fort Myers",FMY,ChIJW_Ms_LgU24gRZvkum25NQg4
+1430,SpringHill Suites by Marriott Fort Myers Airport,4.3,"9501 Marketplace Road, Fort Myers",FMY,ChIJ1d79SK2KXIYRpf8sdr5O0RQ
+1431,La Quinta Inn & Suites by Wyndham Fort Myers Airport,3.5,"9521 Marketplace Road, Fort Myers",FMY,ChIJoW0ycbcU24gR6GMS-zeVGws
+1432,Hampton Inn Ft. Myers-Airport I-75,4.4,"9241 Marketplace Road, Fort Myers",FMY,ChIJTcl8-8cU24gRjQDgXkG_HSM
+1433,Comfort Inn & Suites Airport,4.2,"10081 Intercom Drive, Fort Myers",FMY,ChIJgeS7H7sU24gRns5QcK4qSc0
+1434,La Quinta Inn & Suites by Wyndham Portland,4,"340 Park Avenue, Portland",PWM,ChIJ289tMQicskwR4xARHl3esKU
+1435,Best Western Merry Manor Inn,4.3,"700 Main Street, South Portland",PWM,ChIJf2TS7NKeskwR9NGKndhau0Q
+1436,Howard Johnson by Wyndham South Portland,3.7,"675 Main Street, South Portland",PWM,ChIJdy23ndKeskwRDSWwYbGRr3o
+1437,"Holiday Inn Express & Suites South Portland, an IHG Hotel",4.3,"303 Sable Oaks Drive, South Portland",PWM,ChIJe8eOZXGZskwRwozYc6lkTBo
+1438,Fireside Inn & Suites Portland,3.8,"81 Riverside Street, Portland",PWM,ChIJbWQ7Pk6askwRum2woCKliBo
+1439,Best Western Plus South Coast Inn,4.4,"5620 Calle Real, Goleta",SBA,ChIJN6TrD3FA6YARrqK_v2HYrdc
+1440,Ramada by Wyndham Santa Barbara,4.1,"4770 Calle Real, Santa Barbara",SBA,ChIJg5Yeoqpq6YAROj6fhRU791g
+1441,"The Ritz-Carlton Bacara, Santa Barbara",4.4,"8301 Hollister Avenue, Santa Barbara",SBA,ChIJR5dB3hRH6YARhngDWzUoGl4
+1442,Kimpton Canary Hotel,4.5,"31 West Carrillo Street, Santa Barbara",SBA,ChIJj4oQBXwU6YARZ93NzVVjolY
+1443,Hotel Santa Barbara,4.3,"533 State Street, Santa Barbara",SBA,ChIJAyHWC3gU6YARIyx8qUv3gnA
+1444,Howard Johnson by Wyndham Wichita Airport,3.4,"6575 West Kellogg Drive, Wichita",ICT,ChIJOUZgN7jguocRNyEIqnlz-BU
+1445,Sonesta Simply Suites Wichita Airport,4.4,"570 South Julia Street, Wichita",ICT,ChIJz4KNvsbguocR8ZxPIZZ4ckg
+1446,DoubleTree by Hilton Hotel Wichita Airport,4.4,"2098 South Airport Road, Wichita",ICT,ChIJ27Wt9lDnuocRepi1UGFkGJM
+1447,"Holiday Inn Express & Suites Wichita Airport, an IHG Hotel",4.1,"1236 South Dugan Road, Wichita",ICT,ChIJp3HbCbjguocRIz_Dyr0LIHg
+1448,Best Western Plus Wichita West Airport Inn,4.4,"3800 West Kellogg Drive, Wichita",ICT,ChIJIwYDmSXhuocRhHV_NCS6HE4
+1449,Courtyard by Marriott Palm Springs,4.2,"1300 East Tahquitz Canyon Way, Palm Springs",PSP,ChIJa3mVrJ4b24ARQbQyEMBEMMw
+1450,Renaissance Palm Springs Hotel,4.3,"888 East Tahquitz Canyon Way, Palm Springs",PSP,ChIJG001FqIb24ARf6DmPPoRowk
+1451,The Saguaro Palm Springs,4,"1800 East Palm Canyon Drive, Palm Springs",PSP,ChIJgawnVGgb24AROV1E8Q2PxYE
+1452,Hilton Palm Springs,4.1,"400 East Tahquitz Canyon Way, Palm Springs",PSP,ChIJFZ53d6Qb24AReSJBflV_-aY
+1453,Best Western Plus Las Brisas Hotel,4.3,"222 South Indian Canyon Drive, Palm Springs",PSP,ChIJB9QhvaYb24ARz651gCe7-wA
+1454,Best Western East Towne Suites,3.9,"4801 Annamark Drive, Madison",MSN,ChIJoZmbuPVWBogRLeMXEwSYXj8
+1455,"Motel 6 Madison, WI - East",3.2,"4202 East Towne Boulevard, Madison",MSN,ChIJc2DUJY5WBogRPzm7W2_JlL8
+1456,"Red Roof Inn Madison, WI",3,"4830 Hayes Road, Madison",MSN,ChIJJeJ45l5WBogRr9nce9laFXw
+1457,Motel 6 Madison North,2.6,"1754 Thierer Road, Madison",MSN,ChIJXRh2m5pWBogRC0x3nPoJY78
+1458,Hampton Inn Madison East Towne Mall Area,4.4,"4820 Hayes Road, Madison",MSN,ChIJp9Q16V5WBogRni5vJsfjIyM
+1459,"Holiday Inn Grand Rapids - Airport, an IHG Hotel",4,"3063 Lake Eastbrook Boulevard Southeast, Grand Rapids",GRR,ChIJE0MnHRFNGIgRUGU8SYR2btY
+1460,Sheraton Grand Rapids Airport Hotel,3.8,"5700 28th Street Southeast, Grand Rapids",GRR,ChIJ7_xL7N1NGIgReDpb98MOKYM
+1461,Hampton Inn & Suites Grand Rapids-Airport 28th St,4,"5200 28th Street Southeast, Grand Rapids",GRR,ChIJdc0rPcBNGIgRgEpdGjRHWPc
+1462,Homewood Suites by Hilton Grand Rapids,3.7,"3920 Stahl Drive Southeast, Grand Rapids",GRR,ChIJiYWrUg1NGIgRnHINjEW2RfU
+1463,Courtyard by Marriott Grand Rapids Airport,4.1,"4741 28th Street Southeast, Grand Rapids",GRR,ChIJZYb9paJNGIgRTc0V96vJbWY
+1464,Des Moines Marriott Downtown,4.3,"700 Grand Avenue, Des Moines",DSM,ChIJTUirfQGZ7ocRsdJ8_2tgTag
+1465,Hilton Garden Inn Des Moines/Urbandale,4.4,"8600 Northpark Drive, Johnston",DSM,ChIJB032EYSd7ocRqWzIf9Z8d2c
+1466,Embassy Suites by Hilton Des Moines Downtown,4.2,"101 East Locust Street, Des Moines",DSM,ChIJRykGFayZ7ocROQSNdyBtxP0
+1467,Sheraton West Des Moines Hotel,4.1,"1800 50th Street, West Des Moines",DSM,ChIJ9yi_Kugg7IcRtN89yElQBdI
+1468,Hampton Inn Des Moines-Airport,4,"5001 Fleur Drive, Des Moines",DSM,ChIJsQx5fgui7ocRKPATjjJpzIo
+1469,La Quinta Inn & Suites by Wyndham South Burlington,3.6,"1285 Williston Road, South Burlington",BTV,ChIJdyWN9S56ykwR4bjyKwweor0
+1470,"Holiday Inn Burlington, an IHG Hotel",3.9,"1068 Williston Road, South Burlington",BTV,ChIJbwHPyjB6ykwR6ptI39xLR5Q
+1471,Hilton Burlington Lake Champlain,3.9,"60 Battery Street, Burlington",BTV,ChIJ5wGp9PB6ykwRARmQ9CjEh5M
+1472,Courtyard by Marriott Burlington Harbor,4.4,"25 Cherry Street, Burlington",BTV,ChIJX63c7vZ6ykwRZm41PFFna7g
+1473,The Essex,4.3,"70 Essex Way, Essex Junction",BTV,ChIJUf2rRZh3ykwRYEVYXj8hRjU
+1474,Courtyard by Marriott Little Rock Downtown,4.1,"521 President Clinton Avenue, Little Rock",LIT,ChIJo7cezHi70ocRz-esf00t0ow
+1475,"Holiday Inn Express Little Rock-Airport, an IHG Hotel",3.9,"3121 Bankhead Drive, Little Rock",LIT,ChIJq1OtCda70ocR8L_4Lv2sa5Q
+1476,Comfort Inn & Suites Airport,4.2,"4301 East Roosevelt Road, Little Rock",LIT,ChIJyW0m2tm70ocRMrCikDixC1I
+1477,Comfort Inn & Suites Presidential,4.3,"707 Interstate 30, Little Rock",LIT,ChIJm5CPP5270ocR_dryBsxhkuc
+1478,Hampton Inn & Suites Little Rock-Downtown,4.2,"320 River Market Avenue, Little Rock",LIT,ChIJ-6UdqHm70ocRhfdVMz5QKG4
+1479,Embassy Suites by Hilton Greensboro Airport,4.1,"204 Centreport Drive, Greensboro",GSO,ChIJqzCueYoEU4gRHq66D41kDHc
+1480,Greensboro-High Point Marriott Airport,4.3,"One Marriott Drive, Greensboro",GSO,ChIJS-abXWcDU4gRPghpbY3gmZs
+1481,Residence Inn by Marriott Greensboro Airport,4,"7616 Thorndike Road, Greensboro",GSO,ChIJ5Y4xBvUEU4gRaFlyGOsCX1g
+1482,"Holiday Inn Express & Suites Greensboro - Airport Area, an IHG Hotel",4.4,"645 South Regional Road, Greensboro",GSO,ChIJMYZFZPMEU4gR_llHCyV4vv0
+1483,Homewood Suites by Hilton Greensboro,4,"201 Centreport Drive, Greensboro",GSO,ChIJ3eUa3WEEU4gRFCbgeSGVu-8
+1484,Hilton Garden Inn Tulsa Airport,3.5,"7728 East Virgin Court, Tulsa",TUL,ChIJY7HgdA3ytocRrsosK1Rvdk4
+1485,OYO Hotel Tulsa International Airport,2.6,"1016 North Garnett Road, Tulsa",TUL,ChIJs3mSYqnztocR9hGHoR6z8Uw
+1486,La Quinta Inn & Suites by Wyndham Tulsa Airpt / Expo Square,3.5,"23 North 67th East Avenue, Tulsa",TUL,ChIJg1pC04HttocRX2wsmayqBmM
+1487,"Country Inn & Suites by Radisson, Tulsa, OK",3.5,"1034 North Garnett Road, Tulsa",TUL,ChIJs1WK-qvztocRWQSiVmJF8_4
+1488,The Campbell Hotel,4.4,"2636 East 11th Street, Tulsa",TUL,ChIJeaiC_O_stocRq8KBBOPfsyM
+1489,Four Seasons Resort Hualalai,4.7,"72-100 Ka'upulehu Drive, Kailua-Kona",KOA,ChIJIX4RcbFzVHkRQdMrhTjUyzM
+1490,Courtyard by Marriott King Kamehameha's Kona Beach Hotel,4.2,"75-5660 Palani Road, Kailua-Kona",KOA,ChIJs9LSzvgOVHkRPxwo30Zg4ns
+1491,Kona Seaside Hotel,4,"75-5652 Likana Lane, Kailua-Kona",KOA,ChIJ5082vvgOVHkRrpgQ44DyNjM
+1492,Royal Kona Resort,4.1,"75-5852 Ali‘i Drive, Kailua-Kona",KOA,ChIJU-3R4wIPVHkRXWXFJtNIvOw
+1493,Kona Islander Inn Hotel,3.6,"75-5776 Kuakini Highway, Kailua-Kona",KOA,ChIJZ5kWU_wOVHkRWyLmY7drshM
+1494,Hotel Shangri-La,4.1,"1301 Ocean Avenue, Santa Monica",SMO,ChIJIxnYQcWkwoARVbqXi2BrqlM
+1495,Fairmont Miramar - Hotel & Bungalows,4.4,"101 Wilshire Boulevard, Santa Monica",SMO,ChIJBx8nTcSkwoAR1bDfXdfVf20
+1496,The Georgian Hotel,4.3,"1415 Ocean Avenue, Santa Monica",SMO,ChIJmUX7DdCkwoAREiyIPcEgeu0
+1497,HI Los Angeles Santa Monica Hostel,4.3,"1436 2nd Street, Santa Monica",SMO,ChIJC3edO9CkwoARYkgjx-ONxDs
+1498,Ocean View Hotel,4.1,"1447 Ocean Avenue, Santa Monica",SMO,ChIJd5_ZadCkwoARWV1mjHVj1lA
+1499,Hampton Inn Pensacola-Airport (Cordova Mall Area),4,"2187 Airport Boulevard, Pensacola",PNS,ChIJwy96iD_AkIgRUCRgb8JXDiM
+1500,Days Inn by Wyndham Pensacola - Historic Downtown,3.5,"710 North Palafox Street, Pensacola",PNS,ChIJC5uOgqbAkIgRSAJ_3SpT5Nw
+1501,"Holiday Inn Pensacola - University Area, an IHG Hotel",4.2,"7813 North Davis Highway, Pensacola",PNS,ChIJuzBk1azqkIgRRNKP-L75KZ8
+1502,Hampton Inn & Suites Pensacola I-10 North at University Town Plaza,4.2,"7050 Plantation Road, Pensacola",PNS,ChIJH7H9Ef6_kIgRrMGCq83PGjc
+1503,La Quinta Inn by Wyndham Pensacola,2.7,"7750 North Davis Highway, Pensacola",PNS,ChIJsQ2L8azqkIgR8ngPWCy-Ibw
+1504,"Holiday Inn Hasbrouck Heights-Meadowlands, an IHG Hotel",4.1,"283 New Jersey 17, Hasbrouck Heights",TEB,ChIJpaI0oKT5wokRlCPv9AvDhU8
+1505,Hilton Hasbrouck Heights/Meadowlands,3.9,"650 Terrace Avenue, Hasbrouck Heights",TEB,ChIJze1A5ZD5wokRw5API3ksj8A
+1506,Rodeway Inn Capri,3.3,"1 Valley Road, Little Ferry",TEB,ChIJK9BBA9n5wokRQNwiedz51zs
+1507,"Holiday Inn Express & Suites Meadowlands Area, an IHG Hotel",4.1,"100 Paterson Plank Road, Carlstadt",TEB,ChIJJ8wNqGb4wokRRVBNDZFgMT4
+1508,Hampton Inn Carlstadt-At The Meadowlands,4.3,"304 Paterson Plank Road, Carlstadt",TEB,ChIJow_RQXBXwokRF4JioUKSmOM
+1509,Hampton Inn & Suites Los Angeles/Sherman Oaks,4.3,"5638 Sepulveda Boulevard, Sherman Oaks",LAX,ChIJF_h3_56XwoARhaPL2hznm7A
+1510,Best Western Plus Carriage Inn,4.1,"5525 Sepulveda Boulevard, Sherman Oaks",LAX,ChIJa02o2p6XwoAR0Gj1-7a9g7k
+1511,"Holiday Inn Express Van Nuys, an IHG Hotel",3.8,"8244 Orion Avenue, Van Nuys",LAX,ChIJu_XS1rOQwoARuxXCE3_eSVY
+1512,Airtel Plaza Hotel,3.9,"7277 Valjean Avenue, Van Nuys",LAX,ChIJT2wg51eXwoAR8rIpTKoTJuA
+1513,"Motel 6 Sepulveda, CA - Los Angeles - Van Nuys - North Hills",3.3,"15711 Roscoe Boulevard, North Hills",LAX,ChIJZRyZ1a-QwoARrcWUP4GSl1k
+1514,Fairfield Inn & Suites by Marriott Rapid City,4,"1314 North Elk Vale Road, Rapid City",RAP,ChIJbR38_udnfYcRvBAgsqFLTik
+1515,"Hotel Alex Johnson Rapid City, Curio Collection by Hilton",4.3,"523 6th Street, Rapid City",RAP,ChIJg10sNdNcfYcRRW7tT015U48
+1516,Hilton Garden Inn Rapid City,4.3,"815 East Mall Drive, Rapid City",RAP,ChIJTfnE0xJdfYcRAvJNDahJDIg
+1517,Hampton Inn Rapid City,4.1,"1720 Rapp Street, Rapid City",RAP,ChIJuVLF9RVdfYcRRoI01lxMaXo
+1518,Best Western Ramkota Hotel,3.9,"2111 North Lacrosse Street, Rapid City",RAP,ChIJK1VuuxZdfYcRYoCRgLfR1p0
+1519,Hampton Inn Knoxville-Airport,4.2,"148 International Avenue, Alcoa",TYS,ChIJM9-JKAQhXIgR2C61Gas8D4o
+1520,Hilton Knoxville Airport,4.4,"2001 Alcoa Highway, Alcoa",TYS,ChIJ3S3nSOEgXIgR6vb4gftaNng
+1521,Courtyard by Marriott Knoxville Airport Alcoa,4.3,"141 Furrow Way, Alcoa",TYS,ChIJT1jLDAIhXIgRXv_Aq5YhiZc
+1522,"Holiday Inn Express & Suites Alcoa (Knoxville Airport), an IHG Hotel",4.4,"130 Associates Boulevard, Alcoa",TYS,ChIJt4ueppMgXIgRyyO6houeB3Y
+1523,"Candlewood Suites Knoxville Airport-Alcoa, an IHG Hotel",4,"176 Cusick Road, Alcoa",TYS,ChIJw3nrkgMhXIgRiHTmeaDgn3Q
+1524,Homewood Suites by Hilton Tallahassee,4.3,"2987 Apalachee Parkway, Tallahassee",TLH,ChIJMws0ZrVf7IgRqPOHyKFlYZY
+1525,Fairfield Inn & Suites by Marriott Tallahassee Central,4.2,"2997 Apalachee Parkway, Tallahassee",TLH,ChIJeZXLJ7Vf7IgR5iw6oYwXZVw
+1526,Four Points by Sheraton Tallahassee Downtown,4,"316 West Tennessee Street, Tallahassee",TLH,ChIJdUtEmHb17IgR_JYPfAsF83Y
+1527,DoubleTree by Hilton Hotel Tallahassee,4.2,"101 South Adams Street, Tallahassee",TLH,ChIJU3nzk3D17IgRKpgJpWXrWFQ
+1528,SpringHill Suites by Marriott Tallahassee Central,4.3,"1300 Executive Center Drive, Tallahassee",TLH,ChIJAyCeqbdf7IgRZgK5PdDSraw
+1529,Best Western Plus Fresno Airport Hotel,4.2,"1551 North Peach Avenue, Fresno",FAT,ChIJZ1YsX71elIARYrVX_u3DTXo
+1530,"Homewood Suites by Hilton Fresno Airport/Clovis, CA",4.3,"835 Gettysburg Avenue, Clovis",FAT,ChIJAUQL4XRclIARHvRAtSga2sY
+1531,Hilton Garden Inn Clovis,4.1,"520 West Shaw Avenue, Clovis",FAT,ChIJgwY9711clIAR-XkNTUYN0k8
+1532,"Holiday Inn Express & Suites Clovis-Fresno Area, an IHG Hotel",4,"650 West Shaw Avenue, Clovis",FAT,ChIJncWLKVxclIARdD5yu1D7qqI
+1533,Hampton Inn & Suites Clovis-Airport North,4.2,"855 Gettysburg Avenue, Clovis",FAT,ChIJDRyGH3VclIAR7A7vqY74838
+1534,Hampton Inn & Suites Sarasota/Bradenton-Airport,4.3,"975 University Parkway, Sarasota",SRQ,ChIJDf4oLts_w4gRy2J34JnyrpE
+1535,Hilton Garden Inn Sarasota-Bradenton Airport,4.1,"8270 North Tamiami Trail, Sarasota",SRQ,ChIJsUjHE34Vw4gRP0OdD5Is2SI
+1536,Ramada by Wyndham Sarasota Waterfront,3.5,"7150 North Tamiami Trail, Sarasota",SRQ,ChIJ_1W8M5AVw4gRRBIwOhNShU4
+1537,SpringHill Suites by Marriott Sarasota Bradenton,3.8,"1020 University Parkway, Sarasota",SRQ,ChIJ8_g5t8Q_w4gRHJziKZPtZfc
+1538,"Hotel Indigo Sarasota, an IHG Hotel",4.5,"1223 Boulevard of the Arts, Sarasota",SRQ,ChIJ-0P9ZA5Aw4gR71lS69AigVA
