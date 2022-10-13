@@ -1,0 +1,76 @@
+<html>
+
+<head>
+    <title>Line Chart JS</title>
+    <script src="https://cdn.anychart.com/releases/8.11.0/js/anychart-base.min.js"></script>
+    <style type="text/css">
+        html,
+        body,
+        #container {
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="container"></div>
+    <script>
+        anychart.onDocumentReady(function () {
+
+            // add data
+            var data = [
+                ["2015", 365.39, 437.61, 385.71, 461.94],
+                ["2016", 346.72, 407.90, 386.03, 454.15],
+                ["2017", 347.33, 400.15, 358.62, 413.15],
+                ["2018", 359.30, 405.01, 353.28, 398.23],
+                ["2019", 356.51, 393.87, 364.01, 402.15],
+                ["2020", 260.67, 284.46, 299.82, 327.18],
+                ["2021", 327.14, 334.61, 338.20, 345.92],
+
+            ];
+
+            // create a data set
+            var dataSet = anychart.data.set(data);
+
+            // map the data for all series
+            var firstSeriesData = dataSet.mapAs({ x: 0, value: 1 });
+            var secondSeriesData = dataSet.mapAs({ x: 0, value: 2 });
+            var thirdSeriesData = dataSet.mapAs({ x: 0, value: 3 });
+            var fourthSeriesData = dataSet.mapAs({ x: 0, value: 3 });
+
+            // create a line chart
+            var chart = anychart.line();
+
+            // create the series and name them
+            var firstSeries = chart.line(firstSeriesData);
+            firstSeries.name("U.S. Average Cost");
+            var secondSeries = chart.line(secondSeriesData);
+            secondSeries.name("U.S. Average Inflation-Adj");
+            var thirdSeries = chart.line(thirdSeriesData);
+            thirdSeries.name("San Antonio Average Cost");
+            var fourthSeriesData = chart.line(fourthSeriesData);
+            fourthSeriesData.name("San Antonio Average Inflation-Adj")
+
+            // add a legend
+            chart.legend().enabled(true);
+
+            // add a title
+            chart.title("Annual 4th Quarter Average Cost Vs Inflation Adj");
+
+            chart.yAxis().title("Average Cost");
+            chart.xAxis().title("Year");
+
+            // specify where to display the chart
+            chart.container("container");
+
+            // draw the resulting chart
+            chart.draw();
+
+        });
+    </script>
+</body>
+
+</html>
