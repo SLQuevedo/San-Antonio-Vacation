@@ -11,6 +11,8 @@ In additon, an international map is included that marks each destination city. F
 
 Group Members: Sierra Gomez, Sierra Quevedo, Paul Serna ,and Aaron DeVore. 
 
+Database storage: The data is stored in SQL. 
+
 Languages used: Python, HTML, CSS, JavaScript 
 
 
@@ -27,3 +29,4 @@ https://openweathermap.org/api
 
 https://flysanantonio.com/home/flights/nonstop-destinations/
 
+https://maps.googleapis.com/maps/api/place/nearbysearch/json
