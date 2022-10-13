@@ -1,0 +1,66 @@
+,airport_name,latitude_deg,longitude_deg,iso_region,municipality,iata_code,Temperature_in_F
+0,Fort Lauderdale Hollywood International Airport,26.07259941,-80.15270233,US-FL,Fort Lauderdale,FLL,85.93
+1,Daniel K Inouye International Airport,21.32062,-157.924228,US-HI,Honolulu,HNL,76.14
+2,Portland International Airport,45.58869934,-122.59799960000001,US-OR,Portland,PDX,49.87
+3,Tampa International Airport,27.97550011,-82.53320313,US-FL,Tampa,TPA,79.84
+4,Cincinnati Northern Kentucky International Airport,39.04880142,-84.6678009,US-KY,Cincinnati,CVG,60.48
+5,Metropolitan Oakland International Airport,37.721298,-122.221001,US-CA,Oakland,OAK,59.5
+6,Pittsburgh International Airport,40.49150085,-80.23290253,US-PA,Pittsburgh,PIT,59.25
+7,Norman Y. Mineta San Jose International Airport,37.362598,-121.929001,US-CA,San Jose,SJC,56.68
+8,Raleigh Durham International Airport,35.87760162,-78.78749847,US-NC,Raleigh/Durham,RDU,64.69
+9,Memphis International Airport,35.04240036,-89.97669983,US-TN,Memphis,MEM,67.12
+10,John Wayne Airport-Orange County Airport,33.67570114,-117.86799620000001,US-CA,Santa Ana,SNA,67.12
+11,Cleveland Hopkins International Airport,41.4117012,-81.84980011,US-OH,Cleveland,CLE,63.77
+12,Indianapolis International Airport,39.7173,-86.294403,US-IN,Indianapolis,IND,61.92
+13,Port Columbus International Airport,39.9980011,-82.89189911,US-OH,Columbus,CMH,60.94
+14,Tucson International Airport,32.11610031,-110.9410019,US-AZ,Tucson,TUS,67.66
+15,Buffalo Niagara International Airport,42.94049835,-78.73220062,US-NY,Buffalo,BUF,63.16
+16,Ted Stevens Anchorage International Airport,61.17440033,-149.9960022,US-AK,Anchorage,ANC,30.42
+17,Jacksonville International Airport,30.49410057,-81.68789673,US-FL,Jacksonville,JAX,77.05
+18,Bradley International Airport,41.93889999,-72.68319702,US-CT,Hartford,BDL,59.02
+19,Palm Beach International Airport,26.68320084,-80.09559631,US-FL,West Palm Beach,PBI,85.77
+20,Kahului Airport,20.8986,-156.429993,US-HI,Kahului,OGG,75.22
+21,Sacramento International Airport,38.69540024,-121.5910034,US-CA,Sacramento,SMF,58.26
+22,Norfolk International Airport,36.89459991,-76.20120239,US-VA,Norfolk,ORF,57.51
+23,Reno Tahoe International Airport,39.49909973,-119.7679977,US-NV,Reno,RNO,52.88
+24,Bob Hope Airport,34.20069885,-118.35900120000001,US-CA,Burbank,BUR,65.35
+25,Long Beach /Daugherty Field/ Airport,33.81769943,-118.15200039999999,US-CA,Long Beach,LGB,67.21
+26,Theodore Francis Green State Airport,41.73260117,-71.42040253,US-RI,Providence,PVD,60.3
+27,Wittman Regional Airport,43.98440170000001,-88.55699921,US-WI,Oshkosh,OSH,60.78
+28,Eppley Airfield,41.30319977,-95.89409637,US-NE,Omaha,OMA,65.1
+29,Louisville International Standiford Field,38.1744,-85.736,US-KY,Louisville,SDF,61.47
+30,Ontario International Airport,34.05599976,-117.60099790000001,US-CA,Ontario,ONT,64.54
+31,Syracuse Hancock International Airport,43.11119843,-76.10630035,US-NY,Syracuse,SYR,76.42
+32,Westchester County Airport,41.06700134,-73.70760345,US-NY,White Plains,HPN,60.24
+33,Albany International Airport,42.74829865,-73.80169678,US-NY,Albany,ALB,52.36
+34,Charleston Air Force Base-International Airport,32.89860153,-80.04049683,US-SC,Charleston,CHS,74.53
+35,Birmingham-Shuttlesworth International Airport,33.56290054,-86.75350189,US-AL,Birmingham,BHM,64.62
+36,Richmond International Airport,37.50519943,-77.31970215,US-VA,Richmond,RIC,63.45
+37,Greater Rochester International Airport,43.1189003,-77.67240143,US-NY,Rochester,ROC,58.01
+38,Savannah Hilton Head International Airport,32.12760162,-81.20210266,US-GA,Savannah,SAV,73.83
+39,James M Cox Dayton International Airport,39.90240097,-84.2193985,US-OH,Dayton,DAY,62.64
+40,Spokane International Airport,47.61989975,-117.5339966,US-WA,Spokane,GEG,50.99
+41,Boise Air Terminal/Gowen field,43.56439972,-116.22299960000001,US-ID,Boise,BOI,49.89
+42,Manchester Airport,42.93259811,-71.43569946,US-NH,Manchester,MHT,58.17
+43,Southwest Florida International Airport,26.53619957,-81.75520325,US-FL,Fort Myers,RSW,83.39
+44,Portland International Jetport Airport,43.64619827,-70.30930328,US-ME,Portland,PWM,49.82
+45,Santa Barbara Municipal Airport,34.42620087,-119.8399963,US-CA,Santa Barbara,SBA,51.73
+46,Wichita Mid Continent Airport,37.64989853,-97.43309784,US-KS,Wichita,ICT,64.92
+47,Palm Springs International Airport,33.82970047,-116.50700379999999,US-CA,Palm Springs,PSP,75.85
+48,Dane County Regional Truax Field,43.13990021,-89.33750153,US-WI,Madison,MSN,62.91
+49,Gerald R. Ford International Airport,42.88079834,-85.52279663,US-MI,Grand Rapids,GRR,61.36
+50,Des Moines International Airport,41.5340004,-93.6631012,US-IA,Des Moines,DSM,64.71
+51,Burlington International Airport,44.47190094,-73.15329742,US-VT,Burlington,BTV,62.73
+52,Bill & Hillary Clinton National Airport/Adams Field,34.72940063,-92.22429657,US-AR,Little Rock,LIT,69.55
+53,Piedmont Triad International Airport,36.09780121,-79.93730164,US-NC,Greensboro,GSO,59.49
+54,Tulsa International Airport,36.19839859,-95.88809967,US-OK,Tulsa,TUL,65.26
+55,Kona International At Keahole Airport,19.73880005,-156.0460052,US-HI,Kailua/Kona,KOA,75.9
+56,Santa Monica Municipal Airport,34.01580048,-118.45099640000001,US-CA,Santa Monica,SMO,66.83
+57,Pensacola Regional Airport,30.47340012,-87.18659973,US-FL,Pensacola,PNS,70.45
+58,Teterboro Airport,40.85010147,-74.06079865,US-NJ,Teterboro,TEB,61.95
+59,Van Nuys Airport,34.20980072,-118.4899979,US-CA,Van Nuys,VNY,64.71
+60,Rapid City Regional Airport,44.04529953,-103.0569992,US-SD,Rapid City,RAP,64.58
+61,McGhee Tyson Airport,35.81100082,-83.99400329999999,US-TN,Knoxville,TYS,58.42
+62,Tallahassee Regional Airport,30.39649963,-84.35030365,US-FL,Tallahassee,TLH,69.64
+63,Fresno Yosemite International Airport,36.77619934,-119.71800230000001,US-CA,Fresno,FAT,63.86
+64,Sarasota Bradenton International Airport,27.39539909,-82.55439758,US-FL,Sarasota/Bradenton,SRQ,83.44
