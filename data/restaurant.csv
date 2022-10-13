@@ -65,7 +65,7 @@
 63,McDonald's,1,2.8,"8400 Peña Boulevard, Denver",DEN
 64,Subway,1,2.2,"8400 Pena Blvd Jeppsen, Terminal West Side 5, Denver",DEN
 65,National Coney Island,1,3.7,"North Terminal, across from Gates D15/D16, West G Rogell Drive, Detroit",DTT
-66,The Landing Strip Lounge,2,3.4,"36431 Goddard Road, Romulus",DTT
+66,The Landing Strip Lounge,2,3.3,"36431 Goddard Road, Romulus",DTT
 67,Subway,1,3.3,"30795 Eureka Road, Romulus",DTT
 68,Subway,1,4.2,"Cielo Vista Mall, Unit M06, El Paso",ELP
 69,Los Bandidos De Carlos & Mickey's,2,4.4,"1310 Magruder Street, El Paso",ELP
@@ -161,23 +161,357 @@
 159,Phil's BBQ,2,4.6,"3750 Sports Arena Boulevard, San Diego",SAN
 160,Extraordinary Desserts,2,4.4,"2870 Fourth Avenue, San Diego",SAN
 161,Slater’s 50/50,2,4.2,"2750 Dewey Road #193, San Diego",SAN
-162,Il Fornaio Burlingame,2,4.2,"327 Lorton Avenue, Burlingame",SFO
-163,"Kincaid's Fish, Chop & Steakhouse",3,4.2,"60 Bayview Place, Burlingame",SFO
-164,Stacks,2,4.3,"361 California Drive, Burlingame",SFO
-165,Basque Cultural Center,2,4.4,"599 Railroad Avenue, South San Francisco",SFO
-166,Millbrae Pancake House,2,4.4,"1301 El Camino Real, Millbrae",SFO
-167,Cedarbrook Lodge,4,4.7,"18525 36th Avenue South, Seattle",SEA
-168,Waffle House,1,4.2,"4525 James S. McDonnell Boulevard, Berkeley",STL
-169,Subway,1,4.2,"4484 Woodson Road, St. Louis",STL
-170,The Cheesecake Factory,2,4.3,"2223 North Westshore Boulevard, Tampa",TPA
-171,Earl of Sandwich,1,4,"2223 N Westshore Blvd, FC-206 International Mall International Mall Food Court, Tampa",TPA
-172,Stone's Cove Kitbar,2,4.4,"2403 Centreville Road, Herndon",WAS
-173,Subway,1,2.8,"Z Gates Post Security, 45020 Aviation Drive Sf, Sterling",WAS
-174,NED DEVINE'S IRISH GASTRO PUB & RESTAURANT,2,4.2,"2465 Centreville Road, Herndon",WAS
-175,Amphora Diner Deluxe,2,4.2,"1151 Elden Street, Herndon",WAS
-176,Dulles Kabob,1,4.3,"23520 Overland Drive, Sterling",WAS
-177,Punjabi Junction,2,4.1,"23520 Overland Drive Ste 122, Sterling",WAS
-178,Subway,1,4.1,"23050 Pacific Boulevard, Sterling",WAS
-179,TGI Fridays,2,3.7,"13071 Worldgate Drive, Herndon",WAS
-180,Subway,1,3.7,"13053 Worldgate Drive Unit 14, Herndon",WAS
-181,Mellow Mushroom Herndon,2,4.2,"1030 Elden Street, Herndon",WAS
+162,The Magnolia Pancake Haus,2,4.5,"606 Embassy Oaks #100, San Antonio",SAT
+163,Magic Time Machine,2,4.4,"902 Northeast Interstate 410 Loop, San Antonio",SAT
+164,Dough Pizzeria Napoletana,2,4.4,"6989 Blanco Road, San Antonio",SAT
+165,Pappadeaux Seafood Kitchen,3,4.5,"76 Northeast Interstate 410 Loop, San Antonio",SAT
+166,Freddy's Frozen Custard & Steakburgers,1,4.4,"255 East Basse Road #1050, San Antonio",SAT
+167,Jason's Deli,2,4.4,"25 Northeast Interstate 410 Loop, San Antonio",SAT
+168,Paesanos Lincoln Heights,3,4.4,"555 East Basse Road, San Antonio",SAT
+169,The Cheesecake Factory,2,4.3,"7400 San Pedro Avenue, San Antonio",SAT
+170,Cicis Pizza,1,3.9,"6900 San Pedro Avenue, San Antonio",SAT
+171,Sushi Zushi,2,4.2,"999 East Basse Road, San Antonio",SAT
+172,Il Fornaio Burlingame,2,4.2,"327 Lorton Avenue, Burlingame",SFO
+173,"Kincaid's Fish, Chop & Steakhouse",3,4.2,"60 Bayview Place, Burlingame",SFO
+174,Stacks,2,4.3,"361 California Drive, Burlingame",SFO
+175,Basque Cultural Center,2,4.4,"599 Railroad Avenue, South San Francisco",SFO
+176,Millbrae Pancake House,2,4.4,"1301 El Camino Real, Millbrae",SFO
+177,Cedarbrook Lodge,4,4.7,"18525 36th Avenue South, Seattle",SEA
+178,Waffle House,1,4.2,"4525 James S. McDonnell Boulevard, Berkeley",STL
+179,Subway,1,4.2,"4484 Woodson Road, St. Louis",STL
+180,The Cheesecake Factory,2,4.3,"2223 North Westshore Boulevard, Tampa",TPA
+181,Earl of Sandwich,1,4,"2223 N Westshore Blvd, FC-206 International Mall International Mall Food Court, Tampa",TPA
+182,Stone's Cove Kitbar,2,4.4,"2403 Centreville Road, Herndon",WAS
+183,Subway,1,2.8,"Z Gates Post Security, 45020 Aviation Drive Sf, Sterling",WAS
+184,NED DEVINE'S IRISH GASTRO PUB & RESTAURANT,2,4.2,"2465 Centreville Road, Herndon",WAS
+185,Amphora Diner Deluxe,2,4.2,"1151 Elden Street, Herndon",WAS
+186,Dulles Kabob,1,4.3,"23520 Overland Drive, Sterling",WAS
+187,Punjabi Junction,2,4.1,"23520 Overland Drive Ste 122, Sterling",WAS
+188,Subway,1,4.1,"23050 Pacific Boulevard, Sterling",WAS
+189,TGI Fridays,2,3.7,"13071 Worldgate Drive, Herndon",WAS
+190,Subway,1,3.7,"13053 Worldgate Drive Unit 14, Herndon",WAS
+191,Mellow Mushroom Herndon,2,4.2,"1030 Elden Street, Herndon",WAS
+192,Rustic Inn Crabhouse,3,4.5,"4331 Anglers Avenue, Fort Lauderdale",FLL
+193,Anthony's Runway 84,3,4.5,"330 West State Road 84, Fort Lauderdale",FLL
+194,Lester's Diner,1,4.4,"250 West State Road 84, Fort Lauderdale",FLL
+195,Jaxson's Ice Cream Parlor & Restaurant,2,4.6,"128 South Federal Highway, Dania Beach",FLL
+196,Islamorada Fish Company,2,4,"220 Gulf Stream Way, Dania Beach",FLL
+197,Grampa's Cafe Bagels Bakery & Deli,2,4.2,"17 Southwest 1st Street, Dania Beach",FLL
+198,Old Heidelberg Restaurant,2,4.5,"900 West State Road 84, Fort Lauderdale",FLL
+199,Anthony's Coal Fired Pizza & Wings,2,4.5,"2203 South Federal Highway, Fort Lauderdale",FLL
+200,Subway,1,3.9,"137 South Federal Highway, Dania Beach",FLL
+201,El Tamarindo Cafe,2,4.4,"233 Florida 84, Fort Lauderdale",FLL
+202,Subway,1,3.5,"848 Ala Lilikoi Street, Honolulu",HNL
+203,La Mariana Sailing Club,2,4.4,"50 Sand Island Access Road, Honolulu",HNL
+204,Big Kahuna's Pizza,2,4.5,"550 Paiea Street, Honolulu",HNL
+205,Stadium Camellia Restaurant,2,4.3,"4510 Salt Lake Boulevard, Honolulu",HNL
+206,Salt Lake Chinese Restaurant,2,3.8,"848 Ala Lilikoi Street #115, Honolulu",HNL
+207,The Lanai At Mamala Bay,2,3.9,"3465 Mamala Bay Drive, Honolulu",HNL
+208,Subway,1,3.5,"AAFES 1st Floor, 1 Jarrett White Road, Honolulu",HNL
+209,Subway,1,3.5,"2153 North King Street Unit 101A, Honolulu",HNL
+210,Subway,1,3.2,"930 Valkenburgh Street Suite C, #103, Honolulu",HNL
+211,Papa Johns Pizza,1,3.6,"4380a Lawehana Street Ste A, Honolulu",HNL
+212,The Cheesecake Factory,2,4.3,"2223 North Westshore Boulevard, Tampa",TPA
+213,Earl of Sandwich,1,4,"2223 N Westshore Blvd, FC-206 International Mall International Mall Food Court, Tampa",TPA
+214,Bonefish Grill,2,4.5,"588 Buttermilk Pike, Crescent Springs",CVG
+215,LaRosa's Pizza Delhi-Rapid Run,2,4.5,"5657 Rapid Run Pike, Cincinnati",CVG
+216,Subway,1,2.6,"7625 Doering Drive, Florence",CVG
+217,Quaker Steak & Lube,2,4.3,"8025 Action Boulevard, Florence",CVG
+218,Horatio's,3,4.3,"60 Monarch Bay Drive, San Leandro",OAK
+219,In-N-Out Burger,1,4.4,"8300 Oakport Street, Oakland",OAK
+220,La Piñata,2,4.1,"2699 Merced Street, San Leandro",OAK
+221,Subway,1,3.6,"13700 Doolittle Drive #100, San Leandro",OAK
+222,El Torito,2,4,"Marina, #5, San Leandro",OAK
+223,Subway,1,3.7,"175 98th Avenue, Oakland",OAK
+224,Wingstop,2,3.6,"8450 Edgewater Drive, Oakland",OAK
+225,Chipotle Mexican Grill,1,3.9,"8460 Edgewater Drive Ste C, Oakland",OAK
+226,Starbucks,2,3.8,"8450-D Edgewater Drive, Oakland",OAK
+227,Panda Express,1,3.5,"8333 Oakport Street, Oakland",OAK
+228,Primanti Bros. Restaurant and Bar Moon,1,4.3,"8651 University Boulevard, Moon Township",PIT
+229,Eat'n Park,1,4.1,"9516 University Boulevard, Moon Township",PIT
+230,Subway,1,2.6,"1136 Thorn Run Ext B, Coraopolis",PIT
+231,Sheetz,1,3.6,"9002 University Boulevard, Moon Township",PIT
+232,Angelia's Pizza,2,4.1,"202 Moon Clinton Road, Moon Township",PIT
+233,Hyeholde Restaurant,4,4.7,"1516 Coraopolis Heights Road, Coraopolis",PIT
+234,Armstrong's,2,4.4,"1136 Thorn Run Road, Coraopolis",PIT
+235,Pizza Hut,1,3.9,"8609 University Boulevard, Coraopolis",PIT
+236,Mario's Restaurant & Bar,2,4.2,"935 Beaver Grade Road, Coraopolis",PIT
+237,Bob Evans,2,4.1,"8405 University Boulevard, Moon Township",PIT
+238,Spencer's for Steaks and Chops,3,4.3,"2050 Gateway Place, San Jose",SJC
+239,In-N-Out Burger,1,4.6,"550 Newhall Drive, San Jose",SJC
+240,4th Street Bowl,2,4.2,"1441 North 4th Street, San Jose",SJC
+241,Smoking Pig BBQ Company,2,4.4,"1144 North 4th Street, San Jose",SJC
+242,IZAKA-YA,2,4.5,"1335 North First Street, San Jose",SJC
+243,Starbucks,2,4.2,"Bel-Air, 1751 North First Street, San Jose",SJC
+244,House of Genji,2,4.3,"1335 North First Street, San Jose",SJC
+245,Vito's Trattoria,2,4.3,"90 Skyport Drive Ste 170, San Jose",SJC
+246,TGI Sushi,2,4.3,"1759 Technology Drive, San Jose",SJC
+247,Subway,1,3.5,"1753 North First Street Suite 20, San Jose",SJC
+248,Angus Barn,4,4.6,"9401 Glenwood Avenue, Raleigh",RDU
+249,Capital City Chop House,3,4.2,"151 Airgate Drive, Morrisville",RDU
+250,Cracker Barrel Old Country Store,2,4.2,"955 Airport Boulevard, Morrisville",RDU
+251,Azitra Indian Culinary Nirvana,2,4.2,"8411 Brier Creek Parkway Ste 101, Raleigh",RDU
+252,Sheetz,1,3.2,"1600 Aviation Parkway, Morrisville",RDU
+253,Babymoon Cafe,2,4.5,"100 Jerusalem Drive #106, Morrisville",RDU
+254,Tasu Asian Bistro,2,4.1,"8919 Brier Creek Parkway #109, Raleigh",RDU
+255,McDonald's,1,3,"10050 Glenwood Avenue, Raleigh",RDU
+256,Uncle Lou's Fried Chicken,1,4.3,"3633 Millbranch Road, Memphis",MEM
+257,Little Caesars Pizza,1,3.4,"4130 Elvis Presley Boulevard, Memphis",MEM
+258,Subway,1,4,"3335 Winchester Road, Memphis",MEM
+259,Subway,1,4,"1785 Nonconnah Boulevard Suite 115, Memphis",MEM
+260,Domino's Pizza,1,3.4,"3000 Airways Boulevard, Memphis",MEM
+261,Subway,1,4.2,"4405 Elvis Presley Boulevard, Memphis",MEM
+262,Marlowe's Ribs & Restaurant,2,4.5,"4381 Elvis Presley Boulevard, Memphis",MEM
+263,Pollard's Bar-B-Que,1,4.3,"4560 Elvis Presley Boulevard, Memphis",MEM
+264,McDonald's,1,3,"3377 Winchester Road, Memphis",MEM
+265,Ruth's Chris Steak House,4,4.6,"2961 Michelson Drive Suite A, Building 10, Irvine",SNA
+266,Il Fornaio Irvine,2,4.5,"18051 Von Karman Avenue, Irvine",SNA
+267,TEN Sushi + Cocktail Bar,2,4.4,"18177 Von Karman Avenue, Irvine",SNA
+268,Nicolino's Restaurant & Lounge,2,3.8,"2544 Executive Drive, Indianapolis",IND
+269,The Library Restaurant & Pub,2,4.2,"2610 South Lynhurst Drive, Indianapolis",IND
+270,Waffle House,1,4,"2621 South Lynhurst Drive, Indianapolis",IND
+271,Culver's,1,4.4,"4701 Kentucky Avenue, Indianapolis",IND
+272,Chick-fil-A,1,3.4,"7800 Col H Weir Cook Mem Dr, Indianapolis",IND
+273,McDonald's,1,3.1,"7800 Col. H. Weir Cook Memorial Drive, Indianapolis",IND
+274,QDOBA Mexican Eats,1,2.9,"7800 Col H Weir Cook Mem Dr, Indianapolis",IND
+275,Nature's Table,1,3.7,"Indianapolis Airport 7800 Col H Weir Cook Memorial Drive Concession Retail Space 11T.340E, Indianapolis",IND
+276,Hickory House,2,4.3,"550 Officenter Place, Gahanna",CMH
+277,Bob Evans,2,4,"443 Morrison Road, Gahanna",CMH
+278,McDonald's,1,3.7,"Walmart, 1650 West Valencia Road, Tucson",TUS
+279,El Guero Canelo Restaurant,1,4.2,"5201 South 12th Avenue, Tucson",TUS
+280,In-N-Out Burger,1,4.6,"1978 East Ajo Way, Tucson",TUS
+281,Mi Nidito Restaurant,2,4.5,"1813 South 4th Avenue, Tucson",TUS
+282,Little Caesars Pizza,1,4.1,"659 West Valencia Road, Tucson",TUS
+283,Subway,1,4.2,"2245 East Irvington Road Suite 120, Tucson",TUS
+284,Subway,1,4.2,"6610 South Tucson Boulevard, Tucson",TUS
+285,Silver Saddle Steakhouse,2,4.5,"310 East Benson Highway, Tucson",TUS
+286,Subway,1,4.2,"3760 South Palo Verde Road, Tucson",TUS
+287,Subway 32438,1,4.3,"1710 West Valencia Road #120, Tucson",TUS
+288,Subway,1,3.7,"1440 Dunn Avenue Space #1440, Jacksonville",JAX
+289,Buffalo Wild Wings,2,3.7,"13230 City Station Drive, Jacksonville",JAX
+290,Outback Steakhouse,2,4.1,"795 Skymarks Drive, Jacksonville",JAX
+291,Jimmy John's,1,2.8,"510 Airport Center Drive #106, Jacksonville",JAX
+292,Subway,1,3.8,"11565 North Main Street #0206, Jacksonville",JAX
+293,Burger King,1,3.1,"2400 Yankee Clipper Drive, Jacksonville",JAX
+294,Red Lobster,2,3.8,"RIVER CITY MARKETPLACE, 13090 City Station Drive, Jacksonville",JAX
+295,"Big Oak BBQ & Catering Jacksonville, Fl",1,4,"1440 Dunn Avenue, Jacksonville",JAX
+296,Ruby Tuesday,2,4.1,"1360 Airport Road, Jacksonville",JAX
+297,Pollo Tropical,1,3.9,"730 Skymarks Drive, Jacksonville",JAX
+298,Subway,1,3.6,"44 Prospect Hill Road, East Windsor",BDL
+299,Subway,1,3.8,"645 Poquonock Avenue #C, Windsor",BDL
+300,Cracker Barrel Old Country Store,2,4.2,"145 Prospect Hill Road, East Windsor",BDL
+301,Tunxis Grill & Pizzeria,2,4.5,"3 Tunxis Street, Windsor",BDL
+302,Phở 75,1,4.2,"209 Ella Grasso Turnpike, Windsor Locks",BDL
+303,Subway,1,4,"4 National Drive Unit B, Windsor Locks",BDL
+304,Subway,1,4.1,"92 Main Street, Windsor Locks",BDL
+305,Buffalo Wild Wings,2,4,"703 Poquonock Avenue, Windsor",BDL
+306,Subway,1,3.4,"3 Turkey Hills Road, East Granby",BDL
+307,Panera Bread,2,4.2,"2731 Del Paso Road, Sacramento",SAC
+308,Swabbies On The River Restaurant & Bar,2,4.5,"5871 Garden Highway, Sacramento",SAC
+309,IHOP,1,4.1,"2941 Advantage Way, Sacramento",SAC
+310,Subway,1,3.2,"3511 Del Paso Road Suite F100, Sacramento",SAC
+311,Sizzler - Advantage Way,2,4.1,"2901 Advantage Way, Sacramento",SAC
+312,Wienerschnitzel,1,3.7,"2961 Advantage Way, Sacramento",SAC
+313,Little Caesars Pizza,1,3.9,"4710 Natomas Boulevard Suite 140, Sacramento",SAC
+314,Bella Bru Cafe,2,4.4,"4680 Natomas Boulevard Suite 100, Sacramento",SAC
+315,Jack's Urban Eats,2,4.3,"4730 Natomas Boulevard Park Place (Raley’s Shopping Ctr, Sacramento",SAC
+316,Pete's Restaurant & Brewhouse,2,4.3,"4571 Gateway Park Boulevard, Sacramento",SAC
+317,Subway,1,4.3,"1270 Diamond Springs Road suit 101A, Virginia Beach",ORF
+318,Olive Garden Italian Restaurant,2,4.1,"5920 East Virginia Beach Boulevard, Norfolk",ORF
+319,Wawa,1,3.8,"5701 Northampton Boulevard, Virginia Beach",ORF
+320,Ruby Tuesday,2,4,"1201 North Military Highway, Norfolk",ORF
+321,Aberdeen Barn Steakhouse,3,4.3,"5805 Northampton Boulevard, Virginia Beach",ORF
+322,IHOP,1,3.9,"1295 North Military Highway, Norfolk",ORF
+323,Papa Johns Pizza,1,3,"4017 East Little Creek Road, Norfolk",ORF
+324,Pizza Hut,1,2.9,"2352 East Little Creek Road, Norfolk",ORF
+325,Hooters,2,3.9,"1160 North Military Highway, Norfolk",ORF
+326,Susan's Kitchenette Filipino,1,4.4,"1270 Diamond Springs Road UNIT 109, Virginia Beach",ORF
+327,The Daily Grill,2,4.2,"Michael Robins, General Manager, 2500 North Hollywood Way, Burbank",BUR
+328,Starbucks,2,4.3,"2575 North Hollywood Way Burbank Airport Star Park Facility, Burbank",BUR
+329,Hill Street,2,4.4,"3301 North Glenoaks Boulevard, Burbank",BUR
+330,Subway,1,3.4,"10970 Sherman Way, Burbank",BUR
+331,Subway,1,4.1,"2017 North Hollywood Way, Burbank",BUR
+332,Olive Garden Italian Restaurant,2,4.3,"1741 North Victory Place, Burbank",BUR
+333,Fatburger & Buffalo's Express,2,4.3,"10970 Sherman Way, Burbank",BUR
+334,Coral Cafe,1,4.4,"3321 West Burbank Boulevard, Burbank",BUR
+335,Round Table Pizza,2,4.1,"2408 West Victory Boulevard, Burbank",BUR
+336,Outback Steakhouse,2,4.2,"1761 North Victory Place, Burbank",BUR
+337,Hokkaido Seafood Buffet,2,4,"3030 Cherry Avenue, Long Beach",LGB
+338,Me-n-Ed's Pizza Parlor,2,4.3,"4115 Paramount Boulevard, Lakewood",LGB
+339,Subway,1,3.7,"2605 North Bellflower Boulevard, Long Beach",LGB
+340,Subway,1,4.4,"4207 East Willow Street #8, Long Beach",LGB
+341,Tracy's Bar & Grill,2,4.5,"5511 East Spring Street, Long Beach",LGB
+342,I Luv Sushi,2,4.6,"3215 East Carson Street, Lakewood",LGB
+343,Papa Johns Pizza,1,3.6,"2836 North Bellflower Boulevard, Long Beach",LGB
+344,Rocco's Deli Italiano,2,4.6,"2420 East 28th Street, Signal Hill",LGB
+345,Panda Express,1,3.6,"400 Bald Hill Road #f10, Warwick",PVD
+346,Hooters of Warwick,2,4.3,"667 Airport Road, Warwick",PVD
+347,Upstream Brewing Company,2,4.4,"514 South 11th Street, Omaha",OMA
+348,Starbucks,2,4.3,"222 South 15th Street, Omaha",OMA
+349,Blue Sushi Sake Grill,2,4.5,"416 South 12th Street, Omaha",OMA
+350,801 Chophouse at the Paxton,4,4.7,"1403 Farnam Street, Omaha",OMA
+351,Spaghetti Works,2,4.3,"502 South 11th Street, Omaha",OMA
+352,The Old Mattress Factory Bar & Grill,2,4.3,"501 North 13th Street, Omaha",OMA
+353,DJ's Dugout Sports Bar - Downtown,2,3.8,"1003 Capitol Avenue, Omaha",OMA
+354,Sullivan's Steakhouse,3,4.3,"222 South 15th Street Ste 152 S, Omaha",OMA
+355,Subway,1,3.8,"901 North 24th Street, Omaha",OMA
+356,Crescent Moon,1,4.5,"3578 Farnam Street, Omaha",OMA
+357,QDOBA Mexican Eats,1,3.9,"3021 Poplar Level Road, Louisville",SDF
+358,Subway,1,4,"5400 Preston Highway, Louisville",SDF
+359,Starbucks,2,4,"3103 South 3rd Street, Louisville",SDF
+360,Subway,1,3.9,"5338 South 3rd Street Store B-1A, Louisville",SDF
+361,Subway,1,4.1,"3314 Preston Highway, Louisville",SDF
+362,Vietnam Kitchen,2,4.7,"5339 Mitscher Avenue, Louisville",SDF
+363,Beef 'O' Brady's,2,4,"3101 South 2nd Street, Louisville",SDF
+364,Cobble Stone,2,4.2,"620 Anderson Hill Road, Purchase",HPN
+365,Aquario Restaurant,2,4.5,"141 Lake Street, Harrison",HPN
+366,Olive Garden Italian Restaurant,2,4.2,"178 Wolf Road, Colonie",ALB
+367,O'Toole's Restaurant Pub,2,4.1,"1814 Central Avenue, Albany",ALB
+368,Buca di Beppo Italian Restaurant,2,4.1,"44 Wolf Road, Colonie",ALB
+369,Subway,1,3.8,"155 Wolf Road, Colonie",ALB
+370,Red Lobster,2,4,"170 Wolf Road, Colonie",ALB
+371,Delmonico's Italian Steakhouse,2,4.4,"1553 Central Avenue, Albany",ALB
+372,Golden Corral Buffet & Grill,2,3.9,"4968 Centre Pointe Drive, North Charleston",CHS
+373,Starbucks,2,4.2,"5060 International Boulevard, North Charleston",CHS
+374,Bonefish Grill,2,4.3,"5041 International Boulevard, North Charleston",CHS
+375,Subway,1,4.1,"6072 Rivers Avenue, North Charleston",CHS
+376,Subway,1,4.1,"5633 Dorchester Road Unit E, North Charleston",CHS
+377,Subway,1,4.2,"5506 Crestwood Boulevard, Birmingham",BHM
+378,Krispy Kreme,1,4.2,"8601 1st Avenue North, Birmingham",BHM
+379,Subway,1,3.1,"1600 Montclair Road, Birmingham",BHM
+380,The Honey Baked Ham Company,2,4.6,"7001 Crestwood Boulevard Ste 114, Birmingham",BHM
+381,Irondale Cafe,2,4.4,"1906 1st Avenue North, Irondale",BHM
+382,Subway,1,3.9,"1700 Tallapoosa Street, Birmingham",BHM
+383,Bojangles,1,3.5,"11 South Laburnum Avenue, Richmond",RIC
+384,Olive Garden Italian Restaurant,2,4.1,"4467 South Laburnum Avenue, Henrico",RIC
+385,The Roosevelt,2,4.6,"623 North 25th Street, Richmond",RIC
+386,The Boathouse at Rocketts Landing,3,4.4,"4708 E, Old Main Street, Richmond",RIC
+387,Millie's Diner,2,4.6,"2603 East Main Street, Richmond",RIC
+388,Subway,1,3.8,"73 South Airport Drive, Highland Springs",RIC
+389,Little Caesars Pizza,1,3.4,"5101 South Laburnum Avenue, Richmond",RIC
+390,Cracker Barrel Old Country Store,2,4.2,"4435 South Laburnum Avenue, Richmond",RIC
+391,Alamo BBQ,1,4.3,"2202 Jefferson Avenue, Richmond",RIC
+392,LongHorn Steakhouse,2,4,"4409 South Laburnum Avenue, Richmond",RIC
+393,Ruby Tuesday,2,4,"110 Pooler Parkway, Pooler",SAV
+394,Subway,1,4.2,"950 Morgan's Corner Road, Unit A, Pooler",SAV
+395,Subway,1,3.7,"537 U.S. 80, Garden City",SAV
+396,Cracker Barrel Old Country Store,2,4.1,"1000 U.S. 80, Pooler",SAV
+397,Big Jud's,2,4.6,"1289 South Protest Road, Boise",BOI
+398,Mongolian BBQ,1,4.5,"1808 South Broadway Avenue, Boise",BOI
+399,Subway,1,4,"4115 South Broadway Avenue, Boise",BOI
+400,Subway,1,3.3,"1910 University Dr Student Union Food Court, Boise",BOI
+401,Barbacoa Grill,3,4.6,"276 Bobwhite Court, Boise",BOI
+402,Subway,1,3.3,"2400 South Apple Street, Boise",BOI
+403,Papa Johns Pizza,1,3.7,"1323 South Broadway Avenue, Boise",BOI
+404,Subway,1,3.6,"1265 South Capitol Boulevard Suite 103, Boise",BOI
+405,Ram Restaurant & Brewery,2,3.9,"709 East Park Boulevard, Boise",BOI
+406,Panda Garden,1,4,"2801 West Overland Road, Boise",BOI
+407,Cracker Barrel Old Country Store,2,4.3,"10090 Daniels Parkway, Fort Myers",FMY
+408,Amato's,1,3.3,"364 Maine Mall Road, South Portland",PWM
+409,Sarku Japan,1,4.1,"364 Maine Mall Rd Space #F109, South Portland",PWM
+410,Johnny Rockets,2,3.2,"364 Maine Mall Road, South Portland",PWM
+411,Subway,1,4.2,"456 Payne Road, Scarborough",PWM
+412,Olive Garden Italian Restaurant,2,4.3,"200 Gorham Road #800, South Portland",PWM
+413,Elevation Burger,2,4.1,"85 Western Avenue, South Portland",PWM
+414,OTTO,2,4.5,"576 Congress Street, Portland",PWM
+415,Aura,2,4.1,"121 Center Street, Portland",PWM
+416,Subway,1,3.8,"296 Saint John Street, Portland",PWM
+417,Subway,1,4,"85 Western Avenue Unit 10, Lot 1, South Portland",PWM
+418,Texas Roadhouse,2,4.6,"6707 West Kellogg Drive, Wichita",ICT
+419,Chipotle Mexican Grill,1,4,"7130 West Maple Street Ste 100, Wichita",ICT
+420,Red Lobster,2,4.2,"555 South West Street, Wichita",ICT
+421,Subway,1,3.9,"2424 South West Street, Wichita",ICT
+422,Pizza Hut,1,3.7,"350 S. Ridge Road, Wichita",ICT
+423,Hangar One Steak House,2,4,"5925 West Kellogg Drive, Wichita",ICT
+424,Panera Bread,2,4.2,"420 Ridge Road South, Wichita",ICT
+425,Subway,1,3.7,"6110 West Kellogg Drive, Wichita",ICT
+426,Papa Johns Pizza,1,3.7,"8620 West McCormick Avenue, Wichita",ICT
+427,Side Pockets Wichita,2,4.2,"614 South Tyler Road, Wichita",ICT
+428,Subway,1,3,"4198 Nakoosa Trail, Madison",MSN
+429,Texas Roadhouse,2,4.3,"4841 Annamark Drive, Madison",MSN
+430,Olive Garden Italian Restaurant,2,4.2,"4320 East Towne Boulevard, Madison",MSN
+431,Red Lobster,2,4.2,"EAST TOWNE MALL, 4502 East Towne Boulevard, Madison",MSN
+432,Pedro's Mexican Restaurante,2,3.6,"3555 East Washington Avenue, Madison",MSN
+433,Takumi,2,4.5,"4222 East Towne Boulevard, Madison",MSN
+434,Subway,1,3.9,"3702 East Washington Avenue, Madison",MSN
+435,Denny's,1,3.9,"1798 Thierer Road, Madison",MSN
+436,Maharana Indian Restaurant,2,4.1,"1707 Thierer Road, Madison",MSN
+437,Starbucks,2,4,"4202 East Washington Avenue, Madison",MSN
+438,Bonefish Grill,2,4.5,"1100 East Paris Avenue Southeast, Grand Rapids",GRR
+439,Noto's,3,4.5,"6600 28th Street Southeast, Grand Rapids",GRR
+440,Texas Roadhouse,2,4.3,"3776 28th Street Southeast, Kentwood",GRR
+441,Uccello's Ristorante- East Beltline GR,2,4.3,"2630 East Beltline Avenue Southeast, Grand Rapids",GRR
+442,Panera Bread,2,4.1,"3770 28th Street Southeast, Kentwood",GRR
+443,Olive Garden Italian Restaurant,2,4.3,"3883 28th Street Southeast, Grand Rapids",GRR
+444,Subway,1,4.2,"6260 28th Street Southeast, Grand Rapids",GRR
+445,Sundance Grill & Bar,2,4.2,"5755 28th Street Southeast, Grand Rapids",GRR
+446,Subway,1,3.9,"3983 28th Street Southeast, Grand Rapids",GRR
+447,Subway,1,3.4,"4919 Town Center Drive Southeast, Grand Rapids",GRR
+448,Zombie Burger + Drink Lab,2,4.5,"300 East Grand Avenue, Des Moines",DSM
+449,The Farmhouse Tap & Grill,2,4.4,"160 Bank Street, Burlington",BTV
+450,Pulcinella's,2,4.4,"1710 Shelburne Road, South Burlington",BTV
+451,American Flatbread Burlington Hearth,2,4.7,"115 Saint Paul Street, Burlington",BTV
+452,Windjammer Restaurant,2,4.4,"1076 Williston Road, South Burlington",BTV
+453,The Vermont Pub & Brewery,2,4,"144 College Street, Burlington",BTV
+454,Olive Garden Italian Restaurant,2,4.3,"1025 Shelburne Road, South Burlington",BTV
+455,Little Caesars Pizza,1,3.8,"4105 East Broadway Street, North Little Rock",LIT
+456,Flying Fish,2,4.4,"511 President Clinton Avenue, Little Rock",LIT
+457,Ruby Tuesday,2,4.1,"7611 Thorndike Road, Greensboro",GSO
+458,Golden Corral Buffet & Grill,2,4.1,"8144 East 21st Street, Tulsa",TUL
+459,James E. McNellie's Pub,2,4.5,"409 East 1st Street, Tulsa",TUL
+460,Ruby Tuesday,2,3.9,"7806 East Skelly Drive, Tulsa",TUL
+461,White River Fish Market,2,4.6,"1708 North Sheridan Road, Tulsa",TUL
+462,Subway,1,3,"14002 East 21st Street Suite 1100, Tulsa",TUL
+463,Cracker Barrel Old Country Store,2,4.1,"8008 East 31st Street, Tulsa",TUL
+464,Subway,1,3.8,"7004 East Admiral Place Suite A, Tulsa",TUL
+465,Subway,1,4.1,"1145 South Utica Avenue Suite G-18, Tulsa",TUL
+466,Papa Johns Pizza,1,3.7,"2802 East 11th Street, Tulsa",TUL
+467,Subway,1,3.7,"1911 South Yale Avenue, Tulsa",TUL
+468,McGuire's Irish Pub,2,4.7,"600 East Gregory Street, Pensacola",PNS
+469,Subway,1,2.8,"2650 Creighton Road, Pensacola",PNS
+470,The Fish House,2,4.5,"600 South Barracks Street, Pensacola",PNS
+471,Subway,1,3.9,"8102 North Davis Highway A400, Pensacola",PNS
+472,China Max,1,2.9,"5100 North 9th Avenue, Pensacola",PNS
+473,Seville Quarter,2,4.4,"130 East Government Street, Pensacola",PNS
+474,Bonefish Grill,2,4.3,"5025 North 12th Avenue, Pensacola",PNS
+475,Subway,1,4.3,"Food Court, 8383 North Davis Highway, Pensacola",PNS
+476,Golden Corral Buffet & Grill,2,4,"2260 Langley Avenue, Pensacola",PNS
+477,Krispy Kreme,1,4.5,"980 North 9th Avenue, Pensacola",PNS
+478,Flaming Grill & Supreme Buffet,1,3.9,"53 New Jersey 17, East Rutherford",TEB
+479,Yamato,2,4.2,"17200 Ventura Boulevard #221, Encino",LAX
+480,More Than Waffles,2,4.7,"17200 Ventura Boulevard #109, Encino",LAX
+481,Starbucks,2,4.3,"15355 Sherman Way, Van Nuys",LAX
+482,Buca di Beppo Italian Restaurant,2,4.4,"17500 Ventura Boulevard, Encino",LAX
+483,Salsa & Beer #1,1,4.4,"6740 White Oak Avenue, Lake Balboa",LAX
+484,Las Fuentes Restaurant,1,4.4,"18415 Vanowen Street, Reseda",LAX
+485,Springbok Bar & Grill,2,4.5,"16153 Victory Boulevard, Van Nuys",LAX
+486,Wingstop,2,3.8,"6734 Sepulveda Boulevard, Van Nuys",LAX
+487,Benihana,3,4.1,"16226 Ventura Boulevard, Encino",LAX
+488,Pho So 1,1,4.4,"6450 Sepulveda Boulevard, Van Nuys",LAX
+489,Minervas Restaurant & Bar,2,4.3,"2111 North Lacrosse Street, Rapid City",RAP
+490,Firehouse Brewing Company,2,4,"610 Main Street, Rapid City",RAP
+491,Ruby Tuesday,2,4,"821 Fairmont Boulevard, Rapid City",RAP
+492,Subway,1,3.7,"532 East Anamosa Street, Rapid City",RAP
+493,Subway,1,3.9,"1225 East Saint Patrick Street, Rapid City",RAP
+494,Subway,1,4.1,"2415 Mount Rushmore Road, Rapid City",RAP
+495,Little Caesars Pizza,1,4,"1601 Mount Rushmore Road, Rapid City",RAP
+496,Mongolian Grill,1,4.5,"1415 North Lacrosse Street #1, Rapid City",RAP
+497,Subway,1,3.6,"2200 North Maple Avenue Space #606A, Rapid City",RAP
+498,Subway,1,3.7,"800 Mountain View Road, Rapid City",RAP
+499,Texas Roadhouse,2,4.4,"1125 Franck Street, Alcoa",TYS
+500,Foothills Milling Co,3,4.8,"315 South Washington Street, Maryville",TYS
+501,Ruby Tuesday,2,3.8,"2055 Alcoa Highway, Alcoa",TYS
+502,Subway,1,3.9,"2580 Alcoa Highway, Alcoa",TYS
+503,Subway,1,4.2,"312 South Calderwood Street, Alcoa",TYS
+504,Subway,1,4.2,"1502 E Lamar Alexander Pkwy Highway 321, Maryville",TYS
+505,Subway,1,4.3,"2919 Old Knoxville Highway, Maryville",TYS
+506,Subway,1,4.1,"2041 West Lamar Alexander Parkway, Maryville",TYS
+507,Cheddar's Scratch Kitchen,2,4.1,"250 Hamilton Crossing Drive, Alcoa",TYS
+508,Subway,1,4.2,"1775 West Broadway Avenue, Maryville",TYS
+509,Wingstop,2,3.6,"1964 West Tennessee Street #4, Tallahassee",TLH
+510,Tijuana Flats,1,4.2,"2020 West Pensacola Street #230A, Tallahassee",TLH
+511,Jimmy John's,1,4.2,"1080 West Tennessee Street, Tallahassee",TLH
+512,Sarku Japan,1,3.9,"1500 Apalachee Parkway Space #1065, Tallahassee",TLH
+513,Subway,1,3.2,"4831 East McKinley Avenue, Fresno",FAT
+514,Little Caesars Pizza,1,3.8,"4910 East Kings Canyon Road SUITE 110, Fresno",FAT
+515,Panera Bread,2,4,"2821 University Parkway, Sarasota",SRQ
