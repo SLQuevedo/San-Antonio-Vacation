@@ -1,0 +1,183 @@
+,Restaurant Name,Price Level,Rating,Address,City Code
+0,Buffalo Wild Wings,2,3.6,"1700 Towne Center Lane, Albuquerque",ABQ
+1,Subway,1,4,"1306 Gibson Boulevard Southeast, Albuquerque",ABQ
+2,Dion's,1,4.5,"1600 Towne Center Lane, Albuquerque",ABQ
+3,Applebee's Grill + Bar,2,4,"2000 Yale Boulevard Southeast, Albuquerque",ABQ
+4,Subway,1,3.9,"4503 Biggs Avenue Southeast Building 944, Kirtland Air Force Base",ABQ
+5,Schlotzsky's,1,3.4,"2200 Sunport Boulevard, Albuquerque",ABQ
+6,Fuddruckers,2,4.2,"2120 Yale Boulevard Southeast, Albuquerque",ABQ
+7,Little Caesars Pizza,1,4,"2039 Yale Boulevard Southeast, Albuquerque",ABQ
+8,Chili's Grill & Bar,2,3.9,"1700 Miles Road Southeast, Albuquerque",ABQ
+9,Blake's Lotaburger,1,3.5,"1640 Gibson Boulevard Southeast, Albuquerque",ABQ
+10,Malone's Steak & Seafood,2,4,"1258 Virginia Avenue, Atlanta",ATL
+11,Spondivits,2,3.9,"1219 Virginia Avenue, East Point",ATL
+12,Champions,2,4,"2020 Convention Center Concourse, Atlanta",ATL
+13,Chick-fil-A,1,4.4,"461 North Central Avenue, Hapeville",ATL
+14,Ruby Tuesday,2,3.4,"1230 Virginia Avenue, East Point",ATL
+15,Ruby Tuesday,2,3.7,"1925 Sullivan Road, College Park",ATL
+16,Arby's,1,3.3,"6000 North Terminal Parkway, Atlanta",ATL
+17,Thumbs Up Diner,1,4.5,"1617 White Way, Atlanta",ATL
+18,Cracker Barrel Old Country Store,2,3.9,"1520 West Nursery Road, Linthicum Heights",BWI
+19,Subway,1,4.1,"7502 Connelley Drive Suite 115, Hanover",BWI
+20,Cantina Mamma Lucia,2,4.3,"1350 Dorsey Road unit m, Hanover",BWI
+21,Ruby Tuesday,2,3.5,"950 International Drive, Linthicum Heights",BWI
+22,Domino's Pizza,1,2.9,"7502 Connelley Drive Ste 112, Hanover",BWI
+23,Starbucks,2,4.1,"1700 West Nursery Road, Linthicum Heights",BWI
+24,The Elkridge Furnace Inn,3,4.6,"5745 Furnace Avenue, Elkridge",BWI
+25,The Grill At Quarterfield Station,2,4.5,"7704 Quarterfield Road D, Glen Burnie",BWI
+26,Los Portales,2,4.3,"6938 Aviation Boulevard, Glen Burnie",BWI
+27,Subway,1,4.4,"6938-A Aviation Boulevard, Glen Burnie",BWI
+28,Legal Sea Foods,3,4.2,"Boston Logan International Airport, Terminal A, 1 Harborside Drive, Boston",BOS
+29,Rino's Place,2,4.6,"258 Saratoga Street, Boston",BOS
+30,Santarpio's Pizza,1,4.5,"111 Chelsea Street, Boston",BOS
+31,Seabiscuit,1,4.5,"256 Marginal Street Building 16, Boston",BOS
+32,Angela's Cafe Eagle Hill,1,4.7,"131 Lexington Street, Boston",BOS
+33,Subway,1,4.1,"13 William Kelly Square, East Boston",BOS
+34,Rincon Limeño,2,4.5,"Day Square, 409 Chelsea Street, East Boston",BOS
+35,Subway,1,3,"3240 Wilkinson Boulevard, Charlotte",CLT
+36,Jocks & Jills,2,4.1,"4109 South Stream Boulevard, Charlotte",CLT
+37,Cracker Barrel Old Country Store,2,4.2,"3203 Queen City Drive, Charlotte",CLT
+38,Waffle House,1,3.9,"3309 Queen City Drive, Charlotte",CLT
+39,Little Caesars Pizza,1,3.7,"3220 Wilkinson Boulevard Suite A-1, Charlotte",CLT
+40,Subway,1,4.2,"2904 Yorkmont Road # A, Charlotte",CLT
+41,Subway,1,3.8,"2504 Little Rock Road, Charlotte",CLT
+42,McDonald's,1,3.4,"2820 Boyer Street, Charlotte",CLT
+43,Bar-B-Q King,1,4.4,"2900 Wilkinson Boulevard, Charlotte",CLT
+44,Showmars,1,3.9,"2540 Little Rock Road, Charlotte",CLT
+45,McDonald's,1,3.4,"535 Airport Creek Point, Colorado Springs",COS
+46,The Airplane Restaurant,2,4.1,"1665 Newport Road, Colorado Springs",COS
+47,Mandarin Chef Express,2,3.8,"2525 Chelton Road, Colorado Springs",COS
+48,Domino's Pizza,1,4,"3025 Jet Wing Drive, Colorado Springs",COS
+49,Subway,1,3.8,"1455 South Murray Boulevard, Colorado Springs",COS
+50,Pizza Hut Express,1,4,"Colorado Springs Airport, 7770 Milton E Proby Parkway, Colorado Springs",COS
+51,Subway,1,2.3,"1030 Stewart Avenue bldg 2017, Peterson Space Force Base",COS
+52,Taco Bell,1,2.8,"1030 Stewart Avenue, Colorado Springs",COS
+53,Sura Korean Restaurant,2,4.6,"1683 Jet Wing Drive, Colorado Springs",COS
+54,Circle K,1,3.3,"1740 Jet Wing Drive, Colorado Springs",COS
+55,Neighborhood Services,3,4.5,"5027 West Lovers Lane, Dallas",DFW
+56,Subway,1,3.7,"8445 Freeport Parkway, Irving",DFW
+57,Sweetwater Mountain Taphouse,2,4,"8500 Peña Boulevard, Denver",DEN
+58,Denver ChopHouse,2,3.2,"8500 Peña Boulevard, Denver",DEN
+59,CRÚ Food & Wine Bar,2,4.1,"8500 Peña Boulevard, Denver",DEN
+60,Panda Express,1,2,"8500 Pena Boulevard, Denver",DEN
+61,Caribou Coffee,2,2.9,"8500 Peña Boulevard, Denver",DEN
+62,Chick-fil-A,1,4.2,"8500 Peña Boulevard, Denver",DEN
+63,McDonald's,1,2.8,"8400 Peña Boulevard, Denver",DEN
+64,Subway,1,2.2,"8400 Pena Blvd Jeppsen, Terminal West Side 5, Denver",DEN
+65,National Coney Island,1,3.7,"North Terminal, across from Gates D15/D16, West G Rogell Drive, Detroit",DTT
+66,The Landing Strip Lounge,2,3.4,"36431 Goddard Road, Romulus",DTT
+67,Subway,1,3.3,"30795 Eureka Road, Romulus",DTT
+68,Subway,1,4.2,"Cielo Vista Mall, Unit M06, El Paso",ELP
+69,Los Bandidos De Carlos & Mickey's,2,4.4,"1310 Magruder Street, El Paso",ELP
+70,Chinese Gourmet Express,1,3.5,"8401 Gateway Boulevard West W - L4, El Paso",ELP
+71,Chinese Gourmet Express,1,3.1,"6101 Gateway Boulevard West, El Paso",ELP
+72,Subway,1,3.9,"8660 Montana Avenue Suite K, El Paso",ELP
+73,Hooters,2,4,"1170 Sunmount Drive, El Paso",ELP
+74,Little Caesars Pizza,1,3.8,"8900 Viscount Boulevard, El Paso",ELP
+75,Olive Garden Italian Restaurant,2,4.3,"8401 Gateway Boulevard West, El Paso",ELP
+76,Cattle Baron,2,4.3,"1700 Airway Boulevard, El Paso",ELP
+77,McDonald's,1,3.8,"7101 Gateway Boulevard West, El Paso",ELP
+78,Chili's,2,3.9,"Local 2 Carretera, Guadalajara - Chapala",GDL
+79,Wings Aeropuerto,2,3.9,ጓዳላኻራ - ቻፓላ መንገድ,GDL
+80,Pappas Bar-B-Q,2,4.1,"7800 Airport Boulevard Space T - 01, Houston",HOU
+81,Pappas Burger,2,4.3,"7800 Airport Boulevard Space C14, Houston",HOU
+82,Waffle House,1,4.2,"1720 College Avenue, Houston",HOU
+83,Hofbrauhaus - Las Vegas Nevada,2,4.4,"4510 Paradise Road, Las Vegas",LAS
+84,Quiznos,1,4,"Terminal 1, 5757 Wayne Newton Blvd D Gate, Las Vegas",LAS
+85,Metro Pizza,2,4.4,"1395 East Tropicana Avenue, Las Vegas",LAS
+86,Crown & Anchor British Pub,2,4.4,"1350 East Tropicana Avenue, Las Vegas",LAS
+87,FreeZone,1,4.4,"610 East Naples Drive, Las Vegas",LAS
+88,In-N-Out Burger,1,4.6,"9149 South Sepulveda Boulevard, Los Angeles",LAX
+89,Panera Bread,2,4,"8647 South Sepulveda Boulevard, Westchester",LAX
+90,Subway,1,4.1,"6151 West Century Boulevard Suite 104, Los Angeles",LAX
+91,Sanborns Aéropuerto,2,4.2,"Boulevard Puerto Aéreo 123, Moctezuma 2da Sección, Ciudad de México",MEX
+92,La Mansión,3,4.5,"Calle Fundidora Monterrey No. 89 - 1 PB Col, Peñón de los Baños, Ciudad de México",MEX
+93,94th Aero Squadron Restaurant,2,4.4,"1395 Northwest 57th Avenue, Miami",MIA
+94,Burger King,1,2.5,"5505 Blue Lagoon Drive, Miami",MIA
+95,Island Chicken Grill,2,1.3,"2100 Northwest 42nd Avenue, Miami",MIA
+96,Au Bon Pain,2,2,"2100 Northwest 42nd Avenue, Miami",MIA
+97,Buca di Beppo Italian Restaurant,2,4.2,"2728 Gannon Road, Saint Paul",MSP
+98,5-8 Club,1,4.4,"5800 Cedar Avenue, Minneapolis",MSP
+99,Darfons Restaurant + Bar,2,4.6,"2810 Elm Hill Pike, Nashville",BNA
+100,McNamara's Irish Pub & Restaurant,2,4.7,"2740 Old Lebanon Road, Nashville",BNA
+101,Monell's At the Manor,2,4.7,"1400 Murfreesboro Pike, Nashville",BNA
+102,Shoney's,1,3.9,"546 Donelson Pike, Nashville",BNA
+103,Subway,1,3.6,"857 Briley Parkway, Nashville",BNA
+104,Dunkin',1,3.9,"847 Briley Parkway, Nashville",BNA
+105,New Dragon Phoenix,1,4,"2828 Elm Hill Pike, Nashville",BNA
+106,McDonald's,1,3.5,"545 Donelson Pike, Nashville",BNA
+107,Subway,1,3.8,"1631 Elm Hill Pike, Nashville",BNA
+108,Papa Johns Pizza,1,3.1,"2745 Lebanon Pike, Nashville",BNA
+109,Olive Garden Italian Restaurant,2,4.2,"1315 West Esplanade Avenue, Kenner",MSY
+110,Harbor Seafood & Oyster Bar,2,4.4,"3201 Williams Boulevard, Kenner",MSY
+111,Subway,1,3.9,"2629 Williams Boulevard, Kenner",MSY
+112,Subway,1,3.7,"181 West Airline Highway, Kenner",MSY
+113,Subway,1,3.7,"2705 Veterans Boulevard Space D, Kenner",MSY
+114,Fiesta Latina,1,4.2,"1924 Airline Drive, Kenner",MSY
+115,Subway,1,4.2,"2309 David Drive A, Metairie",MSY
+116,Subway,1,4.1,"303 West Esplanade Avenue Suite A, Kenner",MSY
+117,Papa Johns Pizza,1,3.7,"2700 David Drive, Metairie",MSY
+118,Starbucks,2,4.1,"2705 Veterans Memorial Boulevard, Kenner",MSY
+119,Buffalo Wild Wings,2,2.9,"John F. Kennedy International Airport, Terminal 4, Queens",NYC
+120,The Palm JFK Airport,4,2.9,"Terminal 4 Departures, Queens",NYC
+121,Shake Shack,2,4,"Terminal 4 Departures, Queens",NYC
+122,Eat&Go New York/ Istanbul,2,2.9,"John F. Kennedy International Airport, Terminal 1, JFK Access Road",NYC
+123,Tigin Irish Pub,3,3.4,"Terminal 4, JFK International Airport, Jamaica",NYC
+124,Valenca,2,4.5,"665 Monroe Avenue, Elizabeth",NYC
+125,Cheeburger Cheeburger,2,3.3,"Terminal A, Newark",NYC
+126,Market Fresh,2,3,"Newark International Airport, 1 Brewster Road, Newark",NYC
+127,Jamba EWR - Newark Airport - C,1,3.8,"Newark Airport Terminal C Space C3-R7, Newark",NYC
+128,Nathan's Famous,1,3.4,"651 Kapkowski Road, Elizabeth",NYC
+129,Earl of Sandwich,1,2.2,"Newark International Airport Terminal A Box #15, Newark",NYC
+130,Currito,1,2.2,"1 Brewster Road, Newark",NYC
+131,Olive Garden Italian Restaurant,2,4.1,"2321 West Interstate 240 Service Road, Oklahoma City",OKC
+132,Subway,1,4.1,"3233 Southwest 89th Street, Oklahoma City",OKC
+133,Subway,1,3.8,"6021 South May Avenue, Oklahoma City",OKC
+134,Outback Steakhouse,2,4.2,"2219 West Interstate 240 Service Road, Oklahoma City",OKC
+135,Subway,1,3.9,"3000 Southwest 104th Street, Oklahoma City",OKC
+136,Starbucks,2,4,"1506 Southwest 74th Street, Oklahoma City",OKC
+137,Papa Johns Pizza,1,3.3,"2204 Southwest 74th Street, Oklahoma City",OKC
+138,Little Caesars Pizza,1,3.9,"4701 South May Avenue, Oklahoma City",OKC
+139,Domino's Pizza,1,3.6,"2929 South Meridian Avenue, Oklahoma City",OKC
+140,Saltgrass Steak House,2,4.1,"1445 West Interstate 240 Service Road Suite 13, Oklahoma City",OKC
+141,Riverwinds Restaurant,3,4.4,"1075 Riverwinds Drive, West Deptford",PHL
+142,Philly Pretzel Factory,1,3.4,"8000 Essington Avenue, Philadelphia",PHL
+143,Ruby Tuesday,2,3.8,"8680 Bartram Avenue, Philadelphia",PHL
+144,Subway,1,3.7,"2900 Island Avenue Suite 2936, Philadelphia",PHL
+145,Barrio Cafe,2,2.8,"3400 East Sky Harbor Boulevard Terminal 4, Phoenix",PHX
+146,Wendy's,1,3.3,"Terminal 4, 3400 East Sky Harbor Boulevard, Phoenix",PHX
+147,McDonald's,1,3.3,"3400 East Sky Harbor Boulevard, Phoenix",PHX
+148,Squatters Pub Brewery SLC Airport,2,4.2,"776 N Terminal Dr Terminal A, Salt Lake City",SLC
+149,Subway,1,4,"5480 West Amelia Earhart Drive, Salt Lake City",SLC
+150,Little Caesars Pizza,1,3.5,"1625 West 700 North G, Salt Lake City",SLC
+151,Roberts Restaurant,1,4.1,"145 North Wright Brothers Drive, Salt Lake City",SLC
+152,Subway,1,3.6,"1645 West 700 North P, Salt Lake City",SLC
+153,Subway,1,3.5,"1704 West North Temple Street, Salt Lake City",SLC
+154,The Pearl Hotel,2,4.5,"1410 Rosecrans Street, San Diego",SAN
+155,Cosmopolitan Hotel and Restaurant,2,4.3,"2660 Calhoun Street, San Diego",SAN
+156,Extraordinary Desserts,2,4.4,"1430 Union Street, San Diego",SAN
+157,Stone Brewing World Bistro & Gardens – Liberty Station,2,4.4,"2816 Historic Decatur Road UNIT 116, San Diego",SAN
+158,Buca di Beppo Italian Restaurant,2,4.1,"705 Sixth Avenue, San Diego",SAN
+159,Phil's BBQ,2,4.6,"3750 Sports Arena Boulevard, San Diego",SAN
+160,Extraordinary Desserts,2,4.4,"2870 Fourth Avenue, San Diego",SAN
+161,Slater’s 50/50,2,4.2,"2750 Dewey Road #193, San Diego",SAN
+162,Il Fornaio Burlingame,2,4.2,"327 Lorton Avenue, Burlingame",SFO
+163,"Kincaid's Fish, Chop & Steakhouse",3,4.2,"60 Bayview Place, Burlingame",SFO
+164,Stacks,2,4.3,"361 California Drive, Burlingame",SFO
+165,Basque Cultural Center,2,4.4,"599 Railroad Avenue, South San Francisco",SFO
+166,Millbrae Pancake House,2,4.4,"1301 El Camino Real, Millbrae",SFO
+167,Cedarbrook Lodge,4,4.7,"18525 36th Avenue South, Seattle",SEA
+168,Waffle House,1,4.2,"4525 James S. McDonnell Boulevard, Berkeley",STL
+169,Subway,1,4.2,"4484 Woodson Road, St. Louis",STL
+170,The Cheesecake Factory,2,4.3,"2223 North Westshore Boulevard, Tampa",TPA
+171,Earl of Sandwich,1,4,"2223 N Westshore Blvd, FC-206 International Mall International Mall Food Court, Tampa",TPA
+172,Stone's Cove Kitbar,2,4.4,"2403 Centreville Road, Herndon",WAS
+173,Subway,1,2.8,"Z Gates Post Security, 45020 Aviation Drive Sf, Sterling",WAS
+174,NED DEVINE'S IRISH GASTRO PUB & RESTAURANT,2,4.2,"2465 Centreville Road, Herndon",WAS
+175,Amphora Diner Deluxe,2,4.2,"1151 Elden Street, Herndon",WAS
+176,Dulles Kabob,1,4.3,"23520 Overland Drive, Sterling",WAS
+177,Punjabi Junction,2,4.1,"23520 Overland Drive Ste 122, Sterling",WAS
+178,Subway,1,4.1,"23050 Pacific Boulevard, Sterling",WAS
+179,TGI Fridays,2,3.7,"13071 Worldgate Drive, Herndon",WAS
+180,Subway,1,3.7,"13053 Worldgate Drive Unit 14, Herndon",WAS
+181,Mellow Mushroom Herndon,2,4.2,"1030 Elden Street, Herndon",WAS
