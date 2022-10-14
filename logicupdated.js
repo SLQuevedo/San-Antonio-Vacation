@@ -1,5 +1,5 @@
 //fetch json file
-fetch("./airportupdated.json")
+fetch("airportupdated.json")
     .then(response => {
         return response.json();
     })
