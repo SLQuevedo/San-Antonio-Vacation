@@ -7,6 +7,7 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Vacation Flights</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 
 <body>
@@ -33,15 +34,22 @@
       </div>
     </div>
     <div class="row">
-      <div class="col-md-12">
-        <div id="bubble"></div>
+      <div class="col-md-5">
+        <canvas id="myChart" ></canvas>
       </div>
     </div>
+    <div class="row">
+      <div class="col-md-5">
+        <canvas id="myChart2" ></canvas>
+      </div>
+    </div>
+
   </div>
 
   <script src="https://d3js.org/d3.v5.min.js"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-  <script src="visualizations.json"></script>
+  <script src="visualizations.js"></script>
+
 
   
 </body>
