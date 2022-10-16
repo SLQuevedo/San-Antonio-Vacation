@@ -105,6 +105,21 @@ buildHotel();
 //  // Initialize the dashboard
 //init();
 
+function buildMetadata(sample) {
+    d3.json("airportsfixed.json").then((data) => {
+      var metadata= data.metadata;
+      var resultsarray= metadata.filter(sampleobject => sampleobject.nameAirport == sample);
+      var result= resultsarray[0];
+      
+      var panel = d3.select("selDataset");
+      panel.html("");
+      Object.entries(result).forEach(([key, value]) => {
+        console.log(result);
+        panel.append("h5").text(`${key}: ${value}`);
+      });
+    });
+};
+
 
 
 
