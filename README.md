@@ -6,8 +6,9 @@ Our webpage explores and visualizes 105 possible vacation destinations to visit 
 
  In addition, an international map is included that marks each destination city. Further interaction with the marker in each city displays additional information.
  
-We used the following original data sources for this project: https://transtats.bts.gov/AIRFARES/
+We used the following original data sources for this project: 
 
+- https://transtats.bts.gov/AIRFARES/
 - https://aviation-edge.com/developers/
 - https://openweathermap.org/api
 - https://flysanantonio.com/home/flights/nonstop-destinations/
