@@ -157,6 +157,46 @@ function buildHotel(sample){
         });
     };
 
+Temp = [56.01, 56.64, 53.96, 49.5, 78.73, 57.2, 46.08, 46.9, 76.96, 76.59, 50.34, 41.99, 66.83, 62.37, 72.25, 72.25, 53.89, 68.99, 64.45, 63.9, 60.19, 79.32, 43.03, 73.56, 59.38, 67.21, 56.01, 56.01, 62.58, 69.08, 52.38, 65.86, 53.33, 63.37, 61.16, 57.69, 48.47, 71.33, 53.4,56.01, 56.64, 53.96, 49.5, 78.73, 56.95, 46.08, 46.9, 76.96, 76.59, 50.34, 41.99, 66.83, 62.37, 72.25, 72.25, 53.89, 68.99, 64.45, 63.9, 60.19, 79.29, 42.76, 73.56, 59.18, 67.21, 56.03, 56.03, 62.58, 69.08, 52.38, 65.86, 53.33, 63.37, 61.16, 57.69, 48.47, 71.33, 53.4]
+
+function buildTemp(sample) {
+        //create gauge chart here so that it takes the temp from this result
+        var data = [
+          {
+            type: "indicator",
+            mode: "gauge+number",
+            value: Temp[0],
+  
+            gauge: {
+              axis: { range: [32, 100], ticks: 4},
+              steps: [
+                { range: [32, 50], color: "blue"},
+                { range: [50, 70], color: "yellow"},
+                { range: [70, 85], color: "orange"},
+                { range: [85, 100], color: "red"}
+              ],
+              threshold: {
+                line: { color: "red", width: 3 },
+                thickness: 0.75,
+                value: Temp[0]
+  
+              }
+            }
+          }
+        ];
+        var gaugelayout = {
+            title: "Current Temperature in City",
+            margin:  { t: 0, b: 0 },
+            width: 600,
+            height: 450
+        };
+          Plotly.newPlot('gauge', data, gaugelayout);
+        
+        };
+
+          
+
+
 // buildRestaurant();
 // buildHotel();
 
@@ -213,6 +253,7 @@ var sample1 = document.getElementById("selDataset").value;
    const firstSample = (sample1);
    buildRestaurant(firstSample);
    buildHotel(firstSample);
+   buildTemp(firstSample);
  ;
 
 function optionChanged(newSample) {
@@ -250,16 +291,3 @@ init();
 //       });
 //     });
 // };
-
-
-
-
-
-
-
-
-
-
-
-
-
