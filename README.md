@@ -4,7 +4,9 @@
 
 Our webpage explores and visualizes 105 possible vacation destinations to visit by flight from San Antonio, Texas. 39 locations are available through direct flights and 46 are available through flights with a layover. Information collected about each possible destination city includes the weather there, the choice of several hotels nearby, and several different possible activities to engage in while vacationing this fall.
 
- In addition, an international map is included that marks each destination city. Further interaction with the marker in each city displays additional information.
+An international map is included that marks each destination city. Further interaction with the marker in each city displays additional information.
+
+In addition, we built a FLASK app to explore the different restaurant options available. 
  
 We used the following original data sources for this project: 
 
@@ -44,6 +46,8 @@ We transformed our datasets with the above information to be able to get the mos
 
 ## Load
 The final database we used to obtain Best rated Hotel and Restaurants. 
+
+Our final data is stored in SQL as shown in airports.SQL
 
 We chose a relational database because our datasets because of it easy to use functionalities. 
 
