@@ -25,7 +25,7 @@ We used the following original data sources for this project:
 - [Transform](#transform)
 - [Load](#load)
 - [Credits](#credits)
-- [Results](#rsults)
+- [Results](#results)
 
 
 
