@@ -186,7 +186,7 @@ function buildTemp(sample) {
         ];
         var gaugelayout = {
             title: "Current Temperature in City",
-            margin:  { t: 0, b: 0 },
+            margin:  { t: -3, b: 0 },
             width: 600,
             height: 450
         };
